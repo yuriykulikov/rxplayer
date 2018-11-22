@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/09e529f2f858484d914bd734f7337bf0)](https://app.codacy.com/app/yuriy.kulikov.87/rxplayer?utm_source=github.com&utm_medium=referral&utm_content=yuriykulikov/rxplayer&utm_campaign=Badge_Grade_Dashboard)
+
 You can use the [editor on GitHub](https://github.com/yuriykulikov/rxplayer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

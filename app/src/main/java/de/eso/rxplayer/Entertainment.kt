@@ -1,7 +1,10 @@
 package de.eso.rxplayer
 
+import de.eso.rxplayer.Audio.AudioState
+import de.eso.rxplayer.Audio.Connection
 import io.reactivex.Completable
 import io.reactivex.Observable
+
 
 /**
  * A facade for a simple entertainment player.
@@ -54,7 +57,7 @@ interface Audio {
     fun stop(connection: Connection)
 
     /** Gradually ramps up the volume of a [AudioState.STARTED] connection. */
-    fun fageId(connection: Connection): Completable
+    fun fadeIn(connection: Connection): Completable
 
     /** Gradually ramps down the volume of a [AudioState.STARTED] connection. */
     fun fadeOut(connection: Connection): Completable
@@ -121,10 +124,33 @@ interface Speaker {
 data class Station(val name: String)
 
 data class Track(
-        val artist: String,
-        val album: String,
+        val id: Int,
+        val albumId: Int,
+        val artistId: Int,
+        val title: String,
+        val duration: Int,
+        val createdAt: String,
+        val updatedAt: String
+)
+
+data class Artist(
         val name: String,
-        val length: Int
+        val createdAt: String,
+        val updatedAt: String,
+        val id: Int
+)
+
+data class Album(
+        val id: Int,
+        val name: String,
+        val artistId: Int,
+        val cover: String,
+        val coverSmall: String,
+        val coverMedium: String,
+        val coverBig: String,
+        val coverXl: String,
+        val createdAt: String,
+        val updatedAt: String
 )
 
 data class SpeakerState(

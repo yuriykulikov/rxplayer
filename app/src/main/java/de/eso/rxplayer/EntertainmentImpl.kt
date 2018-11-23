@@ -9,6 +9,7 @@ import io.reactivex.disposables.Disposables
 import io.reactivex.subjects.BehaviorSubject
 import java.util.concurrent.TimeUnit
 
+
 class EntertainmentImpl(private val scheduler: Scheduler) : Entertainment {
     override val audio: Audio = AudioImpl(scheduler)
     override val usb: Player = PlayerImpl(scheduler, audio)
@@ -42,25 +43,63 @@ class RadioImpl(private val scheduler: Scheduler, audio: Audio) : Radio {
 
 }
 
-class PlayerImpl(private val scheduler: Scheduler, audio: Audio) : Player {
+class PlayerImpl(private val scheduler: Scheduler, private val audio: Audio) : Player {
+    private var trackList: List<Track> = emptyList()
+    private val activeTrackIndex: BehaviorSubject<Int> = BehaviorSubject.createDefault(-1)
+    private var disposable: Disposable? = null
+
     override fun nowPlaying(): Observable<Int> {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+        return activeTrackIndex.hide()
     }
 
     override fun play(): Completable {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+        var completable = Completable.never()
+        audio.observe(Audio.Connection.RADIO)
+                .filter { nextState -> nextState == Audio.AudioState.STARTED }
+                .subscribe(
+                        {
+                            disposable = list()
+                                    .map { it[activeTrackIndex.value!!].duration }
+                                    .flatMap { duration -> Observable.timer(duration.toLong(), TimeUnit.SECONDS, scheduler) }
+                                    .subscribe { _ ->
+                                        run {
+                                            activeTrackIndex.onNext(activeTrackIndex.value?.plus(1)!!)
+                                            disposable?.dispose()
+                                        }
+                                    }
+                            completable = Completable.complete()
+                        },
+                        { err -> println(err.message) }
+                )
+        audio.start(Audio.Connection.RADIO)
+        return completable.doOnComplete{ audio.fadeIn(Audio.Connection.RADIO) }
     }
 
     override fun pause(): Completable {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+        var completable = Completable.never()
+        audio.observe(Audio.Connection.RADIO)
+                .filter { nextState -> nextState == Audio.AudioState.STARTED }
+                .subscribe(
+                        {
+                            disposable?.dispose()
+                            completable = Completable.complete()
+                        },
+                        { err -> println(err.message) }
+                )
+        audio.stop(Audio.Connection.RADIO)
+        return completable.doOnComplete{ audio.fadeOut(Audio.Connection.RADIO)}
     }
 
     override fun select(index: Int): Completable {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+        activeTrackIndex.onNext(index)
+        return Completable.fromObservable(activeTrackIndex).subscribeOn(scheduler)
     }
 
     override fun list(): Observable<List<Track>> {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+        if (trackList.isEmpty()) {
+            trackList = JSONUtils().readTrackFile()
+        }
+        return Observable.just(trackList)
     }
 
 }
@@ -115,17 +154,17 @@ class AudioImpl(private val scheduler: Scheduler) : Audio {
                 pending = Single.timer(1, TimeUnit.SECONDS, scheduler)
                         .subscribe { _ -> subject.onNext(Audio.AudioState.STOPPED) }
             } else {
-                subject.onError(IllegalStateException("[AudioImpl.start] Can't stop $connection because it is ${subject.value}"))
+                subject.onError(IllegalStateException("[AudioImpl.stop] Can't stop $connection because it is ${subject.value}"))
             }
         }
     }
 
-    override fun fageId(connection: Audio.Connection): Completable {
+    override fun fadeIn(connection: Audio.Connection): Completable {
         return Completable.defer {
             val subject = subjectFor(connection)
             return@defer when {
                 subject.value == Audio.AudioState.STARTED -> Completable.timer(1, TimeUnit.MILLISECONDS, scheduler)
-                else -> Completable.error(IllegalStateException("[AudioImpl.start] Can't fageId $connection because it is ${subject.value}"))
+                else -> Completable.error(IllegalStateException("[AudioImpl.fadeIn] Can't fadeIn $connection because it is ${subject.value}"))
             }
         }.subscribeOn(scheduler)
     }
@@ -135,7 +174,7 @@ class AudioImpl(private val scheduler: Scheduler) : Audio {
             val subject = subjectFor(connection)
             return@defer when {
                 subject.value == Audio.AudioState.STARTED -> Completable.timer(1, TimeUnit.MILLISECONDS, scheduler)
-                else -> Completable.error(IllegalStateException("[AudioImpl.start] Can't fadeOut $connection because it is ${subject.value}"))
+                else -> Completable.error(IllegalStateException("[AudioImpl.fadeOut] Can't fadeOut $connection because it is ${subject.value}"))
             }
         }.subscribeOn(scheduler)
     }

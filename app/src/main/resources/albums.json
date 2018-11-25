@@ -1,0 +1,3126 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Fetty Wap",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/11227614/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/f14becbb0d888cd5457d18d3bb670731/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/f14becbb0d888cd5457d18d3bb670731/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/f14becbb0d888cd5457d18d3bb670731/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/f14becbb0d888cd5457d18d3bb670731/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.220Z",
+    "updatedAt": "2017-08-21T06:20:32.220Z"
+  },
+  "2": {
+    "id": 2,
+    "name": "The Way You Used To Do",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/43044261/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/c060a47c41f01753ab8daee850f674d9/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/c060a47c41f01753ab8daee850f674d9/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/c060a47c41f01753ab8daee850f674d9/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/c060a47c41f01753ab8daee850f674d9/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.232Z",
+    "updatedAt": "2017-08-21T06:20:32.232Z"
+  },
+  "3": {
+    "id": 3,
+    "name": "A Night At The Opera",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/915786/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/201607ab9cd92a1f977659c7c524cadf/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/201607ab9cd92a1f977659c7c524cadf/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/201607ab9cd92a1f977659c7c524cadf/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/201607ab9cd92a1f977659c7c524cadf/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.235Z",
+    "updatedAt": "2017-08-21T06:20:32.235Z"
+  },
+  "4": {
+    "id": 4,
+    "name": "No Diggity: The Very Best Of Blackstreet",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/103254/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/dae7a265b79fb71278cde2504849d6f7/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/dae7a265b79fb71278cde2504849d6f7/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/dae7a265b79fb71278cde2504849d6f7/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/dae7a265b79fb71278cde2504849d6f7/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.236Z",
+    "updatedAt": "2017-08-21T06:20:32.236Z"
+  },
+  "5": {
+    "id": 5,
+    "name": "The Game",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/1121182/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/9a20f8b2547cbb74635539c219de3a84/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/9a20f8b2547cbb74635539c219de3a84/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/9a20f8b2547cbb74635539c219de3a84/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/9a20f8b2547cbb74635539c219de3a84/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.247Z",
+    "updatedAt": "2017-08-21T06:20:32.247Z"
+  },
+  "6": {
+    "id": 6,
+    "name": "Jazz",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/1121401/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/fb22a75aa1aafc992230abd0bd79faef/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/fb22a75aa1aafc992230abd0bd79faef/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/fb22a75aa1aafc992230abd0bd79faef/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/fb22a75aa1aafc992230abd0bd79faef/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.248Z",
+    "updatedAt": "2017-08-21T06:20:32.248Z"
+  },
+  "7": {
+    "id": 7,
+    "name": "Queen Of The Clouds",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/9440090/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/7fcc376f2479f08c45af39616c40991d/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/7fcc376f2479f08c45af39616c40991d/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/7fcc376f2479f08c45af39616c40991d/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/7fcc376f2479f08c45af39616c40991d/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.261Z",
+    "updatedAt": "2017-08-21T06:20:32.261Z"
+  },
+  "8": {
+    "id": 8,
+    "name": "Songs For The Deaf",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/662259/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/ace9490e8fe0c7468b102aa5145fb766/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/ace9490e8fe0c7468b102aa5145fb766/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/ace9490e8fe0c7468b102aa5145fb766/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/ace9490e8fe0c7468b102aa5145fb766/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.275Z",
+    "updatedAt": "2017-08-21T06:20:32.275Z"
+  },
+  "9": {
+    "id": 9,
+    "name": "News Of The World",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/1121181/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/c43a1011106beda256e5371be1b00271/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/c43a1011106beda256e5371be1b00271/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/c43a1011106beda256e5371be1b00271/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/c43a1011106beda256e5371be1b00271/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.277Z",
+    "updatedAt": "2017-08-21T06:20:32.277Z"
+  },
+  "10": {
+    "id": 10,
+    "name": "Best Of Bowie",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/303413/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/0a1daf96211c7d0d662eab97b5e6e337/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/0a1daf96211c7d0d662eab97b5e6e337/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/0a1daf96211c7d0d662eab97b5e6e337/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/0a1daf96211c7d0d662eab97b5e6e337/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.280Z",
+    "updatedAt": "2017-08-21T06:20:32.280Z"
+  },
+  "11": {
+    "id": 11,
+    "name": "Greatest Hits II",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/726319/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/fa63381faefb51fba501498bc836765a/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/fa63381faefb51fba501498bc836765a/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/fa63381faefb51fba501498bc836765a/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/fa63381faefb51fba501498bc836765a/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.291Z",
+    "updatedAt": "2017-08-21T06:20:32.291Z"
+  },
+  "12": {
+    "id": 12,
+    "name": "ABBA Gold",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/100323/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.292Z",
+    "updatedAt": "2017-08-21T06:20:32.292Z"
+  },
+  "13": {
+    "id": 13,
+    "name": "Innuendo",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/1236002/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/3d850ae7323552bc7407f17ca1d68fbe/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/3d850ae7323552bc7407f17ca1d68fbe/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/3d850ae7323552bc7407f17ca1d68fbe/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/3d850ae7323552bc7407f17ca1d68fbe/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.311Z",
+    "updatedAt": "2017-08-21T06:20:32.311Z"
+  },
+  "14": {
+    "id": 14,
+    "name": "Greatest Hits",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/6605779/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/0ee9db13f162df61408ee5e2173155f4/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/0ee9db13f162df61408ee5e2173155f4/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/0ee9db13f162df61408ee5e2173155f4/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/0ee9db13f162df61408ee5e2173155f4/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.321Z",
+    "updatedAt": "2017-08-21T06:20:32.321Z"
+  },
+  "15": {
+    "id": 15,
+    "name": "Era Vulgaris",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/671344/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/66f88fc9b5aba33cae55bdefe540151b/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/66f88fc9b5aba33cae55bdefe540151b/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/66f88fc9b5aba33cae55bdefe540151b/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/66f88fc9b5aba33cae55bdefe540151b/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.323Z",
+    "updatedAt": "2017-08-21T06:20:32.323Z"
+  },
+  "16": {
+    "id": 16,
+    "name": "Soul Queen",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/213969/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/17ddf7bcd215684e2a6c3ee287078ce7/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/17ddf7bcd215684e2a6c3ee287078ce7/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/17ddf7bcd215684e2a6c3ee287078ce7/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/17ddf7bcd215684e2a6c3ee287078ce7/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.325Z",
+    "updatedAt": "2017-08-21T06:20:32.325Z"
+  },
+  "17": {
+    "id": 17,
+    "name": "The Best Of 1980/1987",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/300562/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/cf8077393ad2fc7baa777afeddf6c7b5/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/cf8077393ad2fc7baa777afeddf6c7b5/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/cf8077393ad2fc7baa777afeddf6c7b5/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/cf8077393ad2fc7baa777afeddf6c7b5/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.371Z",
+    "updatedAt": "2017-08-21T06:20:32.371Z"
+  },
+  "18": {
+    "id": 18,
+    "name": "Young For Eternity",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/95176/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/4feac11697c9065907c20eba77d6e164/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/4feac11697c9065907c20eba77d6e164/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/4feac11697c9065907c20eba77d6e164/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/4feac11697c9065907c20eba77d6e164/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.373Z",
+    "updatedAt": "2017-08-21T06:20:32.373Z"
+  },
+  "19": {
+    "id": 19,
+    "name": "This Is War",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/435711/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/c6acfe21f9c9b7c9ccc8830b82254a2f/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/c6acfe21f9c9b7c9ccc8830b82254a2f/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/c6acfe21f9c9b7c9ccc8830b82254a2f/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/c6acfe21f9c9b7c9ccc8830b82254a2f/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.391Z",
+    "updatedAt": "2017-08-21T06:20:32.391Z"
+  },
+  "20": {
+    "id": 20,
+    "name": "Abraxas",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/7740828/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/a2e25782bf1639818d5204fa78b5a5a5/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/a2e25782bf1639818d5204fa78b5a5a5/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/a2e25782bf1639818d5204fa78b5a5a5/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/a2e25782bf1639818d5204fa78b5a5a5/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.394Z",
+    "updatedAt": "2017-08-21T06:20:32.394Z"
+  },
+  "21": {
+    "id": 21,
+    "name": "Abba Gold Anniversary Edition",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/7573078/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/cbab8d245d24902dd05a225d522dae06/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/cbab8d245d24902dd05a225d522dae06/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/cbab8d245d24902dd05a225d522dae06/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/cbab8d245d24902dd05a225d522dae06/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.396Z",
+    "updatedAt": "2017-08-21T06:20:32.396Z"
+  },
+  "22": {
+    "id": 22,
+    "name": "The Evil Has Landed",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/46036622/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/025d074e6d0204a1863078949f06c420/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/025d074e6d0204a1863078949f06c420/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/025d074e6d0204a1863078949f06c420/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/025d074e6d0204a1863078949f06c420/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.398Z",
+    "updatedAt": "2017-08-21T06:20:32.398Z"
+  },
+  "23": {
+    "id": 23,
+    "name":
+      "Satisfied (feat. Miguel & Queen Latifah) [from The Hamilton Mixtape]",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/14521158/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/704f60cc9869c7a7791675ec0709afc1/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/704f60cc9869c7a7791675ec0709afc1/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/704f60cc9869c7a7791675ec0709afc1/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/704f60cc9869c7a7791675ec0709afc1/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.413Z",
+    "updatedAt": "2017-08-21T06:20:32.413Z"
+  },
+  "24": {
+    "id": 24,
+    "name": "The Best Of... / REVOKED NEW -> G010001877208R",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/216935/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/62d3496927297c2f544355297535f88e/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/62d3496927297c2f544355297535f88e/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/62d3496927297c2f544355297535f88e/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/62d3496927297c2f544355297535f88e/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.416Z",
+    "updatedAt": "2017-08-21T06:20:32.416Z"
+  },
+  "25": {
+    "id": 25,
+    "name": "Chaleur Humaine",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/12846168/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/4676796228c39dec6ca2bb230a07df7c/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/4676796228c39dec6ca2bb230a07df7c/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/4676796228c39dec6ca2bb230a07df7c/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/4676796228c39dec6ca2bb230a07df7c/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.489Z",
+    "updatedAt": "2017-08-21T06:20:32.489Z"
+  },
+  "26": {
+    "id": 26,
+    "name": "Lullabies To Paralyze",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/107240/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/5bce72bf9537a679f1c576d396f19c85/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/5bce72bf9537a679f1c576d396f19c85/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/5bce72bf9537a679f1c576d396f19c85/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/5bce72bf9537a679f1c576d396f19c85/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.496Z",
+    "updatedAt": "2017-08-21T06:20:32.496Z"
+  },
+  "27": {
+    "id": 27,
+    "name": "God Save The Queen",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/44857581/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/57e1a4d4c55a9f957518f4c540e17ac0/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/57e1a4d4c55a9f957518f4c540e17ac0/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/57e1a4d4c55a9f957518f4c540e17ac0/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/57e1a4d4c55a9f957518f4c540e17ac0/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.498Z",
+    "updatedAt": "2017-08-21T06:20:32.498Z"
+  },
+  "28": {
+    "id": 28,
+    "name": "The Queen Is Dead",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/1261474/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/597f59e32186995575850b1539c7e303/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/597f59e32186995575850b1539c7e303/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/597f59e32186995575850b1539c7e303/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/597f59e32186995575850b1539c7e303/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.500Z",
+    "updatedAt": "2017-08-21T06:20:32.500Z"
+  },
+  "29": {
+    "id": 29,
+    "name": "Queen's Speech 4",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/11001658/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/bb147b5573eb1514ced0f29b3520137c/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/bb147b5573eb1514ced0f29b3520137c/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/bb147b5573eb1514ced0f29b3520137c/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/bb147b5573eb1514ced0f29b3520137c/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.509Z",
+    "updatedAt": "2017-08-21T06:20:32.509Z"
+  },
+  "30": {
+    "id": 30,
+    "name": "Queen Forever",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/8980335/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/383cfb0cf6c5476bb2066440a9ecf3f6/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/383cfb0cf6c5476bb2066440a9ecf3f6/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/383cfb0cf6c5476bb2066440a9ecf3f6/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/383cfb0cf6c5476bb2066440a9ecf3f6/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.511Z",
+    "updatedAt": "2017-08-21T06:20:32.511Z"
+  },
+  "31": {
+    "id": 31,
+    "name": "...Like Clockwork",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/6619332/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/14becb45bf4ddfdab5ee95a7d76a2024/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/14becb45bf4ddfdab5ee95a7d76a2024/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/14becb45bf4ddfdab5ee95a7d76a2024/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/14becb45bf4ddfdab5ee95a7d76a2024/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.528Z",
+    "updatedAt": "2017-08-21T06:20:32.528Z"
+  },
+  "32": {
+    "id": 32,
+    "name": "Made In Jamaica",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/645245/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/77ecb54f26b1c8e998fb11cf2742014f/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/77ecb54f26b1c8e998fb11cf2742014f/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/77ecb54f26b1c8e998fb11cf2742014f/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/77ecb54f26b1c8e998fb11cf2742014f/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.530Z",
+    "updatedAt": "2017-08-21T06:20:32.530Z"
+  },
+  "33": {
+    "id": 33,
+    "name": "Made In Heaven",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/1236003/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/f038c15483a5de24e980c07666172176/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/f038c15483a5de24e980c07666172176/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/f038c15483a5de24e980c07666172176/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/f038c15483a5de24e980c07666172176/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.531Z",
+    "updatedAt": "2017-08-21T06:20:32.531Z"
+  },
+  "34": {
+    "id": 34,
+    "name": "Sheer Heart Attack",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/915783/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/e7436d4a2f944d1716eb19768c82b9f0/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/e7436d4a2f944d1716eb19768c82b9f0/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/e7436d4a2f944d1716eb19768c82b9f0/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/e7436d4a2f944d1716eb19768c82b9f0/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.533Z",
+    "updatedAt": "2017-08-21T06:20:32.533Z"
+  },
+  "35": {
+    "id": 35,
+    "name": "The Platinum Collection",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/1132644/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/d3854b9f5ff937b6da18f3c485485681/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/d3854b9f5ff937b6da18f3c485485681/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/d3854b9f5ff937b6da18f3c485485681/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/d3854b9f5ff937b6da18f3c485485681/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.547Z",
+    "updatedAt": "2017-08-21T06:20:32.547Z"
+  },
+  "36": {
+    "id": 36,
+    "name": "King of Queens",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/8826213/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/1d3aeebdb7a6e7681e390623dba7dded/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/1d3aeebdb7a6e7681e390623dba7dded/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/1d3aeebdb7a6e7681e390623dba7dded/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/1d3aeebdb7a6e7681e390623dba7dded/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.574Z",
+    "updatedAt": "2017-08-21T06:20:32.574Z"
+  },
+  "37": {
+    "id": 37,
+    "name": "My African Queen",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/41051191/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/8f0c6c15508a54ab50f7307ce78d0599/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/8f0c6c15508a54ab50f7307ce78d0599/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/8f0c6c15508a54ab50f7307ce78d0599/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/8f0c6c15508a54ab50f7307ce78d0599/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.579Z",
+    "updatedAt": "2017-08-21T06:20:32.579Z"
+  },
+  "38": {
+    "id": 38,
+    "name": "Kings And Queens Of Summer",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/42220271/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/f7841d90c1b6c21df6e078f246f92156/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/f7841d90c1b6c21df6e078f246f92156/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/f7841d90c1b6c21df6e078f246f92156/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/f7841d90c1b6c21df6e078f246f92156/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.582Z",
+    "updatedAt": "2017-08-21T06:20:32.582Z"
+  },
+  "39": {
+    "id": 39,
+    "name": "A Kind Of Magic",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/1236000/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/518738a2c485a7ea27ef52ded999902f/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/518738a2c485a7ea27ef52ded999902f/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/518738a2c485a7ea27ef52ded999902f/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/518738a2c485a7ea27ef52ded999902f/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.583Z",
+    "updatedAt": "2017-08-21T06:20:32.583Z"
+  },
+  "40": {
+    "id": 40,
+    "name": "Prom Queen",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/15251957/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/f763fc27bc977cfa0cc07bc5fea551fb/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/f763fc27bc977cfa0cc07bc5fea551fb/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/f763fc27bc977cfa0cc07bc5fea551fb/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/f763fc27bc977cfa0cc07bc5fea551fb/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.585Z",
+    "updatedAt": "2017-08-21T06:20:32.585Z"
+  },
+  "41": {
+    "id": 41,
+    "name": "Another Level",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/217806/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/7b5012430892abd3ff363ae27cd49230/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/7b5012430892abd3ff363ae27cd49230/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/7b5012430892abd3ff363ae27cd49230/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/7b5012430892abd3ff363ae27cd49230/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.599Z",
+    "updatedAt": "2017-08-21T06:20:32.599Z"
+  },
+  "42": {
+    "id": 42,
+    "name": "We Free Queens (feat. Sophie Alour, Lisa Cat-Berro & Julie Saury)",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/15113143/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/cc3add2b17832cf041b765785a203f02/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/cc3add2b17832cf041b765785a203f02/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/cc3add2b17832cf041b765785a203f02/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/cc3add2b17832cf041b765785a203f02/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.625Z",
+    "updatedAt": "2017-08-21T06:20:32.625Z"
+  },
+  "43": {
+    "id": 43,
+    "name": "Silent Lucidity - Greatest Hits - EP",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/6546983/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/9d4ebebd8ece8d2d74df75ee250f36b8/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/9d4ebebd8ece8d2d74df75ee250f36b8/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/9d4ebebd8ece8d2d74df75ee250f36b8/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/9d4ebebd8ece8d2d74df75ee250f36b8/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.627Z",
+    "updatedAt": "2017-08-21T06:20:32.627Z"
+  },
+  "44": {
+    "id": 44,
+    "name": "Dancing Queen",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/44284981/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/0151f7106e848276d307a58c840ec79d/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/0151f7106e848276d307a58c840ec79d/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/0151f7106e848276d307a58c840ec79d/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/0151f7106e848276d307a58c840ec79d/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.629Z",
+    "updatedAt": "2017-08-21T06:20:32.629Z"
+  },
+  "45": {
+    "id": 45,
+    "name":
+      "Soul Jazz Records presents Betty Harris: The Lost Queen Of New Orleans Soul",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/13634198/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/4b334491510e4cf1afe8ab35ae8eb0ef/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/4b334491510e4cf1afe8ab35ae8eb0ef/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/4b334491510e4cf1afe8ab35ae8eb0ef/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/4b334491510e4cf1afe8ab35ae8eb0ef/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.630Z",
+    "updatedAt": "2017-08-21T06:20:32.630Z"
+  },
+  "46": {
+    "id": 46,
+    "name": "Dance Hall Party",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/44462151/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/cfda113a39d5dfbb24e231e82d13b309/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/cfda113a39d5dfbb24e231e82d13b309/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/cfda113a39d5dfbb24e231e82d13b309/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/cfda113a39d5dfbb24e231e82d13b309/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.632Z",
+    "updatedAt": "2017-08-21T06:20:32.632Z"
+  },
+  "47": {
+    "id": 47,
+    "name": "Rated R - Deluxe Edition",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/629766/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/eabe819e40ce9ff539ba4d366340e475/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/eabe819e40ce9ff539ba4d366340e475/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/eabe819e40ce9ff539ba4d366340e475/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/eabe819e40ce9ff539ba4d366340e475/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.642Z",
+    "updatedAt": "2017-08-21T06:20:32.642Z"
+  },
+  "48": {
+    "id": 48,
+    "name": "Queen's Speech 5",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/12100892/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/abf8b0858d2838226b981757df49da09/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/abf8b0858d2838226b981757df49da09/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/abf8b0858d2838226b981757df49da09/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/abf8b0858d2838226b981757df49da09/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.669Z",
+    "updatedAt": "2017-08-21T06:20:32.669Z"
+  },
+  "49": {
+    "id": 49,
+    "name": "How Big, How Blue, How Beautiful",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/10297388/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/730c7634e102efc799010464bc8fa3cc/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/730c7634e102efc799010464bc8fa3cc/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/730c7634e102efc799010464bc8fa3cc/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/730c7634e102efc799010464bc8fa3cc/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.671Z",
+    "updatedAt": "2017-08-21T06:20:32.671Z"
+  },
+  "50": {
+    "id": 50,
+    "name": "Queens of the Stone Age",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/44656671/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/946fe86e19775415d9a90a8d5d8069a1/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/946fe86e19775415d9a90a8d5d8069a1/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/946fe86e19775415d9a90a8d5d8069a1/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/946fe86e19775415d9a90a8d5d8069a1/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.674Z",
+    "updatedAt": "2017-08-21T06:20:32.674Z"
+  },
+  "51": {
+    "id": 51,
+    "name": "A Queen of Hearts",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/12672152/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/a106dacdd6ec67c29b3c7c833ac1e9d7/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/a106dacdd6ec67c29b3c7c833ac1e9d7/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/a106dacdd6ec67c29b3c7c833ac1e9d7/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/a106dacdd6ec67c29b3c7c833ac1e9d7/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.677Z",
+    "updatedAt": "2017-08-21T06:20:32.677Z"
+  },
+  "52": {
+    "id": 52,
+    "name": "Appetite For Destruction",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/217281/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/9087b7676d5f37612ee954d4ffc6f082/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/9087b7676d5f37612ee954d4ffc6f082/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/9087b7676d5f37612ee954d4ffc6f082/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/9087b7676d5f37612ee954d4ffc6f082/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.686Z",
+    "updatedAt": "2017-08-21T06:20:32.686Z"
+  },
+  "53": {
+    "id": 53,
+    "name": "Ladies And Gentlemen... The Best Of George Michael",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/1535979/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/549a1f50cd5903e2f42e3253814f8b33/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/549a1f50cd5903e2f42e3253814f8b33/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/549a1f50cd5903e2f42e3253814f8b33/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/549a1f50cd5903e2f42e3253814f8b33/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.688Z",
+    "updatedAt": "2017-08-21T06:20:32.688Z"
+  },
+  "54": {
+    "id": 54,
+    "name": "The Ultimate Workout Collection: Blood Sweat And Tears",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/474037/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/6d7a6c133e9b66fe424ec71151c7ca8f/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/6d7a6c133e9b66fe424ec71151c7ca8f/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/6d7a6c133e9b66fe424ec71151c7ca8f/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/6d7a6c133e9b66fe424ec71151c7ca8f/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.703Z",
+    "updatedAt": "2017-08-21T06:20:32.703Z"
+  },
+  "55": {
+    "id": 55,
+    "name": "Q.U.E.E.N. (feat. Erykah Badu)",
+    "artistId": 6,
+    "cover": "https://api.deezer.com/album/6515219/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/696224c6e5e9b9883727f34c4460fe56/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/696224c6e5e9b9883727f34c4460fe56/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/696224c6e5e9b9883727f34c4460fe56/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/696224c6e5e9b9883727f34c4460fe56/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.705Z",
+    "updatedAt": "2017-08-21T06:20:32.705Z"
+  },
+  "56": {
+    "id": 56,
+    "name": "Niveau Weshalb Warum",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/9465280/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/3fe0fb8ff6623b7fd212ab9c93d17219/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/3fe0fb8ff6623b7fd212ab9c93d17219/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/3fe0fb8ff6623b7fd212ab9c93d17219/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/3fe0fb8ff6623b7fd212ab9c93d17219/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.707Z",
+    "updatedAt": "2017-08-21T06:20:32.707Z"
+  },
+  "57": {
+    "id": 57,
+    "name": "Befehl von ganz unten",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/8232992/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/306ed19a00714a3d43f29d12034c0358/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/306ed19a00714a3d43f29d12034c0358/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/306ed19a00714a3d43f29d12034c0358/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/306ed19a00714a3d43f29d12034c0358/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.710Z",
+    "updatedAt": "2017-08-21T06:20:32.710Z"
+  },
+  "58": {
+    "id": 58,
+    "name": "Arbeit nervt",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/8003918/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/702956bc83c48e71e2043977711fb547/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/702956bc83c48e71e2043977711fb547/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/702956bc83c48e71e2043977711fb547/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/702956bc83c48e71e2043977711fb547/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.722Z",
+    "updatedAt": "2017-08-21T06:20:32.722Z"
+  },
+  "59": {
+    "id": 59,
+    "name": "Aufstand im Schlaraffenland",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/7992346/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/920263df1ebfacc7d506046f8e29bbf0/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/920263df1ebfacc7d506046f8e29bbf0/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/920263df1ebfacc7d506046f8e29bbf0/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/920263df1ebfacc7d506046f8e29bbf0/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.724Z",
+    "updatedAt": "2017-08-21T06:20:32.724Z"
+  },
+  "60": {
+    "id": 60,
+    "name": "Noch Fünf Minuten Mutti",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/88246/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/2e34bca72b48878b16e513c41209fa3a/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/2e34bca72b48878b16e513c41209fa3a/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/2e34bca72b48878b16e513c41209fa3a/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/2e34bca72b48878b16e513c41209fa3a/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.743Z",
+    "updatedAt": "2017-08-21T06:20:32.743Z"
+  },
+  "61": {
+    "id": 61,
+    "name": "Hitplosion - Ultimative Partyhits",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/1553260/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/fa193aa08ef294dea312e4914614ac42/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/fa193aa08ef294dea312e4914614ac42/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/fa193aa08ef294dea312e4914614ac42/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/fa193aa08ef294dea312e4914614ac42/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.745Z",
+    "updatedAt": "2017-08-21T06:20:32.745Z"
+  },
+  "62": {
+    "id": 62,
+    "name": "Porzellan und Elefanten",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/11827526/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/89e6b9fd893e8616a711ecf87a890537/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/89e6b9fd893e8616a711ecf87a890537/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/89e6b9fd893e8616a711ecf87a890537/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/89e6b9fd893e8616a711ecf87a890537/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.747Z",
+    "updatedAt": "2017-08-21T06:20:32.747Z"
+  },
+  "63": {
+    "id": 63,
+    "name": "So'ne Musik",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/9228161/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/39dea4f647224fea00512abeff59eb49/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/39dea4f647224fea00512abeff59eb49/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/39dea4f647224fea00512abeff59eb49/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/39dea4f647224fea00512abeff59eb49/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.750Z",
+    "updatedAt": "2017-08-21T06:20:32.750Z"
+  },
+  "64": {
+    "id": 64,
+    "name": "Hamburg brennt!!",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/2374371/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/b3dc1d330a6243229e6c0ce0a53c718d/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/b3dc1d330a6243229e6c0ce0a53c718d/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/b3dc1d330a6243229e6c0ce0a53c718d/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/b3dc1d330a6243229e6c0ce0a53c718d/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.771Z",
+    "updatedAt": "2017-08-21T06:20:32.771Z"
+  },
+  "65": {
+    "id": 65,
+    "name": "Denken Sie groß",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/9422234/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/f183977c3a850a3485ee679d4577d1fb/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/f183977c3a850a3485ee679d4577d1fb/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/f183977c3a850a3485ee679d4577d1fb/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/f183977c3a850a3485ee679d4577d1fb/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.781Z",
+    "updatedAt": "2017-08-21T06:20:32.781Z"
+  },
+  "66": {
+    "id": 66,
+    "name": "Softdrink",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/10924254/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/c98a0d6ce9472a96421d64e7d48917dd/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/c98a0d6ce9472a96421d64e7d48917dd/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/c98a0d6ce9472a96421d64e7d48917dd/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/c98a0d6ce9472a96421d64e7d48917dd/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.783Z",
+    "updatedAt": "2017-08-21T06:20:32.783Z"
+  },
+  "67": {
+    "id": 67,
+    "name": "Zu Zweit Allein",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/1435945/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/1fa6b4012c30f93d9aba9b5723babd05/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/1fa6b4012c30f93d9aba9b5723babd05/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/1fa6b4012c30f93d9aba9b5723babd05/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/1fa6b4012c30f93d9aba9b5723babd05/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.787Z",
+    "updatedAt": "2017-08-21T06:20:32.787Z"
+  },
+  "68": {
+    "id": 68,
+    "name": "Ich habe eine Fahne",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/7930286/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/859a9d0f280208fdac58061c28f85110/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/859a9d0f280208fdac58061c28f85110/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/859a9d0f280208fdac58061c28f85110/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/859a9d0f280208fdac58061c28f85110/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.790Z",
+    "updatedAt": "2017-08-21T06:20:32.790Z"
+  },
+  "69": {
+    "id": 69,
+    "name": "10 Jahre Madsen Live",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/7820489/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/51c98aa4fb12f338927bdbcb99874235/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/51c98aa4fb12f338927bdbcb99874235/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/51c98aa4fb12f338927bdbcb99874235/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/51c98aa4fb12f338927bdbcb99874235/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.792Z",
+    "updatedAt": "2017-08-21T06:20:32.792Z"
+  },
+  "70": {
+    "id": 70,
+    "name": "Verstrahlt",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/629804/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/5b1552cb642ebacf3a7b8469ff5c5a09/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/5b1552cb642ebacf3a7b8469ff5c5a09/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/5b1552cb642ebacf3a7b8469ff5c5a09/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/5b1552cb642ebacf3a7b8469ff5c5a09/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.800Z",
+    "updatedAt": "2017-08-21T06:20:32.800Z"
+  },
+  "71": {
+    "id": 71,
+    "name": "Im Remix",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/8195046/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/58f8046618f63e3e86a6b91711dfd829/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/58f8046618f63e3e86a6b91711dfd829/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/58f8046618f63e3e86a6b91711dfd829/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/58f8046618f63e3e86a6b91711dfd829/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.809Z",
+    "updatedAt": "2017-08-21T06:20:32.809Z"
+  },
+  "72": {
+    "id": 72,
+    "name": "Bück dich hoch (A Tribute to Deichkind) - Single",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/3809991/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/d2850d3b991c783a9f1f50aff06b9717/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/d2850d3b991c783a9f1f50aff06b9717/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/d2850d3b991c783a9f1f50aff06b9717/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/d2850d3b991c783a9f1f50aff06b9717/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.813Z",
+    "updatedAt": "2017-08-21T06:20:32.813Z"
+  },
+  "73": {
+    "id": 73,
+    "name": "Der König tanzt",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/7083897/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/3d2a0ecd8953748052c8435b035132ed/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/3d2a0ecd8953748052c8435b035132ed/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/3d2a0ecd8953748052c8435b035132ed/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/3d2a0ecd8953748052c8435b035132ed/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.816Z",
+    "updatedAt": "2017-08-21T06:20:32.816Z"
+  },
+  "74": {
+    "id": 74,
+    "name": "Music for the Motion Picture Victoria",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/10293944/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/2b447ab02b85ab46d5b3d431434fc862/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/2b447ab02b85ab46d5b3d431434fc862/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/2b447ab02b85ab46d5b3d431434fc862/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/2b447ab02b85ab46d5b3d431434fc862/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.817Z",
+    "updatedAt": "2017-08-21T06:20:32.817Z"
+  },
+  "75": {
+    "id": 75,
+    "name": "Molotov / Wonderful Life",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/1349955/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/72e676071910eaa5226a094b07bb54b0/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/72e676071910eaa5226a094b07bb54b0/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/72e676071910eaa5226a094b07bb54b0/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/72e676071910eaa5226a094b07bb54b0/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.818Z",
+    "updatedAt": "2017-08-21T06:20:32.818Z"
+  },
+  "76": {
+    "id": 76,
+    "name": "Dialektro",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/6946730/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/96df8059404ec3f412b0ee65a7f2cca3/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/96df8059404ec3f412b0ee65a7f2cca3/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/96df8059404ec3f412b0ee65a7f2cca3/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/96df8059404ec3f412b0ee65a7f2cca3/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.826Z",
+    "updatedAt": "2017-08-21T06:20:32.826Z"
+  },
+  "77": {
+    "id": 77,
+    "name": "Ins offene Messer",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/254212/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/55cd38bcecd60ef820e210eb6344a1c6/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/55cd38bcecd60ef820e210eb6344a1c6/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/55cd38bcecd60ef820e210eb6344a1c6/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/55cd38bcecd60ef820e210eb6344a1c6/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.836Z",
+    "updatedAt": "2017-08-21T06:20:32.836Z"
+  },
+  "78": {
+    "id": 78,
+    "name": "German Hip-Hop, Vol. 4",
+    "artistId": 1,
+    "cover": "https://api.deezer.com/album/6790846/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/eae5e2b0e256058460e37b59aa2b9bdb/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/eae5e2b0e256058460e37b59aa2b9bdb/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/eae5e2b0e256058460e37b59aa2b9bdb/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/eae5e2b0e256058460e37b59aa2b9bdb/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.842Z",
+    "updatedAt": "2017-08-21T06:20:32.842Z"
+  },
+  "79": {
+    "id": 79,
+    "name": "Curtain Call",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/224581/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/2d160b4c0d72272b4f5d7f55037d4864/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/2d160b4c0d72272b4f5d7f55037d4864/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/2d160b4c0d72272b4f5d7f55037d4864/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/2d160b4c0d72272b4f5d7f55037d4864/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.844Z",
+    "updatedAt": "2017-08-21T06:20:32.844Z"
+  },
+  "80": {
+    "id": 80,
+    "name": "The Eminem Show",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/103248/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/ec3c8ed67427064c70f67e5815b74cef/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/ec3c8ed67427064c70f67e5815b74cef/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/ec3c8ed67427064c70f67e5815b74cef/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/ec3c8ed67427064c70f67e5815b74cef/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.846Z",
+    "updatedAt": "2017-08-21T06:20:32.846Z"
+  },
+  "81": {
+    "id": 81,
+    "name": "Recovery",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/595243/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/be682506145061814eddee648edb7c59/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/be682506145061814eddee648edb7c59/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/be682506145061814eddee648edb7c59/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/be682506145061814eddee648edb7c59/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.848Z",
+    "updatedAt": "2017-08-21T06:20:32.848Z"
+  },
+  "82": {
+    "id": 82,
+    "name": "Not Afraid",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/550194/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/893e13cdeefdea7b1ea046de70014dd6/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/893e13cdeefdea7b1ea046de70014dd6/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/893e13cdeefdea7b1ea046de70014dd6/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/893e13cdeefdea7b1ea046de70014dd6/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.856Z",
+    "updatedAt": "2017-08-21T06:20:32.856Z"
+  },
+  "83": {
+    "id": 83,
+    "name": "Rap God",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/7036536/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/7f9164c941673e63d4b65c6b27b90b18/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/7f9164c941673e63d4b65c6b27b90b18/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/7f9164c941673e63d4b65c6b27b90b18/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/7f9164c941673e63d4b65c6b27b90b18/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.860Z",
+    "updatedAt": "2017-08-21T06:20:32.860Z"
+  },
+  "84": {
+    "id": 84,
+    "name": "The Monster",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/7079247/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/57ba8f36a09d07be40cf778dfa923e49/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/57ba8f36a09d07be40cf778dfa923e49/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/57ba8f36a09d07be40cf778dfa923e49/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/57ba8f36a09d07be40cf778dfa923e49/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.879Z",
+    "updatedAt": "2017-08-21T06:20:32.879Z"
+  },
+  "85": {
+    "id": 85,
+    "name": "Smack That",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/245660/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/97cc456d1893e775b25fdc34a3afabce/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/97cc456d1893e775b25fdc34a3afabce/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/97cc456d1893e775b25fdc34a3afabce/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/97cc456d1893e775b25fdc34a3afabce/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.881Z",
+    "updatedAt": "2017-08-21T06:20:32.881Z"
+  },
+  "86": {
+    "id": 86,
+    "name": "2001",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/162005/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/0d9a24d054cbc5ab11843beed9f1422b/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/0d9a24d054cbc5ab11843beed9f1422b/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/0d9a24d054cbc5ab11843beed9f1422b/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/0d9a24d054cbc5ab11843beed9f1422b/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.883Z",
+    "updatedAt": "2017-08-21T06:20:32.883Z"
+  },
+  "87": {
+    "id": 87,
+    "name": "Southpaw",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/10872968/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/1503f9de884c9f5e658165fc54121313/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/1503f9de884c9f5e658165fc54121313/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/1503f9de884c9f5e658165fc54121313/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/1503f9de884c9f5e658165fc54121313/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.886Z",
+    "updatedAt": "2017-08-21T06:20:32.886Z"
+  },
+  "88": {
+    "id": 88,
+    "name": "The Marshall Mathers LP2",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/7090505/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/7c71224818ac99b16570357b2f98e041/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/7c71224818ac99b16570357b2f98e041/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/7c71224818ac99b16570357b2f98e041/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/7c71224818ac99b16570357b2f98e041/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.888Z",
+    "updatedAt": "2017-08-21T06:20:32.888Z"
+  },
+  "89": {
+    "id": 89,
+    "name": "The Marshall Mathers LP - Tour Edition",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/247211/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/13444fb1fb6394d1de09d22076cce893/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/13444fb1fb6394d1de09d22076cce893/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/13444fb1fb6394d1de09d22076cce893/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/13444fb1fb6394d1de09d22076cce893/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.894Z",
+    "updatedAt": "2017-08-21T06:20:32.894Z"
+  },
+  "90": {
+    "id": 90,
+    "name": "Relapse: Refill",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/464090/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/bd571081cf7d4ee6fe9e5904423b76cb/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/bd571081cf7d4ee6fe9e5904423b76cb/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/bd571081cf7d4ee6fe9e5904423b76cb/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/bd571081cf7d4ee6fe9e5904423b76cb/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.928Z",
+    "updatedAt": "2017-08-21T06:20:32.928Z"
+  },
+  "91": {
+    "id": 91,
+    "name": "Eminem Presents The Re-Up",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/161523/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/90b0b4820d5483d707132b79605d870b/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/90b0b4820d5483d707132b79605d870b/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/90b0b4820d5483d707132b79605d870b/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/90b0b4820d5483d707132b79605d870b/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.931Z",
+    "updatedAt": "2017-08-21T06:20:32.931Z"
+  },
+  "92": {
+    "id": 92,
+    "name": "Cradle 2 The Grave",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/224774/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/165b00c39ed037795bbcdec46e2a9008/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/165b00c39ed037795bbcdec46e2a9008/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/165b00c39ed037795bbcdec46e2a9008/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/165b00c39ed037795bbcdec46e2a9008/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.934Z",
+    "updatedAt": "2017-08-21T06:20:32.934Z"
+  },
+  "93": {
+    "id": 93,
+    "name": "I Need A Doctor",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/897364/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/a71f29ab2cfa97c88f69afa9041e5f35/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/a71f29ab2cfa97c88f69afa9041e5f35/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/a71f29ab2cfa97c88f69afa9041e5f35/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/a71f29ab2cfa97c88f69afa9041e5f35/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.935Z",
+    "updatedAt": "2017-08-21T06:20:32.935Z"
+  },
+  "94": {
+    "id": 94,
+    "name": "The Hills Remixes",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/11400516/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/54856083ecd42d32d224755e50b87f7b/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/54856083ecd42d32d224755e50b87f7b/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/54856083ecd42d32d224755e50b87f7b/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/54856083ecd42d32d224755e50b87f7b/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.937Z",
+    "updatedAt": "2017-08-21T06:20:32.937Z"
+  },
+  "95": {
+    "id": 95,
+    "name": "SHADYXV",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/9142675/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/76eb816387e80643c70456ab6ce22c6a/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/76eb816387e80643c70456ab6ce22c6a/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/76eb816387e80643c70456ab6ce22c6a/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/76eb816387e80643c70456ab6ce22c6a/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.945Z",
+    "updatedAt": "2017-08-21T06:20:32.945Z"
+  },
+  "96": {
+    "id": 96,
+    "name": "Survival",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/7011286/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/1e27129ea0aa4194f885a78763dabfd0/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/1e27129ea0aa4194f885a78763dabfd0/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/1e27129ea0aa4194f885a78763dabfd0/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/1e27129ea0aa4194f885a78763dabfd0/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.960Z",
+    "updatedAt": "2017-08-21T06:20:32.960Z"
+  },
+  "97": {
+    "id": 97,
+    "name": "The Marshall Mathers LP",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/247209/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/3fdc4aabd5da3a2991daf6f48f0d0cb9/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/3fdc4aabd5da3a2991daf6f48f0d0cb9/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/3fdc4aabd5da3a2991daf6f48f0d0cb9/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/3fdc4aabd5da3a2991daf6f48f0d0cb9/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.962Z",
+    "updatedAt": "2017-08-21T06:20:32.962Z"
+  },
+  "98": {
+    "id": 98,
+    "name": "Relapse",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/350198/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/64148d1a543348370dd295e9177258d3/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/64148d1a543348370dd295e9177258d3/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/64148d1a543348370dd295e9177258d3/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/64148d1a543348370dd295e9177258d3/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.964Z",
+    "updatedAt": "2017-08-21T06:20:32.964Z"
+  },
+  "99": {
+    "id": 99,
+    "name": "Get Rich Or Die Tryin'",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/122366/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/8f4dd4d8abf85ceda96b6b4adf217590/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/8f4dd4d8abf85ceda96b6b4adf217590/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/8f4dd4d8abf85ceda96b6b4adf217590/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/8f4dd4d8abf85ceda96b6b4adf217590/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.965Z",
+    "updatedAt": "2017-08-21T06:20:32.965Z"
+  },
+  "100": {
+    "id": 100,
+    "name": "B.o.B Presents: The Adventures of Bobby Ray",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/595263/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/1922ce037df0dd576c008bb626320303/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/1922ce037df0dd576c008bb626320303/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/1922ce037df0dd576c008bb626320303/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/1922ce037df0dd576c008bb626320303/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.967Z",
+    "updatedAt": "2017-08-21T06:20:32.967Z"
+  },
+  "101": {
+    "id": 101,
+    "name": "Berzerk",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/6886481/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/19b109883b8b8396fb64ee59aa0bcfe0/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/19b109883b8b8396fb64ee59aa0bcfe0/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/19b109883b8b8396fb64ee59aa0bcfe0/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/19b109883b8b8396fb64ee59aa0bcfe0/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.975Z",
+    "updatedAt": "2017-08-21T06:20:32.975Z"
+  },
+  "102": {
+    "id": 102,
+    "name": "No Mercy",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/44657981/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/ed5609dd2f41b3eb66d2f22f78b1986f/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/ed5609dd2f41b3eb66d2f22f78b1986f/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/ed5609dd2f41b3eb66d2f22f78b1986f/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/ed5609dd2f41b3eb66d2f22f78b1986f/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.989Z",
+    "updatedAt": "2017-08-21T06:20:32.989Z"
+  },
+  "103": {
+    "id": 103,
+    "name": "8 Mile",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/162036/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/4463549afef8fbd03101a264ab744e11/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/4463549afef8fbd03101a264ab744e11/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/4463549afef8fbd03101a264ab744e11/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/4463549afef8fbd03101a264ab744e11/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.991Z",
+    "updatedAt": "2017-08-21T06:20:32.991Z"
+  },
+  "104": {
+    "id": 104,
+    "name": "I Decided.",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/15264305/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/b74f964a5c5b3df06d07c3fde4405fee/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/b74f964a5c5b3df06d07c3fde4405fee/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/b74f964a5c5b3df06d07c3fde4405fee/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/b74f964a5c5b3df06d07c3fde4405fee/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.993Z",
+    "updatedAt": "2017-08-21T06:20:32.993Z"
+  },
+  "105": {
+    "id": 105,
+    "name": "Encore",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/227447/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/5026c46b38ed035092df6cfc5a4a288f/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/5026c46b38ed035092df6cfc5a4a288f/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/5026c46b38ed035092df6cfc5a4a288f/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/5026c46b38ed035092df6cfc5a4a288f/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:32.996Z",
+    "updatedAt": "2017-08-21T06:20:32.996Z"
+  },
+  "106": {
+    "id": 106,
+    "name": "Best Friend",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/10008916/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/2e5d9b1b2bdbad85b565e70a7ffffb19/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/2e5d9b1b2bdbad85b565e70a7ffffb19/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/2e5d9b1b2bdbad85b565e70a7ffffb19/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/2e5d9b1b2bdbad85b565e70a7ffffb19/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.001Z",
+    "updatedAt": "2017-08-21T06:20:33.001Z"
+  },
+  "107": {
+    "id": 107,
+    "name": "Man VS Machine",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/71022/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/26be06285e962aedd3a05b2e8f0ccc9a/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/26be06285e962aedd3a05b2e8f0ccc9a/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/26be06285e962aedd3a05b2e8f0ccc9a/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/26be06285e962aedd3a05b2e8f0ccc9a/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.003Z",
+    "updatedAt": "2017-08-21T06:20:33.003Z"
+  },
+  "108": {
+    "id": 108,
+    "name": "All Or Nothing",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/80363/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/fd82538236be8dbf89fd0ae47f664c4c/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/fd82538236be8dbf89fd0ae47f664c4c/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/fd82538236be8dbf89fd0ae47f664c4c/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/fd82538236be8dbf89fd0ae47f664c4c/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.018Z",
+    "updatedAt": "2017-08-21T06:20:33.018Z"
+  },
+  "109": {
+    "id": 109,
+    "name": "Born Again",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/84027/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/6f9507764dfc451fa43f124232787958/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/6f9507764dfc451fa43f124232787958/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/6f9507764dfc451fa43f124232787958/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/6f9507764dfc451fa43f124232787958/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.020Z",
+    "updatedAt": "2017-08-21T06:20:33.020Z"
+  },
+  "110": {
+    "id": 110,
+    "name": "When I'm Gone",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/253727/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/85fe1c1fee67ae46462e12097bcebeb0/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/85fe1c1fee67ae46462e12097bcebeb0/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/85fe1c1fee67ae46462e12097bcebeb0/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/85fe1c1fee67ae46462e12097bcebeb0/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.023Z",
+    "updatedAt": "2017-08-21T06:20:33.023Z"
+  },
+  "111": {
+    "id": 111,
+    "name": "Relapse [Deluxe]",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/11044596/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/61748c3c81d9ca57dbc926d84487aed2/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/61748c3c81d9ca57dbc926d84487aed2/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/61748c3c81d9ca57dbc926d84487aed2/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/61748c3c81d9ca57dbc926d84487aed2/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.026Z",
+    "updatedAt": "2017-08-21T06:20:33.026Z"
+  },
+  "112": {
+    "id": 112,
+    "name": "We Made You",
+    "artistId": 2,
+    "cover": "https://api.deezer.com/album/296714/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/61b5df93fb7013eaedbbc666bff7645b/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/61b5df93fb7013eaedbbc666bff7645b/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/61b5df93fb7013eaedbbc666bff7645b/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/61b5df93fb7013eaedbbc666bff7645b/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.037Z",
+    "updatedAt": "2017-08-21T06:20:33.037Z"
+  },
+  "113": {
+    "id": 113,
+    "name": "Herzbeben",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/43601641/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/646a5126971d830790f861be114e3354/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/646a5126971d830790f861be114e3354/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/646a5126971d830790f861be114e3354/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/646a5126971d830790f861be114e3354/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.039Z",
+    "updatedAt": "2017-08-21T06:20:33.039Z"
+  },
+  "114": {
+    "id": 114,
+    "name": "Nur mit Dir",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/43601601/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/68028458bc5ad46f6b4cba1f4153e507/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/68028458bc5ad46f6b4cba1f4153e507/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/68028458bc5ad46f6b4cba1f4153e507/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/68028458bc5ad46f6b4cba1f4153e507/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.081Z",
+    "updatedAt": "2017-08-21T06:20:33.081Z"
+  },
+  "115": {
+    "id": 115,
+    "name": "Atemlos durch die Nacht",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/7157745/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/0ca5feb3aad5e5be76ce187f4f4fed1c/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/0ca5feb3aad5e5be76ce187f4f4fed1c/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/0ca5feb3aad5e5be76ce187f4f4fed1c/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/0ca5feb3aad5e5be76ce187f4f4fed1c/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.083Z",
+    "updatedAt": "2017-08-21T06:20:33.083Z"
+  },
+  "116": {
+    "id": 116,
+    "name": "Farbenspiel",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/6941009/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/8750d6f2960fdc90f47e4c7db718403f/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/8750d6f2960fdc90f47e4c7db718403f/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/8750d6f2960fdc90f47e4c7db718403f/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/8750d6f2960fdc90f47e4c7db718403f/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.086Z",
+    "updatedAt": "2017-08-21T06:20:33.086Z"
+  },
+  "117": {
+    "id": 117,
+    "name": "Best Of",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/559230/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/cb6d68759a2fcd14168a7be8416c5854/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/cb6d68759a2fcd14168a7be8416c5854/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/cb6d68759a2fcd14168a7be8416c5854/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/cb6d68759a2fcd14168a7be8416c5854/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.091Z",
+    "updatedAt": "2017-08-21T06:20:33.091Z"
+  },
+  "118": {
+    "id": 118,
+    "name": "Vaiana",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/14840817/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/f3cd23c272d9d824109b81aa1fafd240/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/f3cd23c272d9d824109b81aa1fafd240/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/f3cd23c272d9d824109b81aa1fafd240/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/f3cd23c272d9d824109b81aa1fafd240/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.100Z",
+    "updatedAt": "2017-08-21T06:20:33.100Z"
+  },
+  "119": {
+    "id": 119,
+    "name": "Ich Will Immer Wieder... Dieses Fieber Spür'n",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/425168/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/06780fb6801c6396ff2b74e7125d87f8/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/06780fb6801c6396ff2b74e7125d87f8/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/06780fb6801c6396ff2b74e7125d87f8/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/06780fb6801c6396ff2b74e7125d87f8/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.104Z",
+    "updatedAt": "2017-08-21T06:20:33.104Z"
+  },
+  "120": {
+    "id": 120,
+    "name": "I Love Disney",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/9208743/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/be44ffbf510e23e6dd6b098cea62df9d/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/be44ffbf510e23e6dd6b098cea62df9d/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/be44ffbf510e23e6dd6b098cea62df9d/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/be44ffbf510e23e6dd6b098cea62df9d/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.119Z",
+    "updatedAt": "2017-08-21T06:20:33.119Z"
+  },
+  "121": {
+    "id": 121,
+    "name": "Phänomen",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/1288859/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/97abacd7a23723c09b687f9644477e5a/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/97abacd7a23723c09b687f9644477e5a/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/97abacd7a23723c09b687f9644477e5a/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/97abacd7a23723c09b687f9644477e5a/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.121Z",
+    "updatedAt": "2017-08-21T06:20:33.121Z"
+  },
+  "122": {
+    "id": 122,
+    "name": "Für einen Tag",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/1299975/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/de37497873ebef45861d6cd0dda3e926/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/de37497873ebef45861d6cd0dda3e926/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/de37497873ebef45861d6cd0dda3e926/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/de37497873ebef45861d6cd0dda3e926/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.123Z",
+    "updatedAt": "2017-08-21T06:20:33.123Z"
+  },
+  "123": {
+    "id": 123,
+    "name": "Die Hölle morgen früh",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/2766291/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/08813c3239bf134146514bd49b1ccaed/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/08813c3239bf134146514bd49b1ccaed/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/08813c3239bf134146514bd49b1ccaed/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/08813c3239bf134146514bd49b1ccaed/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.125Z",
+    "updatedAt": "2017-08-21T06:20:33.125Z"
+  },
+  "124": {
+    "id": 124,
+    "name": "06: Das Zepter der Königin u.a. (CGI)",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/41094841/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/b6a4392b83504673f491ebfac474f5dc/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/b6a4392b83504673f491ebfac474f5dc/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/b6a4392b83504673f491ebfac474f5dc/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/b6a4392b83504673f491ebfac474f5dc/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.131Z",
+    "updatedAt": "2017-08-21T06:20:33.131Z"
+  },
+  "125": {
+    "id": 125,
+    "name": "So Nah Wie Du",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/330191/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/919d77644c6abb89b34783dfa0ac0834/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/919d77644c6abb89b34783dfa0ac0834/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/919d77644c6abb89b34783dfa0ac0834/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/919d77644c6abb89b34783dfa0ac0834/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.133Z",
+    "updatedAt": "2017-08-21T06:20:33.133Z"
+  },
+  "126": {
+    "id": 126,
+    "name": "Best Of Live - So Wie Ich Bin - Die Tournee",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/721989/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/a7692cb52f5e38b824fcc205eafc1353/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/a7692cb52f5e38b824fcc205eafc1353/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/a7692cb52f5e38b824fcc205eafc1353/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/a7692cb52f5e38b824fcc205eafc1353/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.147Z",
+    "updatedAt": "2017-08-21T06:20:33.147Z"
+  },
+  "127": {
+    "id": 127,
+    "name": "Lass Mich In Dein Leben",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/330240/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/8d1a5fbf6d2c43aeab64bc60a581870e/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/8d1a5fbf6d2c43aeab64bc60a581870e/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/8d1a5fbf6d2c43aeab64bc60a581870e/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/8d1a5fbf6d2c43aeab64bc60a581870e/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.149Z",
+    "updatedAt": "2017-08-21T06:20:33.149Z"
+  },
+  "128": {
+    "id": 128,
+    "name": "Marathon",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/7823191/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/0bba7d0a7d4da17e477376a966628c72/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/0bba7d0a7d4da17e477376a966628c72/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/0bba7d0a7d4da17e477376a966628c72/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/0bba7d0a7d4da17e477376a966628c72/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.152Z",
+    "updatedAt": "2017-08-21T06:20:33.152Z"
+  },
+  "129": {
+    "id": 129,
+    "name": "Die Biene Maja - Meine Lieder",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/7559223/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/4fe6244b7fc162c57d929603ab24a5bf/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/4fe6244b7fc162c57d929603ab24a5bf/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/4fe6244b7fc162c57d929603ab24a5bf/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/4fe6244b7fc162c57d929603ab24a5bf/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.154Z",
+    "updatedAt": "2017-08-21T06:20:33.154Z"
+  },
+  "130": {
+    "id": 130,
+    "name": "Fehlerfrei",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/6924234/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/24506ed1e8dcac1b928e2ed0fc91d866/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/24506ed1e8dcac1b928e2ed0fc91d866/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/24506ed1e8dcac1b928e2ed0fc91d866/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/24506ed1e8dcac1b928e2ed0fc91d866/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.166Z",
+    "updatedAt": "2017-08-21T06:20:33.166Z"
+  },
+  "131": {
+    "id": 131,
+    "name": "Zeitensprung",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/7486960/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/34764bc24a45814c8f2fc8f3dbed53ae/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/34764bc24a45814c8f2fc8f3dbed53ae/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/34764bc24a45814c8f2fc8f3dbed53ae/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/34764bc24a45814c8f2fc8f3dbed53ae/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.169Z",
+    "updatedAt": "2017-08-21T06:20:33.169Z"
+  },
+  "132": {
+    "id": 132,
+    "name": "Für einen Tag - Live 2012",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/6187764/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/8174429e5c5fd400b871cf8cbf1db358/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/8174429e5c5fd400b871cf8cbf1db358/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/8174429e5c5fd400b871cf8cbf1db358/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/8174429e5c5fd400b871cf8cbf1db358/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.194Z",
+    "updatedAt": "2017-08-21T06:20:33.194Z"
+  },
+  "133": {
+    "id": 133,
+    "name":
+      "The Wonder of You: Elvis Presley with the Royal Philharmonic Orchestra",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/14343814/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/97b77af8bbaeb372ab1379c3eeed422c/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/97b77af8bbaeb372ab1379c3eeed422c/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/97b77af8bbaeb372ab1379c3eeed422c/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/97b77af8bbaeb372ab1379c3eeed422c/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.197Z",
+    "updatedAt": "2017-08-21T06:20:33.197Z"
+  },
+  "134": {
+    "id": 134,
+    "name": "So Wie Ich Bin",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/396588/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/2234260aa57899413ba31a26933fe0b7/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/2234260aa57899413ba31a26933fe0b7/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/2234260aa57899413ba31a26933fe0b7/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/2234260aa57899413ba31a26933fe0b7/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.199Z",
+    "updatedAt": "2017-08-21T06:20:33.199Z"
+  },
+  "135": {
+    "id": 135,
+    "name": "Von Hier Bis Unendlich",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/330249/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/bd70c86a9385679c969907fed5ffcc4d/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/bd70c86a9385679c969907fed5ffcc4d/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/bd70c86a9385679c969907fed5ffcc4d/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/bd70c86a9385679c969907fed5ffcc4d/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.201Z",
+    "updatedAt": "2017-08-21T06:20:33.201Z"
+  },
+  "136": {
+    "id": 136,
+    "name": "Ballermann Hits 2007 (Part 2)",
+    "artistId": 3,
+    "cover": "https://api.deezer.com/album/1234855/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/8a87f1cf5bf4caabc3aa2d3f049c98d0/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/8a87f1cf5bf4caabc3aa2d3f049c98d0/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/8a87f1cf5bf4caabc3aa2d3f049c98d0/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/8a87f1cf5bf4caabc3aa2d3f049c98d0/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.208Z",
+    "updatedAt": "2017-08-21T06:20:33.208Z"
+  },
+  "137": {
+    "id": 137,
+    "name": "DAMN.",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/39949511/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/09c03a3459b6b635c45302644b249303/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/09c03a3459b6b635c45302644b249303/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/09c03a3459b6b635c45302644b249303/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/09c03a3459b6b635c45302644b249303/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.214Z",
+    "updatedAt": "2017-08-21T06:20:33.214Z"
+  },
+  "138": {
+    "id": 138,
+    "name": "This Is Acting (Deluxe Version)",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/14345648/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/305b06b02f21849dd2bf45614e0fafef/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/305b06b02f21849dd2bf45614e0fafef/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/305b06b02f21849dd2bf45614e0fafef/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/305b06b02f21849dd2bf45614e0fafef/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.224Z",
+    "updatedAt": "2017-08-21T06:20:33.224Z"
+  },
+  "139": {
+    "id": 139,
+    "name": "Mask Off",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/42039651/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/59f952beb1532ebc1022c4d241305039/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/59f952beb1532ebc1022c4d241305039/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/59f952beb1532ebc1022c4d241305039/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/59f952beb1532ebc1022c4d241305039/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.227Z",
+    "updatedAt": "2017-08-21T06:20:33.227Z"
+  },
+  "140": {
+    "id": 140,
+    "name": "Swimming Pools (Drank)",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/5111581/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/4620d1f18a1e403b560efbf38a837c83/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/4620d1f18a1e403b560efbf38a837c83/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/4620d1f18a1e403b560efbf38a837c83/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/4620d1f18a1e403b560efbf38a837c83/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.233Z",
+    "updatedAt": "2017-08-21T06:20:33.233Z"
+  },
+  "141": {
+    "id": 141,
+    "name": "Don't Wanna Know",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/14986923/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/a20fb6ae9ed53aa4c7b16233375f5251/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/a20fb6ae9ed53aa4c7b16233375f5251/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/a20fb6ae9ed53aa4c7b16233375f5251/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/a20fb6ae9ed53aa4c7b16233375f5251/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.238Z",
+    "updatedAt": "2017-08-21T06:20:33.238Z"
+  },
+  "142": {
+    "id": 142,
+    "name": "Ransom 2",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/15733070/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/70e0273497c11e52f4a60288108dae78/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/70e0273497c11e52f4a60288108dae78/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/70e0273497c11e52f4a60288108dae78/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/70e0273497c11e52f4a60288108dae78/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.249Z",
+    "updatedAt": "2017-08-21T06:20:33.249Z"
+  },
+  "143": {
+    "id": 143,
+    "name": "F**kin' Problems",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/6033690/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/0bd6e2b7d2527e6c6243e3f0db1fd079/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/0bd6e2b7d2527e6c6243e3f0db1fd079/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/0bd6e2b7d2527e6c6243e3f0db1fd079/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/0bd6e2b7d2527e6c6243e3f0db1fd079/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.252Z",
+    "updatedAt": "2017-08-21T06:20:33.252Z"
+  },
+  "144": {
+    "id": 144,
+    "name": "Section.80",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/1183499/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/a5c108e499bf5991f1bec01aa19eca23/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/a5c108e499bf5991f1bec01aa19eca23/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/a5c108e499bf5991f1bec01aa19eca23/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/a5c108e499bf5991f1bec01aa19eca23/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.259Z",
+    "updatedAt": "2017-08-21T06:20:33.259Z"
+  },
+  "145": {
+    "id": 145,
+    "name": "good kid, m.A.A.d city",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/6639397/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/beaffccb372735044f4b8252b0cd9c2b/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/beaffccb372735044f4b8252b0cd9c2b/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/beaffccb372735044f4b8252b0cd9c2b/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/beaffccb372735044f4b8252b0cd9c2b/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.262Z",
+    "updatedAt": "2017-08-21T06:20:33.262Z"
+  },
+  "146": {
+    "id": 146,
+    "name": "Starboy",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/14652356/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/afa915d88d871b6f929e61ada8aa644f/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/afa915d88d871b6f929e61ada8aa644f/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/afa915d88d871b6f929e61ada8aa644f/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/afa915d88d871b6f929e61ada8aa644f/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.264Z",
+    "updatedAt": "2017-08-21T06:20:33.264Z"
+  },
+  "147": {
+    "id": 147,
+    "name": "To Pimp A Butterfly",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/9896728/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/00dd0da365a94b1829302d6b7fec70e6/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/00dd0da365a94b1829302d6b7fec70e6/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/00dd0da365a94b1829302d6b7fec70e6/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/00dd0da365a94b1829302d6b7fec70e6/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.267Z",
+    "updatedAt": "2017-08-21T06:20:33.267Z"
+  },
+  "148": {
+    "id": 148,
+    "name": "Bad Blood",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/42946921/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/de7addba2b3b6effb8ea517fe5edff02/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/de7addba2b3b6effb8ea517fe5edff02/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/de7addba2b3b6effb8ea517fe5edff02/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/de7addba2b3b6effb8ea517fe5edff02/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.275Z",
+    "updatedAt": "2017-08-21T06:20:33.275Z"
+  },
+  "149": {
+    "id": 149,
+    "name": "The Recipe",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/1674624/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/31485fda1b4e3953d0d900b2d84cc415/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/31485fda1b4e3953d0d900b2d84cc415/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/31485fda1b4e3953d0d900b2d84cc415/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/31485fda1b4e3953d0d900b2d84cc415/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.278Z",
+    "updatedAt": "2017-08-21T06:20:33.278Z"
+  },
+  "150": {
+    "id": 150,
+    "name": "Radioactive",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/7359023/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/5a9b455a74efc743c79e1b50030f0440/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/5a9b455a74efc743c79e1b50030f0440/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/5a9b455a74efc743c79e1b50030f0440/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/5a9b455a74efc743c79e1b50030f0440/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.287Z",
+    "updatedAt": "2017-08-21T06:20:33.287Z"
+  },
+  "151": {
+    "id": 151,
+    "name": "Oxymoron",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/7423497/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/ff889e20926f52acae775e65daf2053f/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/ff889e20926f52acae775e65daf2053f/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/ff889e20926f52acae775e65daf2053f/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/ff889e20926f52acae775e65daf2053f/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.290Z",
+    "updatedAt": "2017-08-21T06:20:33.290Z"
+  },
+  "152": {
+    "id": 152,
+    "name": "X (Deluxe Version)",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/8488851/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/d37fe6d9abf5fbaea3ad63e3f873fb1b/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/d37fe6d9abf5fbaea3ad63e3f873fb1b/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/d37fe6d9abf5fbaea3ad63e3f873fb1b/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/d37fe6d9abf5fbaea3ad63e3f873fb1b/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.293Z",
+    "updatedAt": "2017-08-21T06:20:33.293Z"
+  },
+  "153": {
+    "id": 153,
+    "name": "Ctrl",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/42724001/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/a1a3326c5d9176c763fc3fd847b86681/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/a1a3326c5d9176c763fc3fd847b86681/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/a1a3326c5d9176c763fc3fd847b86681/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/a1a3326c5d9176c763fc3fd847b86681/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.296Z",
+    "updatedAt": "2017-08-21T06:20:33.296Z"
+  },
+  "154": {
+    "id": 154,
+    "name": "i",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/8716915/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/3f945f27b45c9ed8170ddd47ed92b997/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/3f945f27b45c9ed8170ddd47ed92b997/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/3f945f27b45c9ed8170ddd47ed92b997/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/3f945f27b45c9ed8170ddd47ed92b997/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.305Z",
+    "updatedAt": "2017-08-21T06:20:33.305Z"
+  },
+  "155": {
+    "id": 155,
+    "name": "LONG.LIVE.A$AP (Deluxe Version)",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/6195295/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/47007295ab1e38ae191a72d6c0b6fe01/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/47007295ab1e38ae191a72d6c0b6fe01/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/47007295ab1e38ae191a72d6c0b6fe01/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/47007295ab1e38ae191a72d6c0b6fe01/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.308Z",
+    "updatedAt": "2017-08-21T06:20:33.308Z"
+  },
+  "156": {
+    "id": 156,
+    "name": "The Heart Part 4",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/15745826/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/28b694008a5f66792922b531c2506fbf/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/28b694008a5f66792922b531c2506fbf/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/28b694008a5f66792922b531c2506fbf/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/28b694008a5f66792922b531c2506fbf/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.325Z",
+    "updatedAt": "2017-08-21T06:20:33.325Z"
+  },
+  "157": {
+    "id": 157,
+    "name": "Black Hippy 2",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/8621108/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/798b475dcd0832f7fff0d07a4b787394/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/798b475dcd0832f7fff0d07a4b787394/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/798b475dcd0832f7fff0d07a4b787394/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/798b475dcd0832f7fff0d07a4b787394/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.328Z",
+    "updatedAt": "2017-08-21T06:20:33.328Z"
+  },
+  "158": {
+    "id": 158,
+    "name": "Classic Man",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/10666512/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/86c1cebad8b4c8e1096d14977275545d/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/86c1cebad8b4c8e1096d14977275545d/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/86c1cebad8b4c8e1096d14977275545d/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/86c1cebad8b4c8e1096d14977275545d/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.334Z",
+    "updatedAt": "2017-08-21T06:20:33.334Z"
+  },
+  "159": {
+    "id": 159,
+    "name": "Kaleidoscope Dream (Deluxe Version)",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/6568817/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/7901d276a802c7d15d62b5890cf661f0/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/7901d276a802c7d15d62b5890cf661f0/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/7901d276a802c7d15d62b5890cf661f0/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/7901d276a802c7d15d62b5890cf661f0/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.337Z",
+    "updatedAt": "2017-08-21T06:20:33.337Z"
+  },
+  "160": {
+    "id": 160,
+    "name": "Sail Out",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/7082464/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/fadfc2c27fd4b35d83b8bf8d666c085e/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/fadfc2c27fd4b35d83b8bf8d666c085e/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/fadfc2c27fd4b35d83b8bf8d666c085e/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/fadfc2c27fd4b35d83b8bf8d666c085e/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.343Z",
+    "updatedAt": "2017-08-21T06:20:33.343Z"
+  },
+  "161": {
+    "id": 161,
+    "name": "Hip Hop Hit List",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/42569131/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/b69387fda149b866bc70d353c1efe23c/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/b69387fda149b866bc70d353c1efe23c/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/b69387fda149b866bc70d353c1efe23c/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/b69387fda149b866bc70d353c1efe23c/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.346Z",
+    "updatedAt": "2017-08-21T06:20:33.346Z"
+  },
+  "162": {
+    "id": 162,
+    "name": "FUTURE",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/43849261/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/5186078c5bd5623ebec9b2753d8aaebe/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/5186078c5bd5623ebec9b2753d8aaebe/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/5186078c5bd5623ebec9b2753d8aaebe/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/5186078c5bd5623ebec9b2753d8aaebe/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.355Z",
+    "updatedAt": "2017-08-21T06:20:33.355Z"
+  },
+  "163": {
+    "id": 163,
+    "name": "The Marshall Mathers LP2",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/7090505/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/7c71224818ac99b16570357b2f98e041/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/7c71224818ac99b16570357b2f98e041/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/7c71224818ac99b16570357b2f98e041/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/7c71224818ac99b16570357b2f98e041/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.360Z",
+    "updatedAt": "2017-08-21T06:20:33.360Z"
+  },
+  "164": {
+    "id": 164,
+    "name": "untitled 07 levitate",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/12698156/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/a58488e1445dcf96c908019d6ad0a491/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/a58488e1445dcf96c908019d6ad0a491/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/a58488e1445dcf96c908019d6ad0a491/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/a58488e1445dcf96c908019d6ad0a491/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.363Z",
+    "updatedAt": "2017-08-21T06:20:33.363Z"
+  },
+  "165": {
+    "id": 165,
+    "name": "We Up",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/6438294/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/cf7e2705d52711e664e48839a80db423/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/cf7e2705d52711e664e48839a80db423/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/cf7e2705d52711e664e48839a80db423/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/cf7e2705d52711e664e48839a80db423/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.366Z",
+    "updatedAt": "2017-08-21T06:20:33.366Z"
+  },
+  "166": {
+    "id": 166,
+    "name": "Major Key",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/13726882/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/bca5c7455ef6deff4e401d1786aefc9a/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/bca5c7455ef6deff4e401d1786aefc9a/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/bca5c7455ef6deff4e401d1786aefc9a/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/bca5c7455ef6deff4e401d1786aefc9a/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.376Z",
+    "updatedAt": "2017-08-21T06:20:33.376Z"
+  },
+  "167": {
+    "id": 167,
+    "name": "The Greatest",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/14905515/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/a4ccd88c8f66e6fbba3ba2e097bac5c2/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/a4ccd88c8f66e6fbba3ba2e097bac5c2/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/a4ccd88c8f66e6fbba3ba2e097bac5c2/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/a4ccd88c8f66e6fbba3ba2e097bac5c2/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.380Z",
+    "updatedAt": "2017-08-21T06:20:33.380Z"
+  },
+  "168": {
+    "id": 168,
+    "name": "untitled unmastered.",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/12557222/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/78ec9720a63da136f5d7b96229b1d441/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/78ec9720a63da136f5d7b96229b1d441/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/78ec9720a63da136f5d7b96229b1d441/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/78ec9720a63da136f5d7b96229b1d441/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.389Z",
+    "updatedAt": "2017-08-21T06:20:33.389Z"
+  },
+  "169": {
+    "id": 169,
+    "name": "Blurred Lines",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/6901159/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/3479d5d0a070eae22f7b67ddb715f49e/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/3479d5d0a070eae22f7b67ddb715f49e/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/3479d5d0a070eae22f7b67ddb715f49e/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/3479d5d0a070eae22f7b67ddb715f49e/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.395Z",
+    "updatedAt": "2017-08-21T06:20:33.395Z"
+  },
+  "170": {
+    "id": 170,
+    "name": "Collard Greens",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/6671016/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/d269160616b51a7f69658c1b502e05fe/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/d269160616b51a7f69658c1b502e05fe/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/d269160616b51a7f69658c1b502e05fe/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/d269160616b51a7f69658c1b502e05fe/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.398Z",
+    "updatedAt": "2017-08-21T06:20:33.398Z"
+  },
+  "171": {
+    "id": 171,
+    "name": "LA (feat. Kendrick Lamar, Brandy & James Fauntleroy)",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/11543732/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/9bff48302ff067843904650e6fb56047/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/9bff48302ff067843904650e6fb56047/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/9bff48302ff067843904650e6fb56047/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/9bff48302ff067843904650e6fb56047/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.406Z",
+    "updatedAt": "2017-08-21T06:20:33.406Z"
+  },
+  "172": {
+    "id": 172,
+    "name": "Alright",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/11431222/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/5c163a572dc76597231aa942375dec89/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/5c163a572dc76597231aa942375dec89/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/5c163a572dc76597231aa942375dec89/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/5c163a572dc76597231aa942375dec89/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.410Z",
+    "updatedAt": "2017-08-21T06:20:33.410Z"
+  },
+  "173": {
+    "id": 173,
+    "name": "Control System",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/2825541/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/88cc778914e8a1d0462b0d8cb6cd169b/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/88cc778914e8a1d0462b0d8cb6cd169b/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/88cc778914e8a1d0462b0d8cb6cd169b/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/88cc778914e8a1d0462b0d8cb6cd169b/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.413Z",
+    "updatedAt": "2017-08-21T06:20:33.413Z"
+  },
+  "174": {
+    "id": 174,
+    "name": "Born Sinner",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/6665254/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/41db5782391fa1abd8c825032ed48dca/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/41db5782391fa1abd8c825032ed48dca/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/41db5782391fa1abd8c825032ed48dca/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/41db5782391fa1abd8c825032ed48dca/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.423Z",
+    "updatedAt": "2017-08-21T06:20:33.423Z"
+  },
+  "175": {
+    "id": 175,
+    "name": "The Documentary 2",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/11290988/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/008da49825196ade9951d5348a445af2/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/008da49825196ade9951d5348a445af2/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/008da49825196ade9951d5348a445af2/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/008da49825196ade9951d5348a445af2/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.427Z",
+    "updatedAt": "2017-08-21T06:20:33.427Z"
+  },
+  "176": {
+    "id": 176,
+    "name": "Drunk",
+    "artistId": 4,
+    "cover": "https://api.deezer.com/album/15174133/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/6bd6e865d4937ed70a1b0c4033808505/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/6bd6e865d4937ed70a1b0c4033808505/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/6bd6e865d4937ed70a1b0c4033808505/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/6bd6e865d4937ed70a1b0c4033808505/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.430Z",
+    "updatedAt": "2017-08-21T06:20:33.430Z"
+  },
+  "177": {
+    "id": 177,
+    "name": "Metallica",
+    "artistId": 5,
+    "cover": "https://api.deezer.com/album/212377/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/f1c31620f0e108b707ce1a1af0954158/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/f1c31620f0e108b707ce1a1af0954158/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/f1c31620f0e108b707ce1a1af0954158/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/f1c31620f0e108b707ce1a1af0954158/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.446Z",
+    "updatedAt": "2017-08-21T06:20:33.446Z"
+  },
+  "178": {
+    "id": 178,
+    "name": "Garage Inc.",
+    "artistId": 5,
+    "cover": "https://api.deezer.com/album/212391/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/d6b738c64650ac1d5b73ca476b9198d3/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/d6b738c64650ac1d5b73ca476b9198d3/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/d6b738c64650ac1d5b73ca476b9198d3/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/d6b738c64650ac1d5b73ca476b9198d3/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.449Z",
+    "updatedAt": "2017-08-21T06:20:33.449Z"
+  },
+  "179": {
+    "id": 179,
+    "name": "Hardwired…To Self-Destruct",
+    "artistId": 5,
+    "cover": "https://api.deezer.com/album/14581202/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/22df6212ca5a43b3ec83caa814e8da16/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/22df6212ca5a43b3ec83caa814e8da16/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/22df6212ca5a43b3ec83caa814e8da16/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/22df6212ca5a43b3ec83caa814e8da16/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.452Z",
+    "updatedAt": "2017-08-21T06:20:33.452Z"
+  },
+  "180": {
+    "id": 180,
+    "name": "Master Of Puppets",
+    "artistId": 5,
+    "cover": "https://api.deezer.com/album/14581794/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/a72d51b93a38d740a7950ad651197555/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/a72d51b93a38d740a7950ad651197555/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/a72d51b93a38d740a7950ad651197555/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/a72d51b93a38d740a7950ad651197555/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.458Z",
+    "updatedAt": "2017-08-21T06:20:33.458Z"
+  },
+  "181": {
+    "id": 181,
+    "name": "...And Justice For All",
+    "artistId": 5,
+    "cover": "https://api.deezer.com/album/14581972/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/95b8a54887369c8023ab293ba099dc0e/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/95b8a54887369c8023ab293ba099dc0e/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/95b8a54887369c8023ab293ba099dc0e/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/95b8a54887369c8023ab293ba099dc0e/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.461Z",
+    "updatedAt": "2017-08-21T06:20:33.461Z"
+  },
+  "182": {
+    "id": 182,
+    "name": "Ride The Lightning",
+    "artistId": 5,
+    "cover": "https://api.deezer.com/album/14581986/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/f34d2cc1e7ee2f964ede32e174205dea/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/f34d2cc1e7ee2f964ede32e174205dea/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/f34d2cc1e7ee2f964ede32e174205dea/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/f34d2cc1e7ee2f964ede32e174205dea/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.465Z",
+    "updatedAt": "2017-08-21T06:20:33.465Z"
+  },
+  "183": {
+    "id": 183,
+    "name": "St. Anger",
+    "artistId": 5,
+    "cover": "https://api.deezer.com/album/212328/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/c8b5cac8c93262cb9ffb06eaf195144a/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/c8b5cac8c93262cb9ffb06eaf195144a/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/c8b5cac8c93262cb9ffb06eaf195144a/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/c8b5cac8c93262cb9ffb06eaf195144a/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.477Z",
+    "updatedAt": "2017-08-21T06:20:33.477Z"
+  },
+  "184": {
+    "id": 184,
+    "name": "Death Magnetic",
+    "artistId": 5,
+    "cover": "https://api.deezer.com/album/212357/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/b0e17be162f5800159a107bc3ac01aa5/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/b0e17be162f5800159a107bc3ac01aa5/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/b0e17be162f5800159a107bc3ac01aa5/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/b0e17be162f5800159a107bc3ac01aa5/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.482Z",
+    "updatedAt": "2017-08-21T06:20:33.482Z"
+  },
+  "185": {
+    "id": 185,
+    "name": "The 25th Anniversary Rock and Roll Hall of Fame Concerts, Vol. 2",
+    "artistId": 5,
+    "cover": "https://api.deezer.com/album/7451508/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/8f92b55d1eb884fe4585051581a37262/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/8f92b55d1eb884fe4585051581a37262/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/8f92b55d1eb884fe4585051581a37262/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/8f92b55d1eb884fe4585051581a37262/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.486Z",
+    "updatedAt": "2017-08-21T06:20:33.486Z"
+  },
+  "186": {
+    "id": 186,
+    "name": "Top 100 90's Hits, Vol. 4",
+    "artistId": 5,
+    "cover": "https://api.deezer.com/album/12473830/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/55fb76b55909392e9c89869cf01f6c8e/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/55fb76b55909392e9c89869cf01f6c8e/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/55fb76b55909392e9c89869cf01f6c8e/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/55fb76b55909392e9c89869cf01f6c8e/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.502Z",
+    "updatedAt": "2017-08-21T06:20:33.502Z"
+  },
+  "187": {
+    "id": 187,
+    "name": "Reload",
+    "artistId": 5,
+    "cover": "https://api.deezer.com/album/212388/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/5bfc696a447f419d14b94ad348c2d91c/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/5bfc696a447f419d14b94ad348c2d91c/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/5bfc696a447f419d14b94ad348c2d91c/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/5bfc696a447f419d14b94ad348c2d91c/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.513Z",
+    "updatedAt": "2017-08-21T06:20:33.513Z"
+  },
+  "188": {
+    "id": 188,
+    "name": "S & M",
+    "artistId": 5,
+    "cover": "https://api.deezer.com/album/212396/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/1c7495825f67d7b7547e63db632b4f26/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/1c7495825f67d7b7547e63db632b4f26/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/1c7495825f67d7b7547e63db632b4f26/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/1c7495825f67d7b7547e63db632b4f26/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.518Z",
+    "updatedAt": "2017-08-21T06:20:33.518Z"
+  },
+  "189": {
+    "id": 189,
+    "name": "Kill 'Em All",
+    "artistId": 5,
+    "cover": "https://api.deezer.com/album/14581190/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/b40d488245e4b6ecedb3426963e69075/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/b40d488245e4b6ecedb3426963e69075/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/b40d488245e4b6ecedb3426963e69075/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/b40d488245e4b6ecedb3426963e69075/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.524Z",
+    "updatedAt": "2017-08-21T06:20:33.524Z"
+  },
+  "190": {
+    "id": 190,
+    "name": "Load",
+    "artistId": 5,
+    "cover": "https://api.deezer.com/album/215356/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/19809465c986d58f8282f1bbeb9fe2c3/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/19809465c986d58f8282f1bbeb9fe2c3/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/19809465c986d58f8282f1bbeb9fe2c3/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/19809465c986d58f8282f1bbeb9fe2c3/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.529Z",
+    "updatedAt": "2017-08-21T06:20:33.529Z"
+  },
+  "191": {
+    "id": 191,
+    "name": "Top 100 90's Hits, Vol. 3",
+    "artistId": 5,
+    "cover": "https://api.deezer.com/album/12472580/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/552f8e81a63128b11f0254462ccbc854/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/552f8e81a63128b11f0254462ccbc854/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/552f8e81a63128b11f0254462ccbc854/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/552f8e81a63128b11f0254462ccbc854/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.535Z",
+    "updatedAt": "2017-08-21T06:20:33.535Z"
+  },
+  "192": {
+    "id": 192,
+    "name": "I Disappear",
+    "artistId": 5,
+    "cover": "https://api.deezer.com/album/212369/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/4a79ee1df97bb89050bc8f761d58046e/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/4a79ee1df97bb89050bc8f761d58046e/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/4a79ee1df97bb89050bc8f761d58046e/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/4a79ee1df97bb89050bc8f761d58046e/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.561Z",
+    "updatedAt": "2017-08-21T06:20:33.561Z"
+  },
+  "193": {
+    "id": 193,
+    "name": "Plays Metallica by Four Cellos",
+    "artistId": 5,
+    "cover": "https://api.deezer.com/album/9290354/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/e7e8f46d6eb572a5ffd6a5b6564f4cb7/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/e7e8f46d6eb572a5ffd6a5b6564f4cb7/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/e7e8f46d6eb572a5ffd6a5b6564f4cb7/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/e7e8f46d6eb572a5ffd6a5b6564f4cb7/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.567Z",
+    "updatedAt": "2017-08-21T06:20:33.567Z"
+  },
+  "194": {
+    "id": 194,
+    "name":
+      "World's Greatest Rock Anthems - The only Rock Tributes album you'll ever need!",
+    "artistId": 5,
+    "cover": "https://api.deezer.com/album/985354/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/9c833ace8cea364bdf23c687860ecbc0/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/9c833ace8cea364bdf23c687860ecbc0/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/9c833ace8cea364bdf23c687860ecbc0/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/9c833ace8cea364bdf23c687860ecbc0/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.572Z",
+    "updatedAt": "2017-08-21T06:20:33.572Z"
+  },
+  "195": {
+    "id": 195,
+    "name": "Plays Metallica by Four Cellos (Remastered)",
+    "artistId": 5,
+    "cover": "https://api.deezer.com/album/13014422/image",
+    "coverSmall":
+      "https://e-cdns-images.dzcdn.net/images/cover/88ef57ae9f8f02d7dabe55afe40a3fa2/56x56-000000-80-0-0.jpg",
+    "coverMedium":
+      "https://e-cdns-images.dzcdn.net/images/cover/88ef57ae9f8f02d7dabe55afe40a3fa2/250x250-000000-80-0-0.jpg",
+    "coverBig":
+      "https://e-cdns-images.dzcdn.net/images/cover/88ef57ae9f8f02d7dabe55afe40a3fa2/500x500-000000-80-0-0.jpg",
+    "coverXl":
+      "https://e-cdns-images.dzcdn.net/images/cover/88ef57ae9f8f02d7dabe55afe40a3fa2/1000x1000-000000-80-0-0.jpg",
+    "createdAt": "2017-08-21T06:20:33.591Z",
+    "updatedAt": "2017-08-21T06:20:33.591Z"
+  }
+}

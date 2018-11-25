@@ -1,0 +1,38 @@
+{
+  "1": {
+    "name": "Deichkind",
+    "createdAt": "2017-08-21T06:20:30.715Z",
+    "updatedAt": "2017-08-21T06:20:30.715Z",
+    "id": 1
+  },
+  "2": {
+    "name": "Eminem",
+    "createdAt": "2017-08-21T06:20:30.723Z",
+    "updatedAt": "2017-08-21T06:20:30.723Z",
+    "id": 2
+  },
+  "3": {
+    "name": "Helene Fischer",
+    "createdAt": "2017-08-21T06:20:30.726Z",
+    "updatedAt": "2017-08-21T06:20:30.726Z",
+    "id": 3
+  },
+  "4": {
+    "name": "Kendrick Lamar",
+    "createdAt": "2017-08-21T06:20:30.728Z",
+    "updatedAt": "2017-08-21T06:20:30.728Z",
+    "id": 4
+  },
+  "5": {
+    "name": "Metallica",
+    "createdAt": "2017-08-21T06:20:30.729Z",
+    "updatedAt": "2017-08-21T06:20:30.729Z",
+    "id": 5
+  },
+  "6": {
+    "name": "Queen",
+    "createdAt": "2017-08-21T06:20:30.729Z",
+    "updatedAt": "2017-08-21T06:20:30.729Z",
+    "id": 6
+  }
+}

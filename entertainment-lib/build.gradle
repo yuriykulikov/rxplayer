@@ -1,0 +1,24 @@
+apply plugin: "org.jetbrains.kotlin.jvm"
+apply plugin: "jacoco"
+apply plugin: 'com.jfrog.bintray'
+
+dependencies {
+    implementation"org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
+    implementation "io.reactivex.rxjava2:rxjava:2.2.3"
+    implementation "com.squareup.moshi:moshi:1.8.0"
+    implementation "com.squareup.moshi:moshi-kotlin:1.8.0"
+
+    testImplementation 'net.wuerl.kotlin:assertj-core-kotlin:0.1.1'
+    testImplementation 'junit:junit:4.12'
+    testImplementation 'org.mockito:mockito-core:2.8.47'
+}
+
+jacocoTestReport {
+    reports {
+        xml.enabled true
+        csv.enabled false
+        html.destination file("${buildDir}/jacocoHtml")
+    }
+}
+
+apply from: 'publish.gradle'

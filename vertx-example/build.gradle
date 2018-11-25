@@ -1,0 +1,26 @@
+apply plugin: 'org.jetbrains.kotlin.jvm'
+apply plugin: 'jacoco'
+
+repositories {
+    maven {
+        url "https://dl.bintray.com/yuriykulikov/rxplayer"
+    }
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
+    implementation 'yuriykulikov.rxplayer:entertainment-lib:1.0.1'
+    implementation 'io.vertx:vertx-core:3.5.0'
+    implementation 'io.vertx:vertx-web-client:3.5.0'
+}
+
+jacocoTestReport {
+    reports {
+        xml.enabled true
+        csv.enabled false
+        html.destination file("${buildDir}/jacocoHtml")
+    }
+}
+
+apply plugin: 'application'
+mainClassName = 'de.eso.rxplayer.vertx.Launcher'

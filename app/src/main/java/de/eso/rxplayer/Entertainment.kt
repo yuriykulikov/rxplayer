@@ -4,6 +4,7 @@ import de.eso.rxplayer.Audio.AudioState
 import de.eso.rxplayer.Audio.Connection
 import io.reactivex.Completable
 import io.reactivex.Observable
+import io.reactivex.Single
 
 
 /**
@@ -18,6 +19,8 @@ interface Entertainment {
     val cd: Player
     /** Radio tuner. Station can be chosen, but the track cannot be. */
     val fm: Radio
+    /** Browser for fetching artsists and albums */
+    val browser: Browser
     /** Represents the audio system speakers. For testing and debugging purposes. */
     val speaker: Speaker
 }
@@ -83,6 +86,9 @@ interface Player {
     /** Index of a track in the [list] which is currently playing */
     fun nowPlaying(): Observable<Int>
 
+    /** Whether the player is playing or not */
+    fun isPlaying(): Observable<Boolean>
+
     /** Resumes the playback. Completable is lazy and must be subscribed. */
     fun play(): Completable
 
@@ -111,6 +117,17 @@ interface Radio {
 
     /** Select a station from the list */
     fun select(index: Int): Completable
+}
+
+/**
+ * Access to the Media database. Artists and albums can be queried by the id.
+ */
+interface Browser {
+    /** Fetches the album for the given id. Always gives the same result. Does not implement caching. */
+    fun albumById(id: Int): Single<Album>
+
+    /** Fetches the artist for the given id. Always gives the same result. Does not implement caching. */
+    fun artistBy(id: Int): Single<Artist>
 }
 
 /**

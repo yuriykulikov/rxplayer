@@ -1,0 +1,5414 @@
+{
+  "1": {
+    "id": 1,
+    "albumId": 1,
+    "artistId": 6,
+    "title": "Trap Queen",
+    "duration": 222,
+    "createdAt": "2017-08-21T06:20:35.799Z",
+    "updatedAt": "2017-08-21T06:20:35.799Z"
+  },
+  "2": {
+    "id": 2,
+    "albumId": 3,
+    "artistId": 6,
+    "title": "Bohemian Rhapsody (Remastered 2011)",
+    "duration": 354,
+    "createdAt": "2017-08-21T06:20:35.818Z",
+    "updatedAt": "2017-08-21T06:20:35.818Z"
+  },
+  "3": {
+    "id": 3,
+    "albumId": 2,
+    "artistId": 6,
+    "title": "The Way You Used To Do",
+    "duration": 274,
+    "createdAt": "2017-08-21T06:20:35.824Z",
+    "updatedAt": "2017-08-21T06:20:35.824Z"
+  },
+  "4": {
+    "id": 4,
+    "albumId": 5,
+    "artistId": 6,
+    "title": "Another One Bites The Dust (Remastered 2011)",
+    "duration": 214,
+    "createdAt": "2017-08-21T06:20:35.851Z",
+    "updatedAt": "2017-08-21T06:20:35.851Z"
+  },
+  "5": {
+    "id": 5,
+    "albumId": 6,
+    "artistId": 6,
+    "title": "Don't Stop Me Now (Remastered 2011)",
+    "duration": 209,
+    "createdAt": "2017-08-21T06:20:35.857Z",
+    "updatedAt": "2017-08-21T06:20:35.857Z"
+  },
+  "6": {
+    "id": 6,
+    "albumId": 7,
+    "artistId": 6,
+    "title": "Habits (Stay High) (Hippie Sabotage Remix)",
+    "duration": 258,
+    "createdAt": "2017-08-21T06:20:35.862Z",
+    "updatedAt": "2017-08-21T06:20:35.862Z"
+  },
+  "7": {
+    "id": 7,
+    "albumId": 3,
+    "artistId": 6,
+    "title": "Bohemian Rhapsody (Remastered 2011)",
+    "duration": 354,
+    "createdAt": "2017-08-21T06:20:35.865Z",
+    "updatedAt": "2017-08-21T06:20:35.865Z"
+  },
+  "8": {
+    "id": 8,
+    "albumId": 4,
+    "artistId": 6,
+    "title": "No Diggity",
+    "duration": 305,
+    "createdAt": "2017-08-21T06:20:35.885Z",
+    "updatedAt": "2017-08-21T06:20:35.885Z"
+  },
+  "9": {
+    "id": 9,
+    "albumId": 7,
+    "artistId": 6,
+    "title": "Talking Body",
+    "duration": 238,
+    "createdAt": "2017-08-21T06:20:35.894Z",
+    "updatedAt": "2017-08-21T06:20:35.894Z"
+  },
+  "10": {
+    "id": 10,
+    "albumId": 8,
+    "artistId": 6,
+    "title": "Song For The Dead (Album Version Explicit)",
+    "duration": 352,
+    "createdAt": "2017-08-21T06:20:35.903Z",
+    "updatedAt": "2017-08-21T06:20:35.903Z"
+  },
+  "11": {
+    "id": 11,
+    "albumId": 8,
+    "artistId": 6,
+    "title": "No One Knows",
+    "duration": 278,
+    "createdAt": "2017-08-21T06:20:35.913Z",
+    "updatedAt": "2017-08-21T06:20:35.913Z"
+  },
+  "12": {
+    "id": 12,
+    "albumId": 8,
+    "artistId": 6,
+    "title": "Go With The Flow",
+    "duration": 187,
+    "createdAt": "2017-08-21T06:20:35.918Z",
+    "updatedAt": "2017-08-21T06:20:35.918Z"
+  },
+  "13": {
+    "id": 13,
+    "albumId": 8,
+    "artistId": 6,
+    "title":
+      "You Think I Ain't Worth A Dollar, But I Feel Like A Millionaire (Album Version With Interlude)",
+    "duration": 192,
+    "createdAt": "2017-08-21T06:20:35.922Z",
+    "updatedAt": "2017-08-21T06:20:35.922Z"
+  },
+  "14": {
+    "id": 14,
+    "albumId": 8,
+    "artistId": 6,
+    "title": "First It Giveth",
+    "duration": 198,
+    "createdAt": "2017-08-21T06:20:35.935Z",
+    "updatedAt": "2017-08-21T06:20:35.935Z"
+  },
+  "15": {
+    "id": 15,
+    "albumId": 9,
+    "artistId": 6,
+    "title": "We Will Rock You (Remastered 2011)",
+    "duration": 122,
+    "createdAt": "2017-08-21T06:20:35.940Z",
+    "updatedAt": "2017-08-21T06:20:35.940Z"
+  },
+  "16": {
+    "id": 16,
+    "albumId": 10,
+    "artistId": 6,
+    "title": "Under Pressure",
+    "duration": 237,
+    "createdAt": "2017-08-21T06:20:35.956Z",
+    "updatedAt": "2017-08-21T06:20:35.956Z"
+  },
+  "17": {
+    "id": 17,
+    "albumId": 11,
+    "artistId": 6,
+    "title": "I Want To Break Free (Remastered 2011)",
+    "duration": 258,
+    "createdAt": "2017-08-21T06:20:35.979Z",
+    "updatedAt": "2017-08-21T06:20:35.979Z"
+  },
+  "18": {
+    "id": 18,
+    "albumId": 11,
+    "artistId": 6,
+    "title": "Radio Ga Ga (Remastered 2011)",
+    "duration": 343,
+    "createdAt": "2017-08-21T06:20:35.984Z",
+    "updatedAt": "2017-08-21T06:20:35.984Z"
+  },
+  "19": {
+    "id": 19,
+    "albumId": 11,
+    "artistId": 6,
+    "title": "I Want It All (Remastered 2011)",
+    "duration": 241,
+    "createdAt": "2017-08-21T06:20:35.994Z",
+    "updatedAt": "2017-08-21T06:20:35.994Z"
+  },
+  "20": {
+    "id": 20,
+    "albumId": 11,
+    "artistId": 6,
+    "title": "Who Wants To Live Forever (Remastered 2011)",
+    "duration": 295,
+    "createdAt": "2017-08-21T06:20:36.007Z",
+    "updatedAt": "2017-08-21T06:20:36.007Z"
+  },
+  "21": {
+    "id": 21,
+    "albumId": 11,
+    "artistId": 6,
+    "title": "Under Pressure (Remastered 2011)",
+    "duration": 236,
+    "createdAt": "2017-08-21T06:20:36.012Z",
+    "updatedAt": "2017-08-21T06:20:36.012Z"
+  },
+  "22": {
+    "id": 22,
+    "albumId": 11,
+    "artistId": 6,
+    "title": "A Kind Of Magic (Remastered 2011)",
+    "duration": 262,
+    "createdAt": "2017-08-21T06:20:36.029Z",
+    "updatedAt": "2017-08-21T06:20:36.029Z"
+  },
+  "23": {
+    "id": 23,
+    "albumId": 13,
+    "artistId": 6,
+    "title": "The Show Must Go On (Remastered 2011)",
+    "duration": 277,
+    "createdAt": "2017-08-21T06:20:36.043Z",
+    "updatedAt": "2017-08-21T06:20:36.043Z"
+  },
+  "24": {
+    "id": 24,
+    "albumId": 11,
+    "artistId": 6,
+    "title": "The Show Must Go On (Remastered 2011)",
+    "duration": 263,
+    "createdAt": "2017-08-21T06:20:36.047Z",
+    "updatedAt": "2017-08-21T06:20:36.047Z"
+  },
+  "25": {
+    "id": 25,
+    "albumId": 11,
+    "artistId": 6,
+    "title": "Radio Ga Ga (Remastered 2011)",
+    "duration": 343,
+    "createdAt": "2017-08-21T06:20:36.050Z",
+    "updatedAt": "2017-08-21T06:20:36.050Z"
+  },
+  "26": {
+    "id": 26,
+    "albumId": 11,
+    "artistId": 6,
+    "title": "Breakthru (Remastered 2011)",
+    "duration": 249,
+    "createdAt": "2017-08-21T06:20:36.071Z",
+    "updatedAt": "2017-08-21T06:20:36.071Z"
+  },
+  "27": {
+    "id": 27,
+    "albumId": 12,
+    "artistId": 6,
+    "title": "Dancing Queen",
+    "duration": 231,
+    "createdAt": "2017-08-21T06:20:36.076Z",
+    "updatedAt": "2017-08-21T06:20:36.076Z"
+  },
+  "28": {
+    "id": 28,
+    "albumId": 14,
+    "artistId": 6,
+    "title": "We Are The Champions (Remastered 2011)",
+    "duration": 186,
+    "createdAt": "2017-08-21T06:20:36.081Z",
+    "updatedAt": "2017-08-21T06:20:36.081Z"
+  },
+  "29": {
+    "id": 29,
+    "albumId": 14,
+    "artistId": 6,
+    "title": "Killer Queen (Remastered 2011)",
+    "duration": 179,
+    "createdAt": "2017-08-21T06:20:36.101Z",
+    "updatedAt": "2017-08-21T06:20:36.101Z"
+  },
+  "30": {
+    "id": 30,
+    "albumId": 14,
+    "artistId": 6,
+    "title": "Fat Bottomed Girls (Remastered 2011)",
+    "duration": 202,
+    "createdAt": "2017-08-21T06:20:36.104Z",
+    "updatedAt": "2017-08-21T06:20:36.104Z"
+  },
+  "31": {
+    "id": 31,
+    "albumId": 14,
+    "artistId": 6,
+    "title": "Crazy Little Thing Called Love (Remastered 2011)",
+    "duration": 163,
+    "createdAt": "2017-08-21T06:20:36.120Z",
+    "updatedAt": "2017-08-21T06:20:36.120Z"
+  },
+  "32": {
+    "id": 32,
+    "albumId": 14,
+    "artistId": 6,
+    "title": "Somebody To Love (Remastered 2011)",
+    "duration": 296,
+    "createdAt": "2017-08-21T06:20:36.132Z",
+    "updatedAt": "2017-08-21T06:20:36.132Z"
+  },
+  "33": {
+    "id": 33,
+    "albumId": 14,
+    "artistId": 6,
+    "title": "We Will Rock You (Remastered 2011)",
+    "duration": 121,
+    "createdAt": "2017-08-21T06:20:36.136Z",
+    "updatedAt": "2017-08-21T06:20:36.136Z"
+  },
+  "34": {
+    "id": 34,
+    "albumId": 14,
+    "artistId": 6,
+    "title": "Bohemian Rhapsody (Remastered 2011)",
+    "duration": 355,
+    "createdAt": "2017-08-21T06:20:36.140Z",
+    "updatedAt": "2017-08-21T06:20:36.140Z"
+  },
+  "35": {
+    "id": 35,
+    "albumId": 14,
+    "artistId": 6,
+    "title": "You're My Best Friend (Remastered 2011)",
+    "duration": 170,
+    "createdAt": "2017-08-21T06:20:36.153Z",
+    "updatedAt": "2017-08-21T06:20:36.153Z"
+  },
+  "36": {
+    "id": 36,
+    "albumId": 14,
+    "artistId": 6,
+    "title": "Don't Stop Me Now (Remastered 2011)",
+    "duration": 209,
+    "createdAt": "2017-08-21T06:20:36.160Z",
+    "updatedAt": "2017-08-21T06:20:36.160Z"
+  },
+  "37": {
+    "id": 37,
+    "albumId": 14,
+    "artistId": 6,
+    "title": "Bicycle Race (Remastered 2011)",
+    "duration": 180,
+    "createdAt": "2017-08-21T06:20:36.203Z",
+    "updatedAt": "2017-08-21T06:20:36.203Z"
+  },
+  "38": {
+    "id": 38,
+    "albumId": 14,
+    "artistId": 6,
+    "title": "Another One Bites The Dust (Remastered 2011)",
+    "duration": 215,
+    "createdAt": "2017-08-21T06:20:36.238Z",
+    "updatedAt": "2017-08-21T06:20:36.238Z"
+  },
+  "39": {
+    "id": 39,
+    "albumId": 14,
+    "artistId": 6,
+    "title": "Flash (Remastered 2011)",
+    "duration": 167,
+    "createdAt": "2017-08-21T06:20:36.245Z",
+    "updatedAt": "2017-08-21T06:20:36.245Z"
+  },
+  "40": {
+    "id": 40,
+    "albumId": 14,
+    "artistId": 6,
+    "title": "Save Me (Remastered 2011)",
+    "duration": 228,
+    "createdAt": "2017-08-21T06:20:36.249Z",
+    "updatedAt": "2017-08-21T06:20:36.249Z"
+  },
+  "41": {
+    "id": 41,
+    "albumId": 14,
+    "artistId": 6,
+    "title": "Good Old-Fashioned Lover Boy (Remastered 2011)",
+    "duration": 173,
+    "createdAt": "2017-08-21T06:20:36.259Z",
+    "updatedAt": "2017-08-21T06:20:36.259Z"
+  },
+  "42": {
+    "id": 42,
+    "albumId": 14,
+    "artistId": 6,
+    "title": "Play The Game (Remastered 2011)",
+    "duration": 211,
+    "createdAt": "2017-08-21T06:20:36.264Z",
+    "updatedAt": "2017-08-21T06:20:36.264Z"
+  },
+  "43": {
+    "id": 43,
+    "albumId": 15,
+    "artistId": 6,
+    "title": "Make It Wit Chu",
+    "duration": 290,
+    "createdAt": "2017-08-21T06:20:36.267Z",
+    "updatedAt": "2017-08-21T06:20:36.267Z"
+  },
+  "44": {
+    "id": 44,
+    "albumId": 16,
+    "artistId": 6,
+    "title": "I Say A Little Prayer",
+    "duration": 211,
+    "createdAt": "2017-08-21T06:20:36.276Z",
+    "updatedAt": "2017-08-21T06:20:36.276Z"
+  },
+  "45": {
+    "id": 45,
+    "albumId": 17,
+    "artistId": 6,
+    "title": "Under Pressure (1994 Remastered Version)",
+    "duration": 245,
+    "createdAt": "2017-08-21T06:20:36.280Z",
+    "updatedAt": "2017-08-21T06:20:36.280Z"
+  },
+  "46": {
+    "id": 46,
+    "albumId": 16,
+    "artistId": 6,
+    "title": "Dr. Feelgood [Love Is Serious Business]",
+    "duration": 198,
+    "createdAt": "2017-08-21T06:20:36.284Z",
+    "updatedAt": "2017-08-21T06:20:36.284Z"
+  },
+  "47": {
+    "id": 47,
+    "albumId": 16,
+    "artistId": 6,
+    "title": "(You Make Me Feel Like) A Natural Woman",
+    "duration": 159,
+    "createdAt": "2017-08-21T06:20:36.301Z",
+    "updatedAt": "2017-08-21T06:20:36.301Z"
+  },
+  "48": {
+    "id": 48,
+    "albumId": 18,
+    "artistId": 6,
+    "title": "Rock & Roll Queen",
+    "duration": 171,
+    "createdAt": "2017-08-21T06:20:36.305Z",
+    "updatedAt": "2017-08-21T06:20:36.305Z"
+  },
+  "49": {
+    "id": 49,
+    "albumId": 19,
+    "artistId": 6,
+    "title": "Kings and Queens",
+    "duration": 347,
+    "createdAt": "2017-08-21T06:20:36.308Z",
+    "updatedAt": "2017-08-21T06:20:36.308Z"
+  },
+  "50": {
+    "id": 50,
+    "albumId": 20,
+    "artistId": 6,
+    "title": "Black Magic Woman / Gypsy Queen",
+    "duration": 322,
+    "createdAt": "2017-08-21T06:20:36.324Z",
+    "updatedAt": "2017-08-21T06:20:36.324Z"
+  },
+  "51": {
+    "id": 51,
+    "albumId": 21,
+    "artistId": 6,
+    "title": "Dancing Queen",
+    "duration": 231,
+    "createdAt": "2017-08-21T06:20:36.339Z",
+    "updatedAt": "2017-08-21T06:20:36.339Z"
+  },
+  "52": {
+    "id": 52,
+    "albumId": 22,
+    "artistId": 6,
+    "title": "The Evil Has Landed",
+    "duration": 390,
+    "createdAt": "2017-08-21T06:20:36.369Z",
+    "updatedAt": "2017-08-21T06:20:36.369Z"
+  },
+  "53": {
+    "id": 53,
+    "albumId": 23,
+    "artistId": 6,
+    "title": "Satisfied (feat. Miguel & Queen Latifah)",
+    "duration": 318,
+    "createdAt": "2017-08-21T06:20:36.378Z",
+    "updatedAt": "2017-08-21T06:20:36.378Z"
+  },
+  "54": {
+    "id": 54,
+    "albumId": 24,
+    "artistId": 6,
+    "title": "Caribbean Queen (No More Love on the Run)",
+    "duration": 244,
+    "createdAt": "2017-08-21T06:20:36.382Z",
+    "updatedAt": "2017-08-21T06:20:36.382Z"
+  },
+  "55": {
+    "id": 55,
+    "albumId": 25,
+    "artistId": 6,
+    "title": "Tilted",
+    "duration": 233,
+    "createdAt": "2017-08-21T06:20:36.385Z",
+    "updatedAt": "2017-08-21T06:20:36.385Z"
+  },
+  "56": {
+    "id": 56,
+    "albumId": 26,
+    "artistId": 6,
+    "title": "Little Sister",
+    "duration": 174,
+    "createdAt": "2017-08-21T06:20:36.395Z",
+    "updatedAt": "2017-08-21T06:20:36.395Z"
+  },
+  "57": {
+    "id": 57,
+    "albumId": 26,
+    "artistId": 6,
+    "title": "Burn The Witch",
+    "duration": 215,
+    "createdAt": "2017-08-21T06:20:36.399Z",
+    "updatedAt": "2017-08-21T06:20:36.399Z"
+  },
+  "58": {
+    "id": 58,
+    "albumId": 26,
+    "artistId": 6,
+    "title": "In My Head",
+    "duration": 241,
+    "createdAt": "2017-08-21T06:20:36.403Z",
+    "updatedAt": "2017-08-21T06:20:36.403Z"
+  },
+  "59": {
+    "id": 59,
+    "albumId": 27,
+    "artistId": 6,
+    "title": "God Save The Queen",
+    "duration": 199,
+    "createdAt": "2017-08-21T06:20:36.415Z",
+    "updatedAt": "2017-08-21T06:20:36.415Z"
+  },
+  "60": {
+    "id": 60,
+    "albumId": 28,
+    "artistId": 6,
+    "title": "Bigmouth Strikes Again (2011 Remastered Version)",
+    "duration": 193,
+    "createdAt": "2017-08-21T06:20:36.419Z",
+    "updatedAt": "2017-08-21T06:20:36.419Z"
+  },
+  "61": {
+    "id": 61,
+    "albumId": 29,
+    "artistId": 6,
+    "title": "Queen's Speech 4",
+    "duration": 196,
+    "createdAt": "2017-08-21T06:20:36.444Z",
+    "updatedAt": "2017-08-21T06:20:36.444Z"
+  },
+  "62": {
+    "id": 62,
+    "albumId": 30,
+    "artistId": 6,
+    "title": "Love Of My Life (Remastered 2011)",
+    "duration": 213,
+    "createdAt": "2017-08-21T06:20:36.502Z",
+    "updatedAt": "2017-08-21T06:20:36.502Z"
+  },
+  "63": {
+    "id": 63,
+    "albumId": 31,
+    "artistId": 6,
+    "title": "Smooth Sailing",
+    "duration": 291,
+    "createdAt": "2017-08-21T06:20:36.506Z",
+    "updatedAt": "2017-08-21T06:20:36.506Z"
+  },
+  "64": {
+    "id": 64,
+    "albumId": 31,
+    "artistId": 6,
+    "title": "I Sat By The Ocean",
+    "duration": 235,
+    "createdAt": "2017-08-21T06:20:36.510Z",
+    "updatedAt": "2017-08-21T06:20:36.510Z"
+  },
+  "65": {
+    "id": 65,
+    "albumId": 31,
+    "artistId": 6,
+    "title": "My God Is The Sun",
+    "duration": 235,
+    "createdAt": "2017-08-21T06:20:36.520Z",
+    "updatedAt": "2017-08-21T06:20:36.520Z"
+  },
+  "66": {
+    "id": 66,
+    "albumId": 31,
+    "artistId": 6,
+    "title": "If I Had A Tail",
+    "duration": 295,
+    "createdAt": "2017-08-21T06:20:36.525Z",
+    "updatedAt": "2017-08-21T06:20:36.525Z"
+  },
+  "67": {
+    "id": 67,
+    "albumId": 31,
+    "artistId": 6,
+    "title": "The Vampyre Of Time And Memory",
+    "duration": 214,
+    "createdAt": "2017-08-21T06:20:36.535Z",
+    "updatedAt": "2017-08-21T06:20:36.535Z"
+  },
+  "68": {
+    "id": 68,
+    "albumId": 32,
+    "artistId": 6,
+    "title": "The Beat Goes On",
+    "duration": 244,
+    "createdAt": "2017-08-21T06:20:36.572Z",
+    "updatedAt": "2017-08-21T06:20:36.572Z"
+  },
+  "69": {
+    "id": 69,
+    "albumId": 33,
+    "artistId": 6,
+    "title":
+      "I Was Born To Love You (Vocals & Piano Version / Remastered 2011)",
+    "duration": 175,
+    "createdAt": "2017-08-21T06:20:36.585Z",
+    "updatedAt": "2017-08-21T06:20:36.585Z"
+  },
+  "70": {
+    "id": 70,
+    "albumId": 34,
+    "artistId": 6,
+    "title": "Brighton Rock (Remastered 2011)",
+    "duration": 310,
+    "createdAt": "2017-08-21T06:20:36.612Z",
+    "updatedAt": "2017-08-21T06:20:36.612Z"
+  },
+  "71": {
+    "id": 71,
+    "albumId": 35,
+    "artistId": 6,
+    "title": "I Want To Break Free (Remastered 2011)",
+    "duration": 258,
+    "createdAt": "2017-08-21T06:20:36.632Z",
+    "updatedAt": "2017-08-21T06:20:36.632Z"
+  },
+  "72": {
+    "id": 72,
+    "albumId": 35,
+    "artistId": 6,
+    "title": "You Don't Fool Me (Remastered 2011)",
+    "duration": 322,
+    "createdAt": "2017-08-21T06:20:36.636Z",
+    "updatedAt": "2017-08-21T06:20:36.636Z"
+  },
+  "73": {
+    "id": 73,
+    "albumId": 35,
+    "artistId": 6,
+    "title": "Too Much Love Will Kill You",
+    "duration": 258,
+    "createdAt": "2017-08-21T06:20:36.639Z",
+    "updatedAt": "2017-08-21T06:20:36.639Z"
+  },
+  "74": {
+    "id": 74,
+    "albumId": 35,
+    "artistId": 6,
+    "title": "Don't Stop Me Now (Remastered 2011)",
+    "duration": 209,
+    "createdAt": "2017-08-21T06:20:36.649Z",
+    "updatedAt": "2017-08-21T06:20:36.649Z"
+  },
+  "75": {
+    "id": 75,
+    "albumId": 35,
+    "artistId": 6,
+    "title": "Bohemian Rhapsody (Remastered 2011)",
+    "duration": 355,
+    "createdAt": "2017-08-21T06:20:36.653Z",
+    "updatedAt": "2017-08-21T06:20:36.653Z"
+  },
+  "76": {
+    "id": 76,
+    "albumId": 35,
+    "artistId": 6,
+    "title": "Innuendo (Remastered 2011)",
+    "duration": 388,
+    "createdAt": "2017-08-21T06:20:36.656Z",
+    "updatedAt": "2017-08-21T06:20:36.656Z"
+  },
+  "77": {
+    "id": 77,
+    "albumId": 35,
+    "artistId": 6,
+    "title": "Killer Queen (Remastered 2011)",
+    "duration": 179,
+    "createdAt": "2017-08-21T06:20:36.667Z",
+    "updatedAt": "2017-08-21T06:20:36.667Z"
+  },
+  "78": {
+    "id": 78,
+    "albumId": 36,
+    "artistId": 6,
+    "title": "Johnny",
+    "duration": 236,
+    "createdAt": "2017-08-21T06:20:36.671Z",
+    "updatedAt": "2017-08-21T06:20:36.671Z"
+  },
+  "79": {
+    "id": 79,
+    "albumId": 35,
+    "artistId": 6,
+    "title": "Another One Bites The Dust (Remastered 2011)",
+    "duration": 215,
+    "createdAt": "2017-08-21T06:20:36.678Z",
+    "updatedAt": "2017-08-21T06:20:36.678Z"
+  },
+  "80": {
+    "id": 80,
+    "albumId": 35,
+    "artistId": 6,
+    "title": "Princes Of The Universe (Remastered 2011)",
+    "duration": 211,
+    "createdAt": "2017-08-21T06:20:36.715Z",
+    "updatedAt": "2017-08-21T06:20:36.715Z"
+  },
+  "81": {
+    "id": 81,
+    "albumId": 37,
+    "artistId": 6,
+    "title": "My African Queen",
+    "duration": 195,
+    "createdAt": "2017-08-21T06:20:36.729Z",
+    "updatedAt": "2017-08-21T06:20:36.729Z"
+  },
+  "82": {
+    "id": 82,
+    "albumId": 38,
+    "artistId": 6,
+    "title": "Kings And Queens Of Summer",
+    "duration": 187,
+    "createdAt": "2017-08-21T06:20:36.740Z",
+    "updatedAt": "2017-08-21T06:20:36.740Z"
+  },
+  "83": {
+    "id": 83,
+    "albumId": 39,
+    "artistId": 6,
+    "title": "Forever (Piano Version)",
+    "duration": 200,
+    "createdAt": "2017-08-21T06:20:36.748Z",
+    "updatedAt": "2017-08-21T06:20:36.748Z"
+  },
+  "84": {
+    "id": 84,
+    "albumId": 42,
+    "artistId": 6,
+    "title": "One by One (feat. Julien Alour)",
+    "duration": 306,
+    "createdAt": "2017-08-21T06:20:36.751Z",
+    "updatedAt": "2017-08-21T06:20:36.751Z"
+  },
+  "85": {
+    "id": 85,
+    "albumId": 40,
+    "artistId": 6,
+    "title": "Prom Queen",
+    "duration": 226,
+    "createdAt": "2017-08-21T06:20:36.755Z",
+    "updatedAt": "2017-08-21T06:20:36.755Z"
+  },
+  "86": {
+    "id": 86,
+    "albumId": 41,
+    "artistId": 6,
+    "title": "No Diggity",
+    "duration": 304,
+    "createdAt": "2017-08-21T06:20:36.770Z",
+    "updatedAt": "2017-08-21T06:20:36.770Z"
+  },
+  "87": {
+    "id": 87,
+    "albumId": 42,
+    "artistId": 6,
+    "title": "I Wanna Move (feat. Géraldine Laurent & Anne Paceo)",
+    "duration": 262,
+    "createdAt": "2017-08-21T06:20:36.776Z",
+    "updatedAt": "2017-08-21T06:20:36.776Z"
+  },
+  "88": {
+    "id": 88,
+    "albumId": 43,
+    "artistId": 6,
+    "title": "Silent Lucidity (Re-Recorded)",
+    "duration": 345,
+    "createdAt": "2017-08-21T06:20:36.781Z",
+    "updatedAt": "2017-08-21T06:20:36.781Z"
+  },
+  "89": {
+    "id": 89,
+    "albumId": 44,
+    "artistId": 6,
+    "title": "Dancing Queen",
+    "duration": 197,
+    "createdAt": "2017-08-21T06:20:36.792Z",
+    "updatedAt": "2017-08-21T06:20:36.792Z"
+  },
+  "90": {
+    "id": 90,
+    "albumId": 48,
+    "artistId": 6,
+    "title": "Queen's Speech 5",
+    "duration": 182,
+    "createdAt": "2017-08-21T06:20:36.798Z",
+    "updatedAt": "2017-08-21T06:20:36.798Z"
+  },
+  "91": {
+    "id": 91,
+    "albumId": 45,
+    "artistId": 6,
+    "title": "There's A Break In The Road",
+    "duration": 171,
+    "createdAt": "2017-08-21T06:20:36.805Z",
+    "updatedAt": "2017-08-21T06:20:36.805Z"
+  },
+  "92": {
+    "id": 92,
+    "albumId": 46,
+    "artistId": 6,
+    "title": "Dance Hall Party",
+    "duration": 168,
+    "createdAt": "2017-08-21T06:20:36.819Z",
+    "updatedAt": "2017-08-21T06:20:36.819Z"
+  },
+  "93": {
+    "id": 93,
+    "albumId": 47,
+    "artistId": 6,
+    "title": "Lightning Song",
+    "duration": 127,
+    "createdAt": "2017-08-21T06:20:36.822Z",
+    "updatedAt": "2017-08-21T06:20:36.822Z"
+  },
+  "94": {
+    "id": 94,
+    "albumId": 49,
+    "artistId": 6,
+    "title": "Queen Of Peace",
+    "duration": 307,
+    "createdAt": "2017-08-21T06:20:36.827Z",
+    "updatedAt": "2017-08-21T06:20:36.827Z"
+  },
+  "95": {
+    "id": 95,
+    "albumId": 50,
+    "artistId": 6,
+    "title": "Regular John",
+    "duration": 277,
+    "createdAt": "2017-08-21T06:20:36.837Z",
+    "updatedAt": "2017-08-21T06:20:36.837Z"
+  },
+  "96": {
+    "id": 96,
+    "albumId": 52,
+    "artistId": 6,
+    "title": "Rocket Queen",
+    "duration": 374,
+    "createdAt": "2017-08-21T06:20:36.842Z",
+    "updatedAt": "2017-08-21T06:20:36.842Z"
+  },
+  "97": {
+    "id": 97,
+    "albumId": 51,
+    "artistId": 6,
+    "title": "The Man I Love",
+    "duration": 165,
+    "createdAt": "2017-08-21T06:20:36.862Z",
+    "updatedAt": "2017-08-21T06:20:36.862Z"
+  },
+  "98": {
+    "id": 98,
+    "albumId": 53,
+    "artistId": 6,
+    "title": "Somebody to Love",
+    "duration": 318,
+    "createdAt": "2017-08-21T06:20:36.874Z",
+    "updatedAt": "2017-08-21T06:20:36.874Z"
+  },
+  "99": {
+    "id": 99,
+    "albumId": 54,
+    "artistId": 6,
+    "title": "No One Knows",
+    "duration": 280,
+    "createdAt": "2017-08-21T06:20:36.878Z",
+    "updatedAt": "2017-08-21T06:20:36.878Z"
+  },
+  "100": {
+    "id": 100,
+    "albumId": 55,
+    "artistId": 6,
+    "title": "Q.U.E.E.N. (feat. Erykah Badu)",
+    "duration": 310,
+    "createdAt": "2017-08-21T06:20:36.883Z",
+    "updatedAt": "2017-08-21T06:20:36.883Z"
+  },
+  "101": {
+    "id": 101,
+    "albumId": 56,
+    "artistId": 1,
+    "title": "So'ne Musik",
+    "duration": 192,
+    "createdAt": "2017-08-21T06:20:36.890Z",
+    "updatedAt": "2017-08-21T06:20:36.890Z"
+  },
+  "102": {
+    "id": 102,
+    "albumId": 56,
+    "artistId": 1,
+    "title": "Porzellan und Elefanten",
+    "duration": 216,
+    "createdAt": "2017-08-21T06:20:36.893Z",
+    "updatedAt": "2017-08-21T06:20:36.893Z"
+  },
+  "103": {
+    "id": 103,
+    "albumId": 56,
+    "artistId": 1,
+    "title": "Selber machen lassen (Bonus Track)",
+    "duration": 219,
+    "createdAt": "2017-08-21T06:20:36.902Z",
+    "updatedAt": "2017-08-21T06:20:36.902Z"
+  },
+  "104": {
+    "id": 104,
+    "albumId": 56,
+    "artistId": 1,
+    "title": "Mehr als lebensgefährlich",
+    "duration": 217,
+    "createdAt": "2017-08-21T06:20:36.907Z",
+    "updatedAt": "2017-08-21T06:20:36.907Z"
+  },
+  "105": {
+    "id": 105,
+    "albumId": 56,
+    "artistId": 1,
+    "title": "Denken Sie groß",
+    "duration": 242,
+    "createdAt": "2017-08-21T06:20:36.910Z",
+    "updatedAt": "2017-08-21T06:20:36.910Z"
+  },
+  "106": {
+    "id": 106,
+    "albumId": 56,
+    "artistId": 1,
+    "title": "Like mich am Arsch",
+    "duration": 232,
+    "createdAt": "2017-08-21T06:20:36.913Z",
+    "updatedAt": "2017-08-21T06:20:36.913Z"
+  },
+  "107": {
+    "id": 107,
+    "albumId": 56,
+    "artistId": 1,
+    "title": "Was habt ihr?",
+    "duration": 207,
+    "createdAt": "2017-08-21T06:20:36.920Z",
+    "updatedAt": "2017-08-21T06:20:36.920Z"
+  },
+  "108": {
+    "id": 108,
+    "albumId": 56,
+    "artistId": 1,
+    "title": "Powered By Emotion",
+    "duration": 210,
+    "createdAt": "2017-08-21T06:20:36.923Z",
+    "updatedAt": "2017-08-21T06:20:36.923Z"
+  },
+  "109": {
+    "id": 109,
+    "albumId": 56,
+    "artistId": 1,
+    "title": "Der Flohmarkt ruft",
+    "duration": 261,
+    "createdAt": "2017-08-21T06:20:36.927Z",
+    "updatedAt": "2017-08-21T06:20:36.927Z"
+  },
+  "110": {
+    "id": 110,
+    "albumId": 56,
+    "artistId": 1,
+    "title": "Die Welt ist fertig",
+    "duration": 219,
+    "createdAt": "2017-08-21T06:20:36.935Z",
+    "updatedAt": "2017-08-21T06:20:36.935Z"
+  },
+  "111": {
+    "id": 111,
+    "albumId": 56,
+    "artistId": 1,
+    "title": "Naschfuchs",
+    "duration": 228,
+    "createdAt": "2017-08-21T06:20:36.938Z",
+    "updatedAt": "2017-08-21T06:20:36.938Z"
+  },
+  "112": {
+    "id": 112,
+    "albumId": 56,
+    "artistId": 1,
+    "title": "Niveau Weshalb Warum",
+    "duration": 242,
+    "createdAt": "2017-08-21T06:20:36.943Z",
+    "updatedAt": "2017-08-21T06:20:36.943Z"
+  },
+  "113": {
+    "id": 113,
+    "albumId": 56,
+    "artistId": 1,
+    "title": "Oma gib Handtasche",
+    "duration": 113,
+    "createdAt": "2017-08-21T06:20:36.951Z",
+    "updatedAt": "2017-08-21T06:20:36.951Z"
+  },
+  "114": {
+    "id": 114,
+    "albumId": 56,
+    "artistId": 1,
+    "title": "Hauptsache nichts mit Menschen",
+    "duration": 270,
+    "createdAt": "2017-08-21T06:20:36.954Z",
+    "updatedAt": "2017-08-21T06:20:36.954Z"
+  },
+  "115": {
+    "id": 115,
+    "albumId": 56,
+    "artistId": 1,
+    "title": "Schlafwandler (Bonus Track)",
+    "duration": 172,
+    "createdAt": "2017-08-21T06:20:36.957Z",
+    "updatedAt": "2017-08-21T06:20:36.957Z"
+  },
+  "116": {
+    "id": 116,
+    "albumId": 57,
+    "artistId": 1,
+    "title": "Leider geil (Leider geil)",
+    "duration": 191,
+    "createdAt": "2017-08-21T06:20:36.964Z",
+    "updatedAt": "2017-08-21T06:20:36.964Z"
+  },
+  "117": {
+    "id": 117,
+    "albumId": 57,
+    "artistId": 1,
+    "title": "Bück dich hoch",
+    "duration": 247,
+    "createdAt": "2017-08-21T06:20:36.969Z",
+    "updatedAt": "2017-08-21T06:20:36.969Z"
+  },
+  "118": {
+    "id": 118,
+    "albumId": 57,
+    "artistId": 1,
+    "title": "Illegale Fans",
+    "duration": 201,
+    "createdAt": "2017-08-21T06:20:36.974Z",
+    "updatedAt": "2017-08-21T06:20:36.974Z"
+  },
+  "119": {
+    "id": 119,
+    "albumId": 57,
+    "artistId": 1,
+    "title": "Der Mond",
+    "duration": 264,
+    "createdAt": "2017-08-21T06:20:36.989Z",
+    "updatedAt": "2017-08-21T06:20:36.989Z"
+  },
+  "120": {
+    "id": 120,
+    "albumId": 57,
+    "artistId": 1,
+    "title": "Roll das Fass rein",
+    "duration": 237,
+    "createdAt": "2017-08-21T06:20:36.991Z",
+    "updatedAt": "2017-08-21T06:20:36.991Z"
+  },
+  "121": {
+    "id": 121,
+    "albumId": 57,
+    "artistId": 1,
+    "title": "Partnerlook",
+    "duration": 213,
+    "createdAt": "2017-08-21T06:20:36.994Z",
+    "updatedAt": "2017-08-21T06:20:36.994Z"
+  },
+  "122": {
+    "id": 122,
+    "albumId": 57,
+    "artistId": 1,
+    "title": "Egolution",
+    "duration": 237,
+    "createdAt": "2017-08-21T06:20:37.000Z",
+    "updatedAt": "2017-08-21T06:20:37.000Z"
+  },
+  "123": {
+    "id": 123,
+    "albumId": 57,
+    "artistId": 1,
+    "title": "99 Bierkanister",
+    "duration": 211,
+    "createdAt": "2017-08-21T06:20:37.003Z",
+    "updatedAt": "2017-08-21T06:20:37.003Z"
+  },
+  "124": {
+    "id": 124,
+    "albumId": 57,
+    "artistId": 1,
+    "title": "Pferd aus Glas",
+    "duration": 252,
+    "createdAt": "2017-08-21T06:20:37.006Z",
+    "updatedAt": "2017-08-21T06:20:37.006Z"
+  },
+  "125": {
+    "id": 125,
+    "albumId": 57,
+    "artistId": 1,
+    "title": "Der Strahl",
+    "duration": 210,
+    "createdAt": "2017-08-21T06:20:37.020Z",
+    "updatedAt": "2017-08-21T06:20:37.020Z"
+  },
+  "126": {
+    "id": 126,
+    "albumId": 57,
+    "artistId": 1,
+    "title": "Befehl von ganz unten",
+    "duration": 236,
+    "createdAt": "2017-08-21T06:20:37.025Z",
+    "updatedAt": "2017-08-21T06:20:37.025Z"
+  },
+  "127": {
+    "id": 127,
+    "albumId": 57,
+    "artistId": 1,
+    "title": "Herz aus Hack",
+    "duration": 168,
+    "createdAt": "2017-08-21T06:20:37.032Z",
+    "updatedAt": "2017-08-21T06:20:37.032Z"
+  },
+  "128": {
+    "id": 128,
+    "albumId": 57,
+    "artistId": 1,
+    "title": "Tetrahedon (Intro)",
+    "duration": 59,
+    "createdAt": "2017-08-21T06:20:37.040Z",
+    "updatedAt": "2017-08-21T06:20:37.040Z"
+  },
+  "129": {
+    "id": 129,
+    "albumId": 57,
+    "artistId": 1,
+    "title": "Die rote Kiste",
+    "duration": 96,
+    "createdAt": "2017-08-21T06:20:37.043Z",
+    "updatedAt": "2017-08-21T06:20:37.043Z"
+  },
+  "130": {
+    "id": 130,
+    "albumId": 58,
+    "artistId": 1,
+    "title": "Luftbahn",
+    "duration": 261,
+    "createdAt": "2017-08-21T06:20:37.045Z",
+    "updatedAt": "2017-08-21T06:20:37.045Z"
+  },
+  "131": {
+    "id": 131,
+    "albumId": 58,
+    "artistId": 1,
+    "title": "Arbeit nervt",
+    "duration": 199,
+    "createdAt": "2017-08-21T06:20:37.051Z",
+    "updatedAt": "2017-08-21T06:20:37.051Z"
+  },
+  "132": {
+    "id": 132,
+    "albumId": 58,
+    "artistId": 1,
+    "title": "Hört ihr die Signale",
+    "duration": 235,
+    "createdAt": "2017-08-21T06:20:37.054Z",
+    "updatedAt": "2017-08-21T06:20:37.054Z"
+  },
+  "133": {
+    "id": 133,
+    "albumId": 58,
+    "artistId": 1,
+    "title": "Dicker Bauch",
+    "duration": 187,
+    "createdAt": "2017-08-21T06:20:37.063Z",
+    "updatedAt": "2017-08-21T06:20:37.063Z"
+  },
+  "134": {
+    "id": 134,
+    "albumId": 58,
+    "artistId": 1,
+    "title": "Ich und mein Computer",
+    "duration": 204,
+    "createdAt": "2017-08-21T06:20:37.066Z",
+    "updatedAt": "2017-08-21T06:20:37.066Z"
+  },
+  "135": {
+    "id": 135,
+    "albumId": 58,
+    "artistId": 1,
+    "title": "23 Dohlen",
+    "duration": 258,
+    "createdAt": "2017-08-21T06:20:37.071Z",
+    "updatedAt": "2017-08-21T06:20:37.071Z"
+  },
+  "136": {
+    "id": 136,
+    "albumId": 58,
+    "artistId": 1,
+    "title": "Urlaub vom Urlaub",
+    "duration": 251,
+    "createdAt": "2017-08-21T06:20:37.074Z",
+    "updatedAt": "2017-08-21T06:20:37.074Z"
+  },
+  "137": {
+    "id": 137,
+    "albumId": 58,
+    "artistId": 1,
+    "title": "Hoverkraft",
+    "duration": 253,
+    "createdAt": "2017-08-21T06:20:37.083Z",
+    "updatedAt": "2017-08-21T06:20:37.083Z"
+  },
+  "138": {
+    "id": 138,
+    "albumId": 58,
+    "artistId": 1,
+    "title": "Gut dabei",
+    "duration": 205,
+    "createdAt": "2017-08-21T06:20:37.088Z",
+    "updatedAt": "2017-08-21T06:20:37.088Z"
+  },
+  "139": {
+    "id": 139,
+    "albumId": 58,
+    "artistId": 1,
+    "title": "Travelpussy",
+    "duration": 168,
+    "createdAt": "2017-08-21T06:20:37.090Z",
+    "updatedAt": "2017-08-21T06:20:37.090Z"
+  },
+  "140": {
+    "id": 140,
+    "albumId": 58,
+    "artistId": 1,
+    "title": "Klötersound (Skit)",
+    "duration": 33,
+    "createdAt": "2017-08-21T06:20:37.098Z",
+    "updatedAt": "2017-08-21T06:20:37.098Z"
+  },
+  "141": {
+    "id": 141,
+    "albumId": 58,
+    "artistId": 1,
+    "title": "Komm rüber",
+    "duration": 214,
+    "createdAt": "2017-08-21T06:20:37.104Z",
+    "updatedAt": "2017-08-21T06:20:37.104Z"
+  },
+  "142": {
+    "id": 142,
+    "albumId": 58,
+    "artistId": 1,
+    "title": "Metro",
+    "duration": 225,
+    "createdAt": "2017-08-21T06:20:37.107Z",
+    "updatedAt": "2017-08-21T06:20:37.107Z"
+  },
+  "143": {
+    "id": 143,
+    "albumId": 58,
+    "artistId": 1,
+    "title": "Im Raucherzimmer (Skit)",
+    "duration": 98,
+    "createdAt": "2017-08-21T06:20:37.124Z",
+    "updatedAt": "2017-08-21T06:20:37.124Z"
+  },
+  "144": {
+    "id": 144,
+    "albumId": 58,
+    "artistId": 1,
+    "title": "Arbeit nervt (Punker Version)",
+    "duration": 198,
+    "createdAt": "2017-08-21T06:20:37.126Z",
+    "updatedAt": "2017-08-21T06:20:37.126Z"
+  },
+  "145": {
+    "id": 145,
+    "albumId": 59,
+    "artistId": 1,
+    "title": "Remmidemmi (Yippie Yippie Yeah)",
+    "duration": 281,
+    "createdAt": "2017-08-21T06:20:37.129Z",
+    "updatedAt": "2017-08-21T06:20:37.129Z"
+  },
+  "146": {
+    "id": 146,
+    "albumId": 59,
+    "artistId": 1,
+    "title": "Prost",
+    "duration": 220,
+    "createdAt": "2017-08-21T06:20:37.133Z",
+    "updatedAt": "2017-08-21T06:20:37.133Z"
+  },
+  "147": {
+    "id": 147,
+    "albumId": 59,
+    "artistId": 1,
+    "title": "Show 'n Shine",
+    "duration": 238,
+    "createdAt": "2017-08-21T06:20:37.137Z",
+    "updatedAt": "2017-08-21T06:20:37.137Z"
+  },
+  "148": {
+    "id": 148,
+    "albumId": 59,
+    "artistId": 1,
+    "title": "Voodoo",
+    "duration": 250,
+    "createdAt": "2017-08-21T06:20:37.140Z",
+    "updatedAt": "2017-08-21T06:20:37.140Z"
+  },
+  "149": {
+    "id": 149,
+    "albumId": 59,
+    "artistId": 1,
+    "title": "Papillion",
+    "duration": 222,
+    "createdAt": "2017-08-21T06:20:37.154Z",
+    "updatedAt": "2017-08-21T06:20:37.154Z"
+  },
+  "150": {
+    "id": 150,
+    "albumId": 59,
+    "artistId": 1,
+    "title": "Intro",
+    "duration": 56,
+    "createdAt": "2017-08-21T06:20:37.159Z",
+    "updatedAt": "2017-08-21T06:20:37.159Z"
+  },
+  "151": {
+    "id": 151,
+    "albumId": 59,
+    "artistId": 1,
+    "title": "Ich betäube mich",
+    "duration": 210,
+    "createdAt": "2017-08-21T06:20:37.163Z",
+    "updatedAt": "2017-08-21T06:20:37.163Z"
+  },
+  "152": {
+    "id": 152,
+    "albumId": 59,
+    "artistId": 1,
+    "title": "Aufstand im Schlaraffenland",
+    "duration": 215,
+    "createdAt": "2017-08-21T06:20:37.184Z",
+    "updatedAt": "2017-08-21T06:20:37.184Z"
+  },
+  "153": {
+    "id": 153,
+    "albumId": 59,
+    "artistId": 1,
+    "title": "E.S.D.B.",
+    "duration": 257,
+    "createdAt": "2017-08-21T06:20:37.189Z",
+    "updatedAt": "2017-08-21T06:20:37.189Z"
+  },
+  "154": {
+    "id": 154,
+    "albumId": 59,
+    "artistId": 1,
+    "title": "Krieg",
+    "duration": 299,
+    "createdAt": "2017-08-21T06:20:37.198Z",
+    "updatedAt": "2017-08-21T06:20:37.198Z"
+  },
+  "155": {
+    "id": 155,
+    "albumId": 59,
+    "artistId": 1,
+    "title": "Silberweidenpark",
+    "duration": 248,
+    "createdAt": "2017-08-21T06:20:37.205Z",
+    "updatedAt": "2017-08-21T06:20:37.205Z"
+  },
+  "156": {
+    "id": 156,
+    "albumId": 59,
+    "artistId": 1,
+    "title": "Jüjük",
+    "duration": 80,
+    "createdAt": "2017-08-21T06:20:37.212Z",
+    "updatedAt": "2017-08-21T06:20:37.212Z"
+  },
+  "157": {
+    "id": 157,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Crew Vom Deich",
+    "duration": 221,
+    "createdAt": "2017-08-21T06:20:37.215Z",
+    "updatedAt": "2017-08-21T06:20:37.215Z"
+  },
+  "158": {
+    "id": 158,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Limit",
+    "duration": 182,
+    "createdAt": "2017-08-21T06:20:37.235Z",
+    "updatedAt": "2017-08-21T06:20:37.235Z"
+  },
+  "159": {
+    "id": 159,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Geborn' Für Das !",
+    "duration": 183,
+    "createdAt": "2017-08-21T06:20:37.239Z",
+    "updatedAt": "2017-08-21T06:20:37.239Z"
+  },
+  "160": {
+    "id": 160,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Gib Mir Mehr",
+    "duration": 60,
+    "createdAt": "2017-08-21T06:20:37.243Z",
+    "updatedAt": "2017-08-21T06:20:37.243Z"
+  },
+  "161": {
+    "id": 161,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Wer Sind Die Goern ?",
+    "duration": 226,
+    "createdAt": "2017-08-21T06:20:37.250Z",
+    "updatedAt": "2017-08-21T06:20:37.250Z"
+  },
+  "162": {
+    "id": 162,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Geheimnis",
+    "duration": 246,
+    "createdAt": "2017-08-21T06:20:37.253Z",
+    "updatedAt": "2017-08-21T06:20:37.253Z"
+  },
+  "163": {
+    "id": 163,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "La Playa",
+    "duration": 251,
+    "createdAt": "2017-08-21T06:20:37.257Z",
+    "updatedAt": "2017-08-21T06:20:37.257Z"
+  },
+  "164": {
+    "id": 164,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Tarantuhla In The Darkness",
+    "duration": 83,
+    "createdAt": "2017-08-21T06:20:37.268Z",
+    "updatedAt": "2017-08-21T06:20:37.268Z"
+  },
+  "165": {
+    "id": 165,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Pling Pling",
+    "duration": 136,
+    "createdAt": "2017-08-21T06:20:37.272Z",
+    "updatedAt": "2017-08-21T06:20:37.272Z"
+  },
+  "166": {
+    "id": 166,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Königlich Royal",
+    "duration": 251,
+    "createdAt": "2017-08-21T06:20:37.275Z",
+    "updatedAt": "2017-08-21T06:20:37.275Z"
+  },
+  "167": {
+    "id": 167,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Caravane D' Emotions",
+    "duration": 165,
+    "createdAt": "2017-08-21T06:20:37.285Z",
+    "updatedAt": "2017-08-21T06:20:37.285Z"
+  },
+  "168": {
+    "id": 168,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Pferd Im Stall",
+    "duration": 231,
+    "createdAt": "2017-08-21T06:20:37.290Z",
+    "updatedAt": "2017-08-21T06:20:37.290Z"
+  },
+  "169": {
+    "id": 169,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Devils Fist",
+    "duration": 108,
+    "createdAt": "2017-08-21T06:20:37.293Z",
+    "updatedAt": "2017-08-21T06:20:37.293Z"
+  },
+  "170": {
+    "id": 170,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Introduction D'Allemagne",
+    "duration": 97,
+    "createdAt": "2017-08-21T06:20:37.301Z",
+    "updatedAt": "2017-08-21T06:20:37.301Z"
+  },
+  "171": {
+    "id": 171,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Drogenrausch",
+    "duration": 180,
+    "createdAt": "2017-08-21T06:20:37.305Z",
+    "updatedAt": "2017-08-21T06:20:37.305Z"
+  },
+  "172": {
+    "id": 172,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Zellmoser",
+    "duration": 152,
+    "createdAt": "2017-08-21T06:20:37.308Z",
+    "updatedAt": "2017-08-21T06:20:37.308Z"
+  },
+  "173": {
+    "id": 173,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Günther",
+    "duration": 47,
+    "createdAt": "2017-08-21T06:20:37.316Z",
+    "updatedAt": "2017-08-21T06:20:37.316Z"
+  },
+  "174": {
+    "id": 174,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Sex Im Kopf",
+    "duration": 198,
+    "createdAt": "2017-08-21T06:20:37.321Z",
+    "updatedAt": "2017-08-21T06:20:37.321Z"
+  },
+  "175": {
+    "id": 175,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Da Wo",
+    "duration": 195,
+    "createdAt": "2017-08-21T06:20:37.324Z",
+    "updatedAt": "2017-08-21T06:20:37.324Z"
+  },
+  "176": {
+    "id": 176,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Dwen (Kollege Von Shane)",
+    "duration": 214,
+    "createdAt": "2017-08-21T06:20:37.332Z",
+    "updatedAt": "2017-08-21T06:20:37.332Z"
+  },
+  "177": {
+    "id": 177,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Im Untergrund Zuhaus",
+    "duration": 79,
+    "createdAt": "2017-08-21T06:20:37.335Z",
+    "updatedAt": "2017-08-21T06:20:37.335Z"
+  },
+  "178": {
+    "id": 178,
+    "albumId": 61,
+    "artistId": 1,
+    "title": "Remmidemmi (Yippie Yippie Yeah)",
+    "duration": 281,
+    "createdAt": "2017-08-21T06:20:37.338Z",
+    "updatedAt": "2017-08-21T06:20:37.338Z"
+  },
+  "179": {
+    "id": 179,
+    "albumId": 62,
+    "artistId": 1,
+    "title": "Porzellan und Elefanten (Radio Edit)",
+    "duration": 201,
+    "createdAt": "2017-08-21T06:20:37.346Z",
+    "updatedAt": "2017-08-21T06:20:37.346Z"
+  },
+  "180": {
+    "id": 180,
+    "albumId": 60,
+    "artistId": 1,
+    "title": "Prof. Dr. Gerhardt Köpke",
+    "duration": 76,
+    "createdAt": "2017-08-21T06:20:37.350Z",
+    "updatedAt": "2017-08-21T06:20:37.350Z"
+  },
+  "181": {
+    "id": 181,
+    "albumId": 63,
+    "artistId": 1,
+    "title": "So'ne Musik",
+    "duration": 191,
+    "createdAt": "2017-08-21T06:20:37.354Z",
+    "updatedAt": "2017-08-21T06:20:37.354Z"
+  },
+  "182": {
+    "id": 182,
+    "albumId": 64,
+    "artistId": 1,
+    "title": "Pump Up Medley (Live in Hamburg)",
+    "duration": 401,
+    "createdAt": "2017-08-21T06:20:37.365Z",
+    "updatedAt": "2017-08-21T06:20:37.365Z"
+  },
+  "183": {
+    "id": 183,
+    "albumId": 65,
+    "artistId": 1,
+    "title": "Denken Sie groß",
+    "duration": 242,
+    "createdAt": "2017-08-21T06:20:37.370Z",
+    "updatedAt": "2017-08-21T06:20:37.370Z"
+  },
+  "184": {
+    "id": 184,
+    "albumId": 66,
+    "artistId": 1,
+    "title": "Softdrink (Deichkind Remix)",
+    "duration": 257,
+    "createdAt": "2017-08-21T06:20:37.374Z",
+    "updatedAt": "2017-08-21T06:20:37.374Z"
+  },
+  "185": {
+    "id": 185,
+    "albumId": 67,
+    "artistId": 1,
+    "title": "Crash dein Sound",
+    "duration": 331,
+    "createdAt": "2017-08-21T06:20:37.383Z",
+    "updatedAt": "2017-08-21T06:20:37.383Z"
+  },
+  "186": {
+    "id": 186,
+    "albumId": 68,
+    "artistId": 1,
+    "title": "Ich habe eine Fahne",
+    "duration": 215,
+    "createdAt": "2017-08-21T06:20:37.388Z",
+    "updatedAt": "2017-08-21T06:20:37.388Z"
+  },
+  "187": {
+    "id": 187,
+    "albumId": 68,
+    "artistId": 1,
+    "title": "Ich habe eine Fahne (4 Promille)",
+    "duration": 210,
+    "createdAt": "2017-08-21T06:20:37.391Z",
+    "updatedAt": "2017-08-21T06:20:37.391Z"
+  },
+  "188": {
+    "id": 188,
+    "albumId": 68,
+    "artistId": 1,
+    "title": "Ich habe eine Fahne (2 Promille)",
+    "duration": 215,
+    "createdAt": "2017-08-21T06:20:37.400Z",
+    "updatedAt": "2017-08-21T06:20:37.400Z"
+  },
+  "189": {
+    "id": 189,
+    "albumId": 68,
+    "artistId": 1,
+    "title": "Ich habe eine Fahne (3 Promille)",
+    "duration": 215,
+    "createdAt": "2017-08-21T06:20:37.404Z",
+    "updatedAt": "2017-08-21T06:20:37.404Z"
+  },
+  "190": {
+    "id": 190,
+    "albumId": 68,
+    "artistId": 1,
+    "title": "Ich habe eine Fahne (1 Promille)",
+    "duration": 216,
+    "createdAt": "2017-08-21T06:20:37.406Z",
+    "updatedAt": "2017-08-21T06:20:37.406Z"
+  },
+  "191": {
+    "id": 191,
+    "albumId": 69,
+    "artistId": 1,
+    "title": "Goodbye Logik (Live)",
+    "duration": 331,
+    "createdAt": "2017-08-21T06:20:37.416Z",
+    "updatedAt": "2017-08-21T06:20:37.416Z"
+  },
+  "192": {
+    "id": 192,
+    "albumId": 70,
+    "artistId": 1,
+    "title": "Endboss (Deichkind St Pauli RMX)",
+    "duration": 293,
+    "createdAt": "2017-08-21T06:20:37.420Z",
+    "updatedAt": "2017-08-21T06:20:37.420Z"
+  },
+  "193": {
+    "id": 193,
+    "albumId": 71,
+    "artistId": 1,
+    "title": "Kopf oder Zahl (Deichkind Remix)",
+    "duration": 326,
+    "createdAt": "2017-08-21T06:20:37.423Z",
+    "updatedAt": "2017-08-21T06:20:37.423Z"
+  },
+  "194": {
+    "id": 194,
+    "albumId": 72,
+    "artistId": 1,
+    "title": "Bück Dich Hoch",
+    "duration": 246,
+    "createdAt": "2017-08-21T06:20:37.431Z",
+    "updatedAt": "2017-08-21T06:20:37.431Z"
+  },
+  "195": {
+    "id": 195,
+    "albumId": 73,
+    "artistId": 1,
+    "title": "Der König tanzt (Deichkind Remix)",
+    "duration": 255,
+    "createdAt": "2017-08-21T06:20:37.435Z",
+    "updatedAt": "2017-08-21T06:20:37.435Z"
+  },
+  "196": {
+    "id": 196,
+    "albumId": 74,
+    "artistId": 1,
+    "title": "Happy New Fear (Bonus Track)",
+    "duration": 152,
+    "createdAt": "2017-08-21T06:20:37.440Z",
+    "updatedAt": "2017-08-21T06:20:37.440Z"
+  },
+  "197": {
+    "id": 197,
+    "albumId": 78,
+    "artistId": 1,
+    "title":
+      "Bon Voyage (Karaoke Version) (Originally Performed By Deichkind & Nina)",
+    "duration": 211,
+    "createdAt": "2017-08-21T06:20:37.450Z",
+    "updatedAt": "2017-08-21T06:20:37.450Z"
+  },
+  "198": {
+    "id": 198,
+    "albumId": 75,
+    "artistId": 1,
+    "title": "Molotov (Deichkind Rmx)",
+    "duration": 242,
+    "createdAt": "2017-08-21T06:20:37.455Z",
+    "updatedAt": "2017-08-21T06:20:37.455Z"
+  },
+  "199": {
+    "id": 199,
+    "albumId": 76,
+    "artistId": 1,
+    "title": "Deichkind twee",
+    "duration": 228,
+    "createdAt": "2017-08-21T06:20:37.458Z",
+    "updatedAt": "2017-08-21T06:20:37.458Z"
+  },
+  "200": {
+    "id": 200,
+    "albumId": 77,
+    "artistId": 1,
+    "title": "Kopf oder Zahl (Deichkind Remix)",
+    "duration": 326,
+    "createdAt": "2017-08-21T06:20:37.475Z",
+    "updatedAt": "2017-08-21T06:20:37.475Z"
+  },
+  "201": {
+    "id": 201,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "Mockingbird",
+    "duration": 251,
+    "createdAt": "2017-08-21T06:20:37.479Z",
+    "updatedAt": "2017-08-21T06:20:37.479Z"
+  },
+  "202": {
+    "id": 202,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "Lose Yourself (Soundtrack Version)",
+    "duration": 326,
+    "createdAt": "2017-08-21T06:20:37.483Z",
+    "updatedAt": "2017-08-21T06:20:37.483Z"
+  },
+  "203": {
+    "id": 203,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "Shake That (Album Version Explicit)",
+    "duration": 274,
+    "createdAt": "2017-08-21T06:20:37.489Z",
+    "updatedAt": "2017-08-21T06:20:37.489Z"
+  },
+  "204": {
+    "id": 204,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "The Real Slim Shady",
+    "duration": 284,
+    "createdAt": "2017-08-21T06:20:37.495Z",
+    "updatedAt": "2017-08-21T06:20:37.495Z"
+  },
+  "205": {
+    "id": 205,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "Like Toy Soldiers",
+    "duration": 295,
+    "createdAt": "2017-08-21T06:20:37.498Z",
+    "updatedAt": "2017-08-21T06:20:37.498Z"
+  },
+  "206": {
+    "id": 206,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "When I'm Gone (Album Version Explicit)",
+    "duration": 281,
+    "createdAt": "2017-08-21T06:20:37.515Z",
+    "updatedAt": "2017-08-21T06:20:37.515Z"
+  },
+  "207": {
+    "id": 207,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "Stan",
+    "duration": 404,
+    "createdAt": "2017-08-21T06:20:37.519Z",
+    "updatedAt": "2017-08-21T06:20:37.519Z"
+  },
+  "208": {
+    "id": 208,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "My Name Is",
+    "duration": 268,
+    "createdAt": "2017-08-21T06:20:37.522Z",
+    "updatedAt": "2017-08-21T06:20:37.522Z"
+  },
+  "209": {
+    "id": 209,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "Just Lose It",
+    "duration": 248,
+    "createdAt": "2017-08-21T06:20:37.525Z",
+    "updatedAt": "2017-08-21T06:20:37.525Z"
+  },
+  "210": {
+    "id": 210,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "The Way I Am",
+    "duration": 291,
+    "createdAt": "2017-08-21T06:20:37.531Z",
+    "updatedAt": "2017-08-21T06:20:37.531Z"
+  },
+  "211": {
+    "id": 211,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "FACK (Album Version Explicit)",
+    "duration": 205,
+    "createdAt": "2017-08-21T06:20:37.534Z",
+    "updatedAt": "2017-08-21T06:20:37.534Z"
+  },
+  "212": {
+    "id": 212,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "When I'm Gone (Album Version Explicit)",
+    "duration": 281,
+    "createdAt": "2017-08-21T06:20:37.552Z",
+    "updatedAt": "2017-08-21T06:20:37.552Z"
+  },
+  "213": {
+    "id": 213,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "Without Me",
+    "duration": 291,
+    "createdAt": "2017-08-21T06:20:37.555Z",
+    "updatedAt": "2017-08-21T06:20:37.555Z"
+  },
+  "214": {
+    "id": 214,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "Sing For The Moment",
+    "duration": 340,
+    "createdAt": "2017-08-21T06:20:37.558Z",
+    "updatedAt": "2017-08-21T06:20:37.558Z"
+  },
+  "215": {
+    "id": 215,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "Lose Yourself (Soundtrack Version)",
+    "duration": 326,
+    "createdAt": "2017-08-21T06:20:37.563Z",
+    "updatedAt": "2017-08-21T06:20:37.563Z"
+  },
+  "216": {
+    "id": 216,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "Cleanin' Out My Closet",
+    "duration": 298,
+    "createdAt": "2017-08-21T06:20:37.571Z",
+    "updatedAt": "2017-08-21T06:20:37.571Z"
+  },
+  "217": {
+    "id": 217,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "Renegade",
+    "duration": 336,
+    "createdAt": "2017-08-21T06:20:37.575Z",
+    "updatedAt": "2017-08-21T06:20:37.575Z"
+  },
+  "218": {
+    "id": 218,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "Guilty Conscience",
+    "duration": 200,
+    "createdAt": "2017-08-21T06:20:37.589Z",
+    "updatedAt": "2017-08-21T06:20:37.589Z"
+  },
+  "219": {
+    "id": 219,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "Shake That (Album Version Explicit)",
+    "duration": 274,
+    "createdAt": "2017-08-21T06:20:37.593Z",
+    "updatedAt": "2017-08-21T06:20:37.593Z"
+  },
+  "220": {
+    "id": 220,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "Mockingbird",
+    "duration": 251,
+    "createdAt": "2017-08-21T06:20:37.597Z",
+    "updatedAt": "2017-08-21T06:20:37.597Z"
+  },
+  "221": {
+    "id": 221,
+    "albumId": 80,
+    "artistId": 2,
+    "title": "'Till I Collapse",
+    "duration": 297,
+    "createdAt": "2017-08-21T06:20:37.601Z",
+    "updatedAt": "2017-08-21T06:20:37.601Z"
+  },
+  "222": {
+    "id": 222,
+    "albumId": 79,
+    "artistId": 2,
+    "title": "Sing For The Moment",
+    "duration": 340,
+    "createdAt": "2017-08-21T06:20:37.609Z",
+    "updatedAt": "2017-08-21T06:20:37.609Z"
+  },
+  "223": {
+    "id": 223,
+    "albumId": 80,
+    "artistId": 2,
+    "title": "Without Me",
+    "duration": 290,
+    "createdAt": "2017-08-21T06:20:37.618Z",
+    "updatedAt": "2017-08-21T06:20:37.618Z"
+  },
+  "224": {
+    "id": 224,
+    "albumId": 80,
+    "artistId": 2,
+    "title": "Superman",
+    "duration": 350,
+    "createdAt": "2017-08-21T06:20:37.631Z",
+    "updatedAt": "2017-08-21T06:20:37.631Z"
+  },
+  "225": {
+    "id": 225,
+    "albumId": 80,
+    "artistId": 2,
+    "title": "Sing For The Moment",
+    "duration": 339,
+    "createdAt": "2017-08-21T06:20:37.635Z",
+    "updatedAt": "2017-08-21T06:20:37.635Z"
+  },
+  "226": {
+    "id": 226,
+    "albumId": 80,
+    "artistId": 2,
+    "title": "Cleanin' Out My Closet",
+    "duration": 297,
+    "createdAt": "2017-08-21T06:20:37.638Z",
+    "updatedAt": "2017-08-21T06:20:37.638Z"
+  },
+  "227": {
+    "id": 227,
+    "albumId": 80,
+    "artistId": 2,
+    "title": "Hailie's Song",
+    "duration": 320,
+    "createdAt": "2017-08-21T06:20:37.645Z",
+    "updatedAt": "2017-08-21T06:20:37.645Z"
+  },
+  "228": {
+    "id": 228,
+    "albumId": 80,
+    "artistId": 2,
+    "title": "White America",
+    "duration": 324,
+    "createdAt": "2017-08-21T06:20:37.654Z",
+    "updatedAt": "2017-08-21T06:20:37.654Z"
+  },
+  "229": {
+    "id": 229,
+    "albumId": 80,
+    "artistId": 2,
+    "title": "Business",
+    "duration": 251,
+    "createdAt": "2017-08-21T06:20:37.657Z",
+    "updatedAt": "2017-08-21T06:20:37.657Z"
+  },
+  "230": {
+    "id": 230,
+    "albumId": 80,
+    "artistId": 2,
+    "title": "When The Music Stops",
+    "duration": 268,
+    "createdAt": "2017-08-21T06:20:37.668Z",
+    "updatedAt": "2017-08-21T06:20:37.668Z"
+  },
+  "231": {
+    "id": 231,
+    "albumId": 80,
+    "artistId": 2,
+    "title": "Soldier",
+    "duration": 226,
+    "createdAt": "2017-08-21T06:20:37.674Z",
+    "updatedAt": "2017-08-21T06:20:37.674Z"
+  },
+  "232": {
+    "id": 232,
+    "albumId": 80,
+    "artistId": 2,
+    "title": "My Dad's Gone Crazy",
+    "duration": 266,
+    "createdAt": "2017-08-21T06:20:37.678Z",
+    "updatedAt": "2017-08-21T06:20:37.678Z"
+  },
+  "233": {
+    "id": 233,
+    "albumId": 80,
+    "artistId": 2,
+    "title": "Square Dance",
+    "duration": 324,
+    "createdAt": "2017-08-21T06:20:37.688Z",
+    "updatedAt": "2017-08-21T06:20:37.688Z"
+  },
+  "234": {
+    "id": 234,
+    "albumId": 81,
+    "artistId": 2,
+    "title": "Space Bound",
+    "duration": 278,
+    "createdAt": "2017-08-21T06:20:37.698Z",
+    "updatedAt": "2017-08-21T06:20:37.698Z"
+  },
+  "235": {
+    "id": 235,
+    "albumId": 80,
+    "artistId": 2,
+    "title": "Say Goodbye Hollywood",
+    "duration": 272,
+    "createdAt": "2017-08-21T06:20:37.701Z",
+    "updatedAt": "2017-08-21T06:20:37.701Z"
+  },
+  "236": {
+    "id": 236,
+    "albumId": 81,
+    "artistId": 2,
+    "title": "Love The Way You Lie",
+    "duration": 263,
+    "createdAt": "2017-08-21T06:20:37.710Z",
+    "updatedAt": "2017-08-21T06:20:37.710Z"
+  },
+  "237": {
+    "id": 237,
+    "albumId": 81,
+    "artistId": 2,
+    "title": "Cinderella Man",
+    "duration": 279,
+    "createdAt": "2017-08-21T06:20:37.714Z",
+    "updatedAt": "2017-08-21T06:20:37.714Z"
+  },
+  "238": {
+    "id": 238,
+    "albumId": 81,
+    "artistId": 2,
+    "title": "No Love",
+    "duration": 299,
+    "createdAt": "2017-08-21T06:20:37.718Z",
+    "updatedAt": "2017-08-21T06:20:37.718Z"
+  },
+  "239": {
+    "id": 239,
+    "albumId": 81,
+    "artistId": 2,
+    "title": "So Bad",
+    "duration": 325,
+    "createdAt": "2017-08-21T06:20:37.729Z",
+    "updatedAt": "2017-08-21T06:20:37.729Z"
+  },
+  "240": {
+    "id": 240,
+    "albumId": 81,
+    "artistId": 2,
+    "title": "25 To Life",
+    "duration": 241,
+    "createdAt": "2017-08-21T06:20:37.743Z",
+    "updatedAt": "2017-08-21T06:20:37.743Z"
+  },
+  "241": {
+    "id": 241,
+    "albumId": 81,
+    "artistId": 2,
+    "title": "W.T.P.",
+    "duration": 238,
+    "createdAt": "2017-08-21T06:20:37.750Z",
+    "updatedAt": "2017-08-21T06:20:37.750Z"
+  },
+  "242": {
+    "id": 242,
+    "albumId": 81,
+    "artistId": 2,
+    "title": "Not Afraid",
+    "duration": 248,
+    "createdAt": "2017-08-21T06:20:37.761Z",
+    "updatedAt": "2017-08-21T06:20:37.761Z"
+  },
+  "243": {
+    "id": 243,
+    "albumId": 81,
+    "artistId": 2,
+    "title": "Cold Wind Blows",
+    "duration": 303,
+    "createdAt": "2017-08-21T06:20:37.765Z",
+    "updatedAt": "2017-08-21T06:20:37.765Z"
+  },
+  "244": {
+    "id": 244,
+    "albumId": 81,
+    "artistId": 2,
+    "title": "Talkin’ 2 Myself",
+    "duration": 300,
+    "createdAt": "2017-08-21T06:20:37.769Z",
+    "updatedAt": "2017-08-21T06:20:37.769Z"
+  },
+  "245": {
+    "id": 245,
+    "albumId": 81,
+    "artistId": 2,
+    "title": "On Fire",
+    "duration": 213,
+    "createdAt": "2017-08-21T06:20:37.781Z",
+    "updatedAt": "2017-08-21T06:20:37.781Z"
+  },
+  "246": {
+    "id": 246,
+    "albumId": 81,
+    "artistId": 2,
+    "title": "Won't Back Down",
+    "duration": 265,
+    "createdAt": "2017-08-21T06:20:37.785Z",
+    "updatedAt": "2017-08-21T06:20:37.785Z"
+  },
+  "247": {
+    "id": 247,
+    "albumId": 85,
+    "artistId": 2,
+    "title": "Smack That (Dirty)",
+    "duration": 213,
+    "createdAt": "2017-08-21T06:20:37.790Z",
+    "updatedAt": "2017-08-21T06:20:37.790Z"
+  },
+  "248": {
+    "id": 248,
+    "albumId": 81,
+    "artistId": 2,
+    "title": "Almost Famous",
+    "duration": 292,
+    "createdAt": "2017-08-21T06:20:37.799Z",
+    "updatedAt": "2017-08-21T06:20:37.799Z"
+  },
+  "249": {
+    "id": 249,
+    "albumId": 82,
+    "artistId": 2,
+    "title": "Not Afraid (Explicit Version)",
+    "duration": 250,
+    "createdAt": "2017-08-21T06:20:37.806Z",
+    "updatedAt": "2017-08-21T06:20:37.806Z"
+  },
+  "250": {
+    "id": 250,
+    "albumId": 83,
+    "artistId": 2,
+    "title": "Rap God",
+    "duration": 363,
+    "createdAt": "2017-08-21T06:20:37.810Z",
+    "updatedAt": "2017-08-21T06:20:37.810Z"
+  },
+  "251": {
+    "id": 251,
+    "albumId": 84,
+    "artistId": 2,
+    "title": "The Monster",
+    "duration": 250,
+    "createdAt": "2017-08-21T06:20:37.820Z",
+    "updatedAt": "2017-08-21T06:20:37.820Z"
+  },
+  "252": {
+    "id": 252,
+    "albumId": 86,
+    "artistId": 2,
+    "title": "What's The Difference",
+    "duration": 244,
+    "createdAt": "2017-08-21T06:20:37.825Z",
+    "updatedAt": "2017-08-21T06:20:37.825Z"
+  },
+  "253": {
+    "id": 253,
+    "albumId": 86,
+    "artistId": 2,
+    "title": "Forgot About Dre",
+    "duration": 222,
+    "createdAt": "2017-08-21T06:20:37.828Z",
+    "updatedAt": "2017-08-21T06:20:37.828Z"
+  },
+  "254": {
+    "id": 254,
+    "albumId": 87,
+    "artistId": 2,
+    "title": "Kings Never Die",
+    "duration": 296,
+    "createdAt": "2017-08-21T06:20:37.844Z",
+    "updatedAt": "2017-08-21T06:20:37.844Z"
+  },
+  "255": {
+    "id": 255,
+    "albumId": 87,
+    "artistId": 2,
+    "title": "Phenomenal",
+    "duration": 282,
+    "createdAt": "2017-08-21T06:20:37.848Z",
+    "updatedAt": "2017-08-21T06:20:37.848Z"
+  },
+  "256": {
+    "id": 256,
+    "albumId": 88,
+    "artistId": 2,
+    "title": "Survival",
+    "duration": 272,
+    "createdAt": "2017-08-21T06:20:37.851Z",
+    "updatedAt": "2017-08-21T06:20:37.851Z"
+  },
+  "257": {
+    "id": 257,
+    "albumId": 88,
+    "artistId": 2,
+    "title": "Berzerk",
+    "duration": 238,
+    "createdAt": "2017-08-21T06:20:37.857Z",
+    "updatedAt": "2017-08-21T06:20:37.857Z"
+  },
+  "258": {
+    "id": 258,
+    "albumId": 88,
+    "artistId": 2,
+    "title": "Rap God",
+    "duration": 363,
+    "createdAt": "2017-08-21T06:20:37.861Z",
+    "updatedAt": "2017-08-21T06:20:37.861Z"
+  },
+  "259": {
+    "id": 259,
+    "albumId": 88,
+    "artistId": 2,
+    "title": "Beautiful Pain",
+    "duration": 265,
+    "createdAt": "2017-08-21T06:20:37.866Z",
+    "updatedAt": "2017-08-21T06:20:37.866Z"
+  },
+  "260": {
+    "id": 260,
+    "albumId": 88,
+    "artistId": 2,
+    "title": "So Much Better",
+    "duration": 261,
+    "createdAt": "2017-08-21T06:20:37.886Z",
+    "updatedAt": "2017-08-21T06:20:37.886Z"
+  },
+  "261": {
+    "id": 261,
+    "albumId": 88,
+    "artistId": 2,
+    "title": "Legacy",
+    "duration": 296,
+    "createdAt": "2017-08-21T06:20:37.890Z",
+    "updatedAt": "2017-08-21T06:20:37.890Z"
+  },
+  "262": {
+    "id": 262,
+    "albumId": 88,
+    "artistId": 2,
+    "title": "Rhyme Or Reason",
+    "duration": 301,
+    "createdAt": "2017-08-21T06:20:37.896Z",
+    "updatedAt": "2017-08-21T06:20:37.896Z"
+  },
+  "263": {
+    "id": 263,
+    "albumId": 88,
+    "artistId": 2,
+    "title": "Bad Guy",
+    "duration": 434,
+    "createdAt": "2017-08-21T06:20:37.902Z",
+    "updatedAt": "2017-08-21T06:20:37.902Z"
+  },
+  "264": {
+    "id": 264,
+    "albumId": 88,
+    "artistId": 2,
+    "title": "The Monster",
+    "duration": 250,
+    "createdAt": "2017-08-21T06:20:37.906Z",
+    "updatedAt": "2017-08-21T06:20:37.906Z"
+  },
+  "265": {
+    "id": 265,
+    "albumId": 88,
+    "artistId": 2,
+    "title": "Stronger Than I Was",
+    "duration": 336,
+    "createdAt": "2017-08-21T06:20:37.910Z",
+    "updatedAt": "2017-08-21T06:20:37.910Z"
+  },
+  "266": {
+    "id": 266,
+    "albumId": 89,
+    "artistId": 2,
+    "title": "The Real Slim Shady",
+    "duration": 284,
+    "createdAt": "2017-08-21T06:20:37.922Z",
+    "updatedAt": "2017-08-21T06:20:37.922Z"
+  },
+  "267": {
+    "id": 267,
+    "albumId": 90,
+    "artistId": 2,
+    "title": "Forever (Album Version Explicit)",
+    "duration": 357,
+    "createdAt": "2017-08-21T06:20:37.927Z",
+    "updatedAt": "2017-08-21T06:20:37.927Z"
+  },
+  "268": {
+    "id": 268,
+    "albumId": 91,
+    "artistId": 2,
+    "title": "You Don't Know",
+    "duration": 257,
+    "createdAt": "2017-08-21T06:20:37.931Z",
+    "updatedAt": "2017-08-21T06:20:37.931Z"
+  },
+  "269": {
+    "id": 269,
+    "albumId": 91,
+    "artistId": 2,
+    "title": "Shake That (Remix) (Album Version Explicit)",
+    "duration": 179,
+    "createdAt": "2017-08-21T06:20:37.939Z",
+    "updatedAt": "2017-08-21T06:20:37.939Z"
+  },
+  "270": {
+    "id": 270,
+    "albumId": 92,
+    "artistId": 2,
+    "title": "Go To Sleep (Album Version Explicit)",
+    "duration": 282,
+    "createdAt": "2017-08-21T06:20:37.945Z",
+    "updatedAt": "2017-08-21T06:20:37.945Z"
+  },
+  "271": {
+    "id": 271,
+    "albumId": 93,
+    "artistId": 2,
+    "title": "I Need A Doctor (Explicit Version)",
+    "duration": 283,
+    "createdAt": "2017-08-21T06:20:37.948Z",
+    "updatedAt": "2017-08-21T06:20:37.948Z"
+  },
+  "272": {
+    "id": 272,
+    "albumId": 94,
+    "artistId": 2,
+    "title": "The Hills (Remix)",
+    "duration": 263,
+    "createdAt": "2017-08-21T06:20:37.959Z",
+    "updatedAt": "2017-08-21T06:20:37.959Z"
+  },
+  "273": {
+    "id": 273,
+    "albumId": 95,
+    "artistId": 2,
+    "title": "Guts Over Fear",
+    "duration": 301,
+    "createdAt": "2017-08-21T06:20:37.966Z",
+    "updatedAt": "2017-08-21T06:20:37.966Z"
+  },
+  "274": {
+    "id": 274,
+    "albumId": 95,
+    "artistId": 2,
+    "title": "Detroit Vs. Everybody",
+    "duration": 357,
+    "createdAt": "2017-08-21T06:20:37.969Z",
+    "updatedAt": "2017-08-21T06:20:37.969Z"
+  },
+  "275": {
+    "id": 275,
+    "albumId": 96,
+    "artistId": 2,
+    "title": "Survival",
+    "duration": 272,
+    "createdAt": "2017-08-21T06:20:37.988Z",
+    "updatedAt": "2017-08-21T06:20:37.988Z"
+  },
+  "276": {
+    "id": 276,
+    "albumId": 97,
+    "artistId": 2,
+    "title": "Kill You",
+    "duration": 264,
+    "createdAt": "2017-08-21T06:20:37.991Z",
+    "updatedAt": "2017-08-21T06:20:37.991Z"
+  },
+  "277": {
+    "id": 277,
+    "albumId": 97,
+    "artistId": 2,
+    "title": "Criminal",
+    "duration": 314,
+    "createdAt": "2017-08-21T06:20:37.995Z",
+    "updatedAt": "2017-08-21T06:20:37.995Z"
+  },
+  "278": {
+    "id": 278,
+    "albumId": 97,
+    "artistId": 2,
+    "title": "Bitch Please II",
+    "duration": 288,
+    "createdAt": "2017-08-21T06:20:38.004Z",
+    "updatedAt": "2017-08-21T06:20:38.004Z"
+  },
+  "279": {
+    "id": 279,
+    "albumId": 97,
+    "artistId": 2,
+    "title": "Under The Influence",
+    "duration": 322,
+    "createdAt": "2017-08-21T06:20:38.011Z",
+    "updatedAt": "2017-08-21T06:20:38.011Z"
+  },
+  "280": {
+    "id": 280,
+    "albumId": 97,
+    "artistId": 2,
+    "title": "Marshall Mathers",
+    "duration": 318,
+    "createdAt": "2017-08-21T06:20:38.014Z",
+    "updatedAt": "2017-08-21T06:20:38.014Z"
+  },
+  "281": {
+    "id": 281,
+    "albumId": 97,
+    "artistId": 2,
+    "title": "The Real Slim Shady",
+    "duration": 284,
+    "createdAt": "2017-08-21T06:20:38.029Z",
+    "updatedAt": "2017-08-21T06:20:38.029Z"
+  },
+  "282": {
+    "id": 282,
+    "albumId": 98,
+    "artistId": 2,
+    "title": "We Made You",
+    "duration": 269,
+    "createdAt": "2017-08-21T06:20:38.033Z",
+    "updatedAt": "2017-08-21T06:20:38.033Z"
+  },
+  "283": {
+    "id": 283,
+    "albumId": 98,
+    "artistId": 2,
+    "title": "Beautiful",
+    "duration": 392,
+    "createdAt": "2017-08-21T06:20:38.037Z",
+    "updatedAt": "2017-08-21T06:20:38.037Z"
+  },
+  "284": {
+    "id": 284,
+    "albumId": 98,
+    "artistId": 2,
+    "title": "Crack A Bottle",
+    "duration": 297,
+    "createdAt": "2017-08-21T06:20:38.043Z",
+    "updatedAt": "2017-08-21T06:20:38.043Z"
+  },
+  "285": {
+    "id": 285,
+    "albumId": 99,
+    "artistId": 2,
+    "title": "Patiently Waiting",
+    "duration": 288,
+    "createdAt": "2017-08-21T06:20:38.047Z",
+    "updatedAt": "2017-08-21T06:20:38.047Z"
+  },
+  "286": {
+    "id": 286,
+    "albumId": 99,
+    "artistId": 2,
+    "title": "Don't Push Me",
+    "duration": 248,
+    "createdAt": "2017-08-21T06:20:38.051Z",
+    "updatedAt": "2017-08-21T06:20:38.051Z"
+  },
+  "287": {
+    "id": 287,
+    "albumId": 100,
+    "artistId": 2,
+    "title": "Airplanes, Part II (feat Eminem & Hayley Williams of Paramore)",
+    "duration": 319,
+    "createdAt": "2017-08-21T06:20:38.072Z",
+    "updatedAt": "2017-08-21T06:20:38.072Z"
+  },
+  "288": {
+    "id": 288,
+    "albumId": 101,
+    "artistId": 2,
+    "title": "Berzerk",
+    "duration": 238,
+    "createdAt": "2017-08-21T06:20:38.075Z",
+    "updatedAt": "2017-08-21T06:20:38.075Z"
+  },
+  "289": {
+    "id": 289,
+    "albumId": 102,
+    "artistId": 2,
+    "title": "That's All She Wrote (feat. Eminem)",
+    "duration": 318,
+    "createdAt": "2017-08-21T06:20:38.082Z",
+    "updatedAt": "2017-08-21T06:20:38.082Z"
+  },
+  "290": {
+    "id": 290,
+    "albumId": 103,
+    "artistId": 2,
+    "title": "8 Mile (Soundtrack Version)",
+    "duration": 359,
+    "createdAt": "2017-08-21T06:20:38.092Z",
+    "updatedAt": "2017-08-21T06:20:38.092Z"
+  },
+  "291": {
+    "id": 291,
+    "albumId": 104,
+    "artistId": 2,
+    "title": "No Favors",
+    "duration": 325,
+    "createdAt": "2017-08-21T06:20:38.097Z",
+    "updatedAt": "2017-08-21T06:20:38.097Z"
+  },
+  "292": {
+    "id": 292,
+    "albumId": 105,
+    "artistId": 2,
+    "title": "Never Enough",
+    "duration": 159,
+    "createdAt": "2017-08-21T06:20:38.102Z",
+    "updatedAt": "2017-08-21T06:20:38.102Z"
+  },
+  "293": {
+    "id": 293,
+    "albumId": 105,
+    "artistId": 2,
+    "title": "Ass Like That",
+    "duration": 265,
+    "createdAt": "2017-08-21T06:20:38.118Z",
+    "updatedAt": "2017-08-21T06:20:38.118Z"
+  },
+  "294": {
+    "id": 294,
+    "albumId": 106,
+    "artistId": 2,
+    "title": "Best Friend",
+    "duration": 314,
+    "createdAt": "2017-08-21T06:20:38.125Z",
+    "updatedAt": "2017-08-21T06:20:38.125Z"
+  },
+  "295": {
+    "id": 295,
+    "albumId": 107,
+    "artistId": 2,
+    "title": "My Name (Explicit Version)",
+    "duration": 272,
+    "createdAt": "2017-08-21T06:20:38.133Z",
+    "updatedAt": "2017-08-21T06:20:38.133Z"
+  },
+  "296": {
+    "id": 296,
+    "albumId": 108,
+    "artistId": 2,
+    "title":
+      "Lean Back (Remix feat. Lil Jon, Eminem, Mase & Remy Martin - Explicit)",
+    "duration": 290,
+    "createdAt": "2017-08-21T06:20:38.139Z",
+    "updatedAt": "2017-08-21T06:20:38.139Z"
+  },
+  "297": {
+    "id": 297,
+    "albumId": 109,
+    "artistId": 2,
+    "title": "Dead Wrong (feat. Eminem)",
+    "duration": 297,
+    "createdAt": "2017-08-21T06:20:38.143Z",
+    "updatedAt": "2017-08-21T06:20:38.143Z"
+  },
+  "298": {
+    "id": 298,
+    "albumId": 110,
+    "artistId": 2,
+    "title": "When I'm Gone (Album Version Explicit)",
+    "duration": 281,
+    "createdAt": "2017-08-21T06:20:38.147Z",
+    "updatedAt": "2017-08-21T06:20:38.147Z"
+  },
+  "299": {
+    "id": 299,
+    "albumId": 111,
+    "artistId": 2,
+    "title": "Bagpipes From Baghdad",
+    "duration": 283,
+    "createdAt": "2017-08-21T06:20:38.165Z",
+    "updatedAt": "2017-08-21T06:20:38.165Z"
+  },
+  "300": {
+    "id": 300,
+    "albumId": 112,
+    "artistId": 2,
+    "title": "We Made You",
+    "duration": 288,
+    "createdAt": "2017-08-21T06:20:38.185Z",
+    "updatedAt": "2017-08-21T06:20:38.185Z"
+  },
+  "301": {
+    "id": 301,
+    "albumId": 113,
+    "artistId": 3,
+    "title": "Herzbeben",
+    "duration": 205,
+    "createdAt": "2017-08-21T06:20:38.189Z",
+    "updatedAt": "2017-08-21T06:20:38.189Z"
+  },
+  "302": {
+    "id": 302,
+    "albumId": 113,
+    "artistId": 3,
+    "title": "Herzbeben (Afrojack Remix)",
+    "duration": 285,
+    "createdAt": "2017-08-21T06:20:38.198Z",
+    "updatedAt": "2017-08-21T06:20:38.198Z"
+  },
+  "303": {
+    "id": 303,
+    "albumId": 113,
+    "artistId": 3,
+    "title": "Herzbeben (Anstandslos & Durchgeknallt Remix)",
+    "duration": 153,
+    "createdAt": "2017-08-21T06:20:38.204Z",
+    "updatedAt": "2017-08-21T06:20:38.204Z"
+  },
+  "304": {
+    "id": 304,
+    "albumId": 113,
+    "artistId": 3,
+    "title": "Herzbeben (Rico Bernasconi Remix)",
+    "duration": 220,
+    "createdAt": "2017-08-21T06:20:38.207Z",
+    "updatedAt": "2017-08-21T06:20:38.207Z"
+  },
+  "305": {
+    "id": 305,
+    "albumId": 113,
+    "artistId": 3,
+    "title": "Herzbeben (Extended Mix)",
+    "duration": 278,
+    "createdAt": "2017-08-21T06:20:38.223Z",
+    "updatedAt": "2017-08-21T06:20:38.223Z"
+  },
+  "306": {
+    "id": 306,
+    "albumId": 113,
+    "artistId": 3,
+    "title": "Herzbeben (Afrojack Remix Edit)",
+    "duration": 222,
+    "createdAt": "2017-08-21T06:20:38.226Z",
+    "updatedAt": "2017-08-21T06:20:38.226Z"
+  },
+  "307": {
+    "id": 307,
+    "albumId": 113,
+    "artistId": 3,
+    "title": "Herzbeben",
+    "duration": 204,
+    "createdAt": "2017-08-21T06:20:38.230Z",
+    "updatedAt": "2017-08-21T06:20:38.230Z"
+  },
+  "308": {
+    "id": 308,
+    "albumId": 113,
+    "artistId": 3,
+    "title": "Herzbeben (Arash Extensive Remix)",
+    "duration": 193,
+    "createdAt": "2017-08-21T06:20:38.238Z",
+    "updatedAt": "2017-08-21T06:20:38.238Z"
+  },
+  "309": {
+    "id": 309,
+    "albumId": 113,
+    "artistId": 3,
+    "title": "Herzbeben (Vitalize Remix)",
+    "duration": 200,
+    "createdAt": "2017-08-21T06:20:38.242Z",
+    "updatedAt": "2017-08-21T06:20:38.242Z"
+  },
+  "310": {
+    "id": 310,
+    "albumId": 113,
+    "artistId": 3,
+    "title": "Herzbeben (Anstandslos & Durchgeknallt Extended Remix)",
+    "duration": 212,
+    "createdAt": "2017-08-21T06:20:38.246Z",
+    "updatedAt": "2017-08-21T06:20:38.246Z"
+  },
+  "311": {
+    "id": 311,
+    "albumId": 113,
+    "artistId": 3,
+    "title": "Herzbeben (Scotty Remix)",
+    "duration": 265,
+    "createdAt": "2017-08-21T06:20:38.263Z",
+    "updatedAt": "2017-08-21T06:20:38.263Z"
+  },
+  "312": {
+    "id": 312,
+    "albumId": 113,
+    "artistId": 3,
+    "title": "Herzbeben (Swanky Tunes & Going Deeper Remix)",
+    "duration": 225,
+    "createdAt": "2017-08-21T06:20:38.269Z",
+    "updatedAt": "2017-08-21T06:20:38.269Z"
+  },
+  "313": {
+    "id": 313,
+    "albumId": 114,
+    "artistId": 3,
+    "title": "Nur mit Dir",
+    "duration": 249,
+    "createdAt": "2017-08-21T06:20:38.272Z",
+    "updatedAt": "2017-08-21T06:20:38.272Z"
+  },
+  "314": {
+    "id": 314,
+    "albumId": 114,
+    "artistId": 3,
+    "title": "Nur mit Dir (Harris & Ford Remix)",
+    "duration": 304,
+    "createdAt": "2017-08-21T06:20:38.296Z",
+    "updatedAt": "2017-08-21T06:20:38.296Z"
+  },
+  "315": {
+    "id": 315,
+    "albumId": 114,
+    "artistId": 3,
+    "title": "Nur mit Dir (Stereoact Radio Remix)",
+    "duration": 248,
+    "createdAt": "2017-08-21T06:20:38.300Z",
+    "updatedAt": "2017-08-21T06:20:38.300Z"
+  },
+  "316": {
+    "id": 316,
+    "albumId": 114,
+    "artistId": 3,
+    "title": "Nur mit Dir (Extended Mix)",
+    "duration": 366,
+    "createdAt": "2017-08-21T06:20:38.303Z",
+    "updatedAt": "2017-08-21T06:20:38.303Z"
+  },
+  "317": {
+    "id": 317,
+    "albumId": 114,
+    "artistId": 3,
+    "title": "Nur mit Dir (Stereoact Extended Remix)",
+    "duration": 322,
+    "createdAt": "2017-08-21T06:20:38.309Z",
+    "updatedAt": "2017-08-21T06:20:38.309Z"
+  },
+  "318": {
+    "id": 318,
+    "albumId": 115,
+    "artistId": 3,
+    "title": "Atemlos durch die Nacht",
+    "duration": 219,
+    "createdAt": "2017-08-21T06:20:38.316Z",
+    "updatedAt": "2017-08-21T06:20:38.316Z"
+  },
+  "319": {
+    "id": 319,
+    "albumId": 115,
+    "artistId": 3,
+    "title": "Atemlos durch die Nacht (Bassflow Main Radio/Video Mix)",
+    "duration": 218,
+    "createdAt": "2017-08-21T06:20:38.321Z",
+    "updatedAt": "2017-08-21T06:20:38.321Z"
+  },
+  "320": {
+    "id": 320,
+    "albumId": 115,
+    "artistId": 3,
+    "title": "Atemlos durch die Nacht (Live)",
+    "duration": 374,
+    "createdAt": "2017-08-21T06:20:38.340Z",
+    "updatedAt": "2017-08-21T06:20:38.340Z"
+  },
+  "321": {
+    "id": 321,
+    "albumId": 115,
+    "artistId": 3,
+    "title": "Atemlos durch die Nacht (\"The Pope\" Remix)",
+    "duration": 221,
+    "createdAt": "2017-08-21T06:20:38.344Z",
+    "updatedAt": "2017-08-21T06:20:38.344Z"
+  },
+  "322": {
+    "id": 322,
+    "albumId": 115,
+    "artistId": 3,
+    "title": "Atemlos durch die Nacht (Bassflow Alternative Remake Edit)",
+    "duration": 217,
+    "createdAt": "2017-08-21T06:20:38.348Z",
+    "updatedAt": "2017-08-21T06:20:38.348Z"
+  },
+  "323": {
+    "id": 323,
+    "albumId": 116,
+    "artistId": 3,
+    "title": "Fehlerfrei",
+    "duration": 219,
+    "createdAt": "2017-08-21T06:20:38.354Z",
+    "updatedAt": "2017-08-21T06:20:38.354Z"
+  },
+  "324": {
+    "id": 324,
+    "albumId": 116,
+    "artistId": 3,
+    "title": "Marathon",
+    "duration": 227,
+    "createdAt": "2017-08-21T06:20:38.358Z",
+    "updatedAt": "2017-08-21T06:20:38.358Z"
+  },
+  "325": {
+    "id": 325,
+    "albumId": 116,
+    "artistId": 3,
+    "title": "Mit keinem Andern",
+    "duration": 222,
+    "createdAt": "2017-08-21T06:20:38.362Z",
+    "updatedAt": "2017-08-21T06:20:38.362Z"
+  },
+  "326": {
+    "id": 326,
+    "albumId": 116,
+    "artistId": 3,
+    "title": "Atemlos durch die Nacht",
+    "duration": 219,
+    "createdAt": "2017-08-21T06:20:38.385Z",
+    "updatedAt": "2017-08-21T06:20:38.385Z"
+  },
+  "327": {
+    "id": 327,
+    "albumId": 116,
+    "artistId": 3,
+    "title": "Unser Tag",
+    "duration": 216,
+    "createdAt": "2017-08-21T06:20:38.391Z",
+    "updatedAt": "2017-08-21T06:20:38.391Z"
+  },
+  "328": {
+    "id": 328,
+    "albumId": 116,
+    "artistId": 3,
+    "title": "Te Quiero",
+    "duration": 218,
+    "createdAt": "2017-08-21T06:20:38.395Z",
+    "updatedAt": "2017-08-21T06:20:38.395Z"
+  },
+  "329": {
+    "id": 329,
+    "albumId": 116,
+    "artistId": 3,
+    "title": "So kann das Leben sein",
+    "duration": 241,
+    "createdAt": "2017-08-21T06:20:38.403Z",
+    "updatedAt": "2017-08-21T06:20:38.403Z"
+  },
+  "330": {
+    "id": 330,
+    "albumId": 116,
+    "artistId": 3,
+    "title": "Der Augenblick",
+    "duration": 255,
+    "createdAt": "2017-08-21T06:20:38.408Z",
+    "updatedAt": "2017-08-21T06:20:38.408Z"
+  },
+  "331": {
+    "id": 331,
+    "albumId": 116,
+    "artistId": 3,
+    "title": "Feuerwerk",
+    "duration": 220,
+    "createdAt": "2017-08-21T06:20:38.412Z",
+    "updatedAt": "2017-08-21T06:20:38.412Z"
+  },
+  "332": {
+    "id": 332,
+    "albumId": 116,
+    "artistId": 3,
+    "title": "Ein kleines Glück",
+    "duration": 220,
+    "createdAt": "2017-08-21T06:20:38.423Z",
+    "updatedAt": "2017-08-21T06:20:38.423Z"
+  },
+  "333": {
+    "id": 333,
+    "albumId": 116,
+    "artistId": 3,
+    "title": "Captain meiner Seele",
+    "duration": 217,
+    "createdAt": "2017-08-21T06:20:38.429Z",
+    "updatedAt": "2017-08-21T06:20:38.429Z"
+  },
+  "334": {
+    "id": 334,
+    "albumId": 116,
+    "artistId": 3,
+    "title": "Wunder dich nicht",
+    "duration": 231,
+    "createdAt": "2017-08-21T06:20:38.433Z",
+    "updatedAt": "2017-08-21T06:20:38.433Z"
+  },
+  "335": {
+    "id": 335,
+    "albumId": 116,
+    "artistId": 3,
+    "title": "In diesen Nächten",
+    "duration": 260,
+    "createdAt": "2017-08-21T06:20:38.441Z",
+    "updatedAt": "2017-08-21T06:20:38.441Z"
+  },
+  "336": {
+    "id": 336,
+    "albumId": 116,
+    "artistId": 3,
+    "title": "Ehrlich und klar",
+    "duration": 243,
+    "createdAt": "2017-08-21T06:20:38.447Z",
+    "updatedAt": "2017-08-21T06:20:38.447Z"
+  },
+  "337": {
+    "id": 337,
+    "albumId": 116,
+    "artistId": 3,
+    "title": "Auf der Suche nach mir",
+    "duration": 250,
+    "createdAt": "2017-08-21T06:20:38.451Z",
+    "updatedAt": "2017-08-21T06:20:38.451Z"
+  },
+  "338": {
+    "id": 338,
+    "albumId": 116,
+    "artistId": 3,
+    "title": "Alice im Wunderland",
+    "duration": 239,
+    "createdAt": "2017-08-21T06:20:38.465Z",
+    "updatedAt": "2017-08-21T06:20:38.465Z"
+  },
+  "339": {
+    "id": 339,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Ich Will Immer Wieder... Dieses Fieber Spür'n",
+    "duration": 209,
+    "createdAt": "2017-08-21T06:20:38.471Z",
+    "updatedAt": "2017-08-21T06:20:38.471Z"
+  },
+  "340": {
+    "id": 340,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Und Morgen Früh Küss Ich Dich Wach",
+    "duration": 225,
+    "createdAt": "2017-08-21T06:20:38.475Z",
+    "updatedAt": "2017-08-21T06:20:38.475Z"
+  },
+  "341": {
+    "id": 341,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Von Hier Bis Unendlich.",
+    "duration": 226,
+    "createdAt": "2017-08-21T06:20:38.483Z",
+    "updatedAt": "2017-08-21T06:20:38.483Z"
+  },
+  "342": {
+    "id": 342,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Mal Ganz Ehrlich",
+    "duration": 212,
+    "createdAt": "2017-08-21T06:20:38.488Z",
+    "updatedAt": "2017-08-21T06:20:38.488Z"
+  },
+  "343": {
+    "id": 343,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Du Fängst Mich Auf Und Lässt Mich Fliegen",
+    "duration": 240,
+    "createdAt": "2017-08-21T06:20:38.492Z",
+    "updatedAt": "2017-08-21T06:20:38.492Z"
+  },
+  "344": {
+    "id": 344,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Hundert Prozent",
+    "duration": 239,
+    "createdAt": "2017-08-21T06:20:38.506Z",
+    "updatedAt": "2017-08-21T06:20:38.506Z"
+  },
+  "345": {
+    "id": 345,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Verlieb' Dich Nie Nach Mitternacht",
+    "duration": 213,
+    "createdAt": "2017-08-21T06:20:38.512Z",
+    "updatedAt": "2017-08-21T06:20:38.512Z"
+  },
+  "346": {
+    "id": 346,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Feuer Am Horizont",
+    "duration": 232,
+    "createdAt": "2017-08-21T06:20:38.516Z",
+    "updatedAt": "2017-08-21T06:20:38.516Z"
+  },
+  "347": {
+    "id": 347,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Mitten im Paradies",
+    "duration": 207,
+    "createdAt": "2017-08-21T06:20:38.528Z",
+    "updatedAt": "2017-08-21T06:20:38.528Z"
+  },
+  "348": {
+    "id": 348,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Ich Glaub Dir Hundert Lügen",
+    "duration": 202,
+    "createdAt": "2017-08-21T06:20:38.533Z",
+    "updatedAt": "2017-08-21T06:20:38.533Z"
+  },
+  "349": {
+    "id": 349,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Du Läßt Mich Sein, So Wie Ich Bin",
+    "duration": 251,
+    "createdAt": "2017-08-21T06:20:38.538Z",
+    "updatedAt": "2017-08-21T06:20:38.538Z"
+  },
+  "350": {
+    "id": 350,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Manchmal Kommt Die Liebe Einfach So",
+    "duration": 196,
+    "createdAt": "2017-08-21T06:20:38.551Z",
+    "updatedAt": "2017-08-21T06:20:38.551Z"
+  },
+  "351": {
+    "id": 351,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Frag Nicht - Ich Mag Dich",
+    "duration": 243,
+    "createdAt": "2017-08-21T06:20:38.558Z",
+    "updatedAt": "2017-08-21T06:20:38.558Z"
+  },
+  "352": {
+    "id": 352,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Vergeben Vergessen Und Wieder Vertrau'n",
+    "duration": 241,
+    "createdAt": "2017-08-21T06:20:38.562Z",
+    "updatedAt": "2017-08-21T06:20:38.562Z"
+  },
+  "353": {
+    "id": 353,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Du Hast Mein Herz Berührt",
+    "duration": 208,
+    "createdAt": "2017-08-21T06:20:38.568Z",
+    "updatedAt": "2017-08-21T06:20:38.568Z"
+  },
+  "354": {
+    "id": 354,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Ich Geb Nie Auf (Am Anfang War Das Feuer)",
+    "duration": 243,
+    "createdAt": "2017-08-21T06:20:38.573Z",
+    "updatedAt": "2017-08-21T06:20:38.573Z"
+  },
+  "355": {
+    "id": 355,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Lass Mich In Dein Leben",
+    "duration": 223,
+    "createdAt": "2017-08-21T06:20:38.577Z",
+    "updatedAt": "2017-08-21T06:20:38.577Z"
+  },
+  "356": {
+    "id": 356,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Im Reigen Der Gefühle",
+    "duration": 198,
+    "createdAt": "2017-08-21T06:20:38.587Z",
+    "updatedAt": "2017-08-21T06:20:38.587Z"
+  },
+  "357": {
+    "id": 357,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Und Ich Vermiss Dich Auch",
+    "duration": 200,
+    "createdAt": "2017-08-21T06:20:38.595Z",
+    "updatedAt": "2017-08-21T06:20:38.595Z"
+  },
+  "358": {
+    "id": 358,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Von Null Auf Sehnsucht",
+    "duration": 255,
+    "createdAt": "2017-08-21T06:20:38.599Z",
+    "updatedAt": "2017-08-21T06:20:38.599Z"
+  },
+  "359": {
+    "id": 359,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "You're My Destination",
+    "duration": 224,
+    "createdAt": "2017-08-21T06:20:38.608Z",
+    "updatedAt": "2017-08-21T06:20:38.608Z"
+  },
+  "360": {
+    "id": 360,
+    "albumId": 117,
+    "artistId": 3,
+    "title": "Nicht Von Dieser Welt",
+    "duration": 209,
+    "createdAt": "2017-08-21T06:20:38.613Z",
+    "updatedAt": "2017-08-21T06:20:38.613Z"
+  },
+  "361": {
+    "id": 361,
+    "albumId": 118,
+    "artistId": 3,
+    "title": "Ich bin bereit (Helene Fischer Version)",
+    "duration": 174,
+    "createdAt": "2017-08-21T06:20:38.617Z",
+    "updatedAt": "2017-08-21T06:20:38.617Z"
+  },
+  "362": {
+    "id": 362,
+    "albumId": 119,
+    "artistId": 3,
+    "title": "Ich Will Immer Wieder... Dieses Fieber Spür'n",
+    "duration": 209,
+    "createdAt": "2017-08-21T06:20:38.626Z",
+    "updatedAt": "2017-08-21T06:20:38.626Z"
+  },
+  "363": {
+    "id": 363,
+    "albumId": 120,
+    "artistId": 3,
+    "title": "Lass jetzt los (Let It Go) (Live / Bonus Track)",
+    "duration": 290,
+    "createdAt": "2017-08-21T06:20:38.635Z",
+    "updatedAt": "2017-08-21T06:20:38.635Z"
+  },
+  "364": {
+    "id": 364,
+    "albumId": 121,
+    "artistId": 3,
+    "title": "Phänomen",
+    "duration": 238,
+    "createdAt": "2017-08-21T06:20:38.644Z",
+    "updatedAt": "2017-08-21T06:20:38.644Z"
+  },
+  "365": {
+    "id": 365,
+    "albumId": 122,
+    "artistId": 3,
+    "title": "Ich wollte nie erwachsen sein (Nessajas Lied)",
+    "duration": 270,
+    "createdAt": "2017-08-21T06:20:38.657Z",
+    "updatedAt": "2017-08-21T06:20:38.657Z"
+  },
+  "366": {
+    "id": 366,
+    "albumId": 122,
+    "artistId": 3,
+    "title": "Für einen Tag",
+    "duration": 267,
+    "createdAt": "2017-08-21T06:20:38.663Z",
+    "updatedAt": "2017-08-21T06:20:38.663Z"
+  },
+  "367": {
+    "id": 367,
+    "albumId": 122,
+    "artistId": 3,
+    "title": "Wär heut mein letzter Tag",
+    "duration": 215,
+    "createdAt": "2017-08-21T06:20:38.667Z",
+    "updatedAt": "2017-08-21T06:20:38.667Z"
+  },
+  "368": {
+    "id": 368,
+    "albumId": 122,
+    "artistId": 3,
+    "title": "Nur wer den Wahnsinn liebt",
+    "duration": 244,
+    "createdAt": "2017-08-21T06:20:38.671Z",
+    "updatedAt": "2017-08-21T06:20:38.671Z"
+  },
+  "369": {
+    "id": 369,
+    "albumId": 122,
+    "artistId": 3,
+    "title": "Villa in der Schlossallee",
+    "duration": 207,
+    "createdAt": "2017-08-21T06:20:38.680Z",
+    "updatedAt": "2017-08-21T06:20:38.680Z"
+  },
+  "370": {
+    "id": 370,
+    "albumId": 122,
+    "artistId": 3,
+    "title": "Die Hölle morgen früh",
+    "duration": 289,
+    "createdAt": "2017-08-21T06:20:38.687Z",
+    "updatedAt": "2017-08-21T06:20:38.687Z"
+  },
+  "371": {
+    "id": 371,
+    "albumId": 122,
+    "artistId": 3,
+    "title": "Phänomen",
+    "duration": 240,
+    "createdAt": "2017-08-21T06:20:38.698Z",
+    "updatedAt": "2017-08-21T06:20:38.698Z"
+  },
+  "372": {
+    "id": 372,
+    "albumId": 122,
+    "artistId": 3,
+    "title": "Die Hölle morgen früh",
+    "duration": 289,
+    "createdAt": "2017-08-21T06:20:38.704Z",
+    "updatedAt": "2017-08-21T06:20:38.704Z"
+  },
+  "373": {
+    "id": 373,
+    "albumId": 122,
+    "artistId": 3,
+    "title": "Die Hölle morgen früh",
+    "duration": 289,
+    "createdAt": "2017-08-21T06:20:38.710Z",
+    "updatedAt": "2017-08-21T06:20:38.710Z"
+  },
+  "374": {
+    "id": 374,
+    "albumId": 122,
+    "artistId": 3,
+    "title": "Copilot",
+    "duration": 247,
+    "createdAt": "2017-08-21T06:20:38.715Z",
+    "updatedAt": "2017-08-21T06:20:38.715Z"
+  },
+  "375": {
+    "id": 375,
+    "albumId": 122,
+    "artistId": 3,
+    "title": "Du kennst mich doch",
+    "duration": 232,
+    "createdAt": "2017-08-21T06:20:38.726Z",
+    "updatedAt": "2017-08-21T06:20:38.726Z"
+  },
+  "376": {
+    "id": 376,
+    "albumId": 122,
+    "artistId": 3,
+    "title": "Geradeaus",
+    "duration": 171,
+    "createdAt": "2017-08-21T06:20:38.732Z",
+    "updatedAt": "2017-08-21T06:20:38.732Z"
+  },
+  "377": {
+    "id": 377,
+    "albumId": 123,
+    "artistId": 3,
+    "title": "Die Hölle morgen früh",
+    "duration": 288,
+    "createdAt": "2017-08-21T06:20:38.743Z",
+    "updatedAt": "2017-08-21T06:20:38.743Z"
+  },
+  "378": {
+    "id": 378,
+    "albumId": 123,
+    "artistId": 3,
+    "title": "Die Hölle morgen früh (Radio Version)",
+    "duration": 186,
+    "createdAt": "2017-08-21T06:20:38.749Z",
+    "updatedAt": "2017-08-21T06:20:38.749Z"
+  },
+  "379": {
+    "id": 379,
+    "albumId": 124,
+    "artistId": 3,
+    "title": "Biene Maja",
+    "duration": 48,
+    "createdAt": "2017-08-21T06:20:38.753Z",
+    "updatedAt": "2017-08-21T06:20:38.753Z"
+  },
+  "380": {
+    "id": 380,
+    "albumId": 125,
+    "artistId": 3,
+    "title": "Mitten im Paradies",
+    "duration": 208,
+    "createdAt": "2017-08-21T06:20:38.757Z",
+    "updatedAt": "2017-08-21T06:20:38.757Z"
+  },
+  "381": {
+    "id": 381,
+    "albumId": 126,
+    "artistId": 3,
+    "title": "Du Fängst Mich Auf Und Lässt Mich Fliegen (Live 2010)",
+    "duration": 391,
+    "createdAt": "2017-08-21T06:20:38.772Z",
+    "updatedAt": "2017-08-21T06:20:38.772Z"
+  },
+  "382": {
+    "id": 382,
+    "albumId": 126,
+    "artistId": 3,
+    "title": "Der Ewige Kreis (Aus \"König Der Löwen\") (Live 2010)",
+    "duration": 274,
+    "createdAt": "2017-08-21T06:20:38.776Z",
+    "updatedAt": "2017-08-21T06:20:38.776Z"
+  },
+  "383": {
+    "id": 383,
+    "albumId": 126,
+    "artistId": 3,
+    "title":
+      "Can You Feel The Love Tonight (Aus \"König Der Löwen\") (Live 2010)",
+    "duration": 191,
+    "createdAt": "2017-08-21T06:20:38.782Z",
+    "updatedAt": "2017-08-21T06:20:38.782Z"
+  },
+  "384": {
+    "id": 384,
+    "albumId": 126,
+    "artistId": 3,
+    "title": "Lass Mich In Dein Leben (Live 2010)",
+    "duration": 235,
+    "createdAt": "2017-08-21T06:20:38.789Z",
+    "updatedAt": "2017-08-21T06:20:38.789Z"
+  },
+  "385": {
+    "id": 385,
+    "albumId": 127,
+    "artistId": 3,
+    "title": "Lass Mich In Dein Leben",
+    "duration": 223,
+    "createdAt": "2017-08-21T06:20:38.795Z",
+    "updatedAt": "2017-08-21T06:20:38.795Z"
+  },
+  "386": {
+    "id": 386,
+    "albumId": 128,
+    "artistId": 3,
+    "title": "Marathon",
+    "duration": 227,
+    "createdAt": "2017-08-21T06:20:38.802Z",
+    "updatedAt": "2017-08-21T06:20:38.802Z"
+  },
+  "387": {
+    "id": 387,
+    "albumId": 129,
+    "artistId": 3,
+    "title": "Biene Maja",
+    "duration": 162,
+    "createdAt": "2017-08-21T06:20:38.811Z",
+    "updatedAt": "2017-08-21T06:20:38.811Z"
+  },
+  "388": {
+    "id": 388,
+    "albumId": 130,
+    "artistId": 3,
+    "title": "Fehlerfrei",
+    "duration": 218,
+    "createdAt": "2017-08-21T06:20:38.820Z",
+    "updatedAt": "2017-08-21T06:20:38.820Z"
+  },
+  "389": {
+    "id": 389,
+    "albumId": 131,
+    "artistId": 3,
+    "title": "Wär' heut' mein letzter Tag (Duett mit Helene Fischer)",
+    "duration": 197,
+    "createdAt": "2017-08-21T06:20:38.825Z",
+    "updatedAt": "2017-08-21T06:20:38.825Z"
+  },
+  "390": {
+    "id": 390,
+    "albumId": 132,
+    "artistId": 3,
+    "title": "Goldeneye (Live 2012)",
+    "duration": 331,
+    "createdAt": "2017-08-21T06:20:38.832Z",
+    "updatedAt": "2017-08-21T06:20:38.832Z"
+  },
+  "391": {
+    "id": 391,
+    "albumId": 132,
+    "artistId": 3,
+    "title": "Hallelujah (Live 2012)",
+    "duration": 172,
+    "createdAt": "2017-08-21T06:20:38.836Z",
+    "updatedAt": "2017-08-21T06:20:38.836Z"
+  },
+  "392": {
+    "id": 392,
+    "albumId": 132,
+    "artistId": 3,
+    "title": "Die Schöne und das Biest (Live 2012)",
+    "duration": 172,
+    "createdAt": "2017-08-21T06:20:38.843Z",
+    "updatedAt": "2017-08-21T06:20:38.843Z"
+  },
+  "393": {
+    "id": 393,
+    "albumId": 132,
+    "artistId": 3,
+    "title": "Mitten im Paradies (Live 2012)",
+    "duration": 182,
+    "createdAt": "2017-08-21T06:20:38.854Z",
+    "updatedAt": "2017-08-21T06:20:38.854Z"
+  },
+  "394": {
+    "id": 394,
+    "albumId": 132,
+    "artistId": 3,
+    "title": "Nicht von dieser Welt (Live 2012)",
+    "duration": 235,
+    "createdAt": "2017-08-21T06:20:38.863Z",
+    "updatedAt": "2017-08-21T06:20:38.863Z"
+  },
+  "395": {
+    "id": 395,
+    "albumId": 132,
+    "artistId": 3,
+    "title": "Allein im Licht (Live 2012)",
+    "duration": 305,
+    "createdAt": "2017-08-21T06:20:38.867Z",
+    "updatedAt": "2017-08-21T06:20:38.867Z"
+  },
+  "396": {
+    "id": 396,
+    "albumId": 132,
+    "artistId": 3,
+    "title": "Phänomen (Live 2012)",
+    "duration": 328,
+    "createdAt": "2017-08-21T06:20:38.875Z",
+    "updatedAt": "2017-08-21T06:20:38.875Z"
+  },
+  "397": {
+    "id": 397,
+    "albumId": 133,
+    "artistId": 3,
+    "title": "Just Pretend",
+    "duration": 245,
+    "createdAt": "2017-08-21T06:20:38.879Z",
+    "updatedAt": "2017-08-21T06:20:38.879Z"
+  },
+  "398": {
+    "id": 398,
+    "albumId": 134,
+    "artistId": 3,
+    "title": "Ich Will Immer Wieder... Dieses Fieber Spür'n",
+    "duration": 210,
+    "createdAt": "2017-08-21T06:20:38.885Z",
+    "updatedAt": "2017-08-21T06:20:38.885Z"
+  },
+  "399": {
+    "id": 399,
+    "albumId": 135,
+    "artistId": 3,
+    "title": "Und Morgen Früh Küss Ich Dich Wach",
+    "duration": 228,
+    "createdAt": "2017-08-21T06:20:38.894Z",
+    "updatedAt": "2017-08-21T06:20:38.894Z"
+  },
+  "400": {
+    "id": 400,
+    "albumId": 136,
+    "artistId": 3,
+    "title": "Und Morgen Früh Küss Ich Dich Wach (Partyfoxmix)",
+    "duration": 226,
+    "createdAt": "2017-08-21T06:20:38.906Z",
+    "updatedAt": "2017-08-21T06:20:38.906Z"
+  },
+  "401": {
+    "id": 401,
+    "albumId": 137,
+    "artistId": 4,
+    "title": "HUMBLE.",
+    "duration": 177,
+    "createdAt": "2017-08-21T06:20:38.912Z",
+    "updatedAt": "2017-08-21T06:20:38.912Z"
+  },
+  "402": {
+    "id": 402,
+    "albumId": 137,
+    "artistId": 4,
+    "title": "ELEMENT.",
+    "duration": 208,
+    "createdAt": "2017-08-21T06:20:38.916Z",
+    "updatedAt": "2017-08-21T06:20:38.916Z"
+  },
+  "403": {
+    "id": 403,
+    "albumId": 137,
+    "artistId": 4,
+    "title": "LOYALTY.",
+    "duration": 227,
+    "createdAt": "2017-08-21T06:20:38.922Z",
+    "updatedAt": "2017-08-21T06:20:38.922Z"
+  },
+  "404": {
+    "id": 404,
+    "albumId": 137,
+    "artistId": 4,
+    "title": "DNA.",
+    "duration": 185,
+    "createdAt": "2017-08-21T06:20:38.929Z",
+    "updatedAt": "2017-08-21T06:20:38.929Z"
+  },
+  "405": {
+    "id": 405,
+    "albumId": 137,
+    "artistId": 4,
+    "title": "PRIDE.",
+    "duration": 275,
+    "createdAt": "2017-08-21T06:20:38.938Z",
+    "updatedAt": "2017-08-21T06:20:38.938Z"
+  },
+  "406": {
+    "id": 406,
+    "albumId": 137,
+    "artistId": 4,
+    "title": "LOVE.",
+    "duration": 213,
+    "createdAt": "2017-08-21T06:20:38.954Z",
+    "updatedAt": "2017-08-21T06:20:38.954Z"
+  },
+  "407": {
+    "id": 407,
+    "albumId": 137,
+    "artistId": 4,
+    "title": "FEEL.",
+    "duration": 214,
+    "createdAt": "2017-08-21T06:20:38.962Z",
+    "updatedAt": "2017-08-21T06:20:38.962Z"
+  },
+  "408": {
+    "id": 408,
+    "albumId": 137,
+    "artistId": 4,
+    "title": "LUST.",
+    "duration": 307,
+    "createdAt": "2017-08-21T06:20:38.967Z",
+    "updatedAt": "2017-08-21T06:20:38.967Z"
+  },
+  "409": {
+    "id": 409,
+    "albumId": 137,
+    "artistId": 4,
+    "title": "YAH.",
+    "duration": 160,
+    "createdAt": "2017-08-21T06:20:38.970Z",
+    "updatedAt": "2017-08-21T06:20:38.970Z"
+  },
+  "410": {
+    "id": 410,
+    "albumId": 137,
+    "artistId": 4,
+    "title": "DUCKWORTH.",
+    "duration": 248,
+    "createdAt": "2017-08-21T06:20:38.975Z",
+    "updatedAt": "2017-08-21T06:20:38.975Z"
+  },
+  "411": {
+    "id": 411,
+    "albumId": 137,
+    "artistId": 4,
+    "title": "XXX.",
+    "duration": 254,
+    "createdAt": "2017-08-21T06:20:38.988Z",
+    "updatedAt": "2017-08-21T06:20:38.988Z"
+  },
+  "412": {
+    "id": 412,
+    "albumId": 137,
+    "artistId": 4,
+    "title": "FEAR.",
+    "duration": 460,
+    "createdAt": "2017-08-21T06:20:38.997Z",
+    "updatedAt": "2017-08-21T06:20:38.997Z"
+  },
+  "413": {
+    "id": 413,
+    "albumId": 137,
+    "artistId": 4,
+    "title": "GOD.",
+    "duration": 248,
+    "createdAt": "2017-08-21T06:20:39.002Z",
+    "updatedAt": "2017-08-21T06:20:39.002Z"
+  },
+  "414": {
+    "id": 414,
+    "albumId": 137,
+    "artistId": 4,
+    "title": "BLOOD.",
+    "duration": 118,
+    "createdAt": "2017-08-21T06:20:39.007Z",
+    "updatedAt": "2017-08-21T06:20:39.007Z"
+  },
+  "415": {
+    "id": 415,
+    "albumId": 138,
+    "artistId": 4,
+    "title": "The Greatest",
+    "duration": 210,
+    "createdAt": "2017-08-21T06:20:39.012Z",
+    "updatedAt": "2017-08-21T06:20:39.012Z"
+  },
+  "416": {
+    "id": 416,
+    "albumId": 139,
+    "artistId": 4,
+    "title": "Mask Off (Remix)",
+    "duration": 257,
+    "createdAt": "2017-08-21T06:20:39.016Z",
+    "updatedAt": "2017-08-21T06:20:39.016Z"
+  },
+  "417": {
+    "id": 417,
+    "albumId": 140,
+    "artistId": 4,
+    "title": "Swimming Pools (Drank) (Explicit Version)",
+    "duration": 248,
+    "createdAt": "2017-08-21T06:20:39.026Z",
+    "updatedAt": "2017-08-21T06:20:39.026Z"
+  },
+  "418": {
+    "id": 418,
+    "albumId": 141,
+    "artistId": 4,
+    "title": "Don't Wanna Know",
+    "duration": 214,
+    "createdAt": "2017-08-21T06:20:39.041Z",
+    "updatedAt": "2017-08-21T06:20:39.041Z"
+  },
+  "419": {
+    "id": 419,
+    "albumId": 141,
+    "artistId": 4,
+    "title": "Don't Wanna Know (Ryan Riback Remix)",
+    "duration": 229,
+    "createdAt": "2017-08-21T06:20:39.046Z",
+    "updatedAt": "2017-08-21T06:20:39.046Z"
+  },
+  "420": {
+    "id": 420,
+    "albumId": 141,
+    "artistId": 4,
+    "title": "Don't Wanna Know (BRAVVO Remix)",
+    "duration": 207,
+    "createdAt": "2017-08-21T06:20:39.051Z",
+    "updatedAt": "2017-08-21T06:20:39.051Z"
+  },
+  "421": {
+    "id": 421,
+    "albumId": 142,
+    "artistId": 4,
+    "title": "Perfect Pint",
+    "duration": 240,
+    "createdAt": "2017-08-21T06:20:39.055Z",
+    "updatedAt": "2017-08-21T06:20:39.055Z"
+  },
+  "422": {
+    "id": 422,
+    "albumId": 143,
+    "artistId": 4,
+    "title": "F**kin' Problems",
+    "duration": 237,
+    "createdAt": "2017-08-21T06:20:39.061Z",
+    "updatedAt": "2017-08-21T06:20:39.061Z"
+  },
+  "423": {
+    "id": 423,
+    "albumId": 144,
+    "artistId": 4,
+    "title": "A.D.H.D",
+    "duration": 215,
+    "createdAt": "2017-08-21T06:20:39.074Z",
+    "updatedAt": "2017-08-21T06:20:39.074Z"
+  },
+  "424": {
+    "id": 424,
+    "albumId": 144,
+    "artistId": 4,
+    "title": "HiiiPower",
+    "duration": 279,
+    "createdAt": "2017-08-21T06:20:39.085Z",
+    "updatedAt": "2017-08-21T06:20:39.085Z"
+  },
+  "425": {
+    "id": 425,
+    "albumId": 144,
+    "artistId": 4,
+    "title": "The Spiteful Chant",
+    "duration": 320,
+    "createdAt": "2017-08-21T06:20:39.091Z",
+    "updatedAt": "2017-08-21T06:20:39.091Z"
+  },
+  "426": {
+    "id": 426,
+    "albumId": 144,
+    "artistId": 4,
+    "title": "Rigamortus",
+    "duration": 168,
+    "createdAt": "2017-08-21T06:20:39.097Z",
+    "updatedAt": "2017-08-21T06:20:39.097Z"
+  },
+  "427": {
+    "id": 427,
+    "albumId": 144,
+    "artistId": 4,
+    "title": "Hol' Up",
+    "duration": 173,
+    "createdAt": "2017-08-21T06:20:39.102Z",
+    "updatedAt": "2017-08-21T06:20:39.102Z"
+  },
+  "428": {
+    "id": 428,
+    "albumId": 144,
+    "artistId": 4,
+    "title": "Blow My High (Members Only)",
+    "duration": 215,
+    "createdAt": "2017-08-21T06:20:39.106Z",
+    "updatedAt": "2017-08-21T06:20:39.106Z"
+  },
+  "429": {
+    "id": 429,
+    "albumId": 144,
+    "artistId": 4,
+    "title": "F*ck Your Ethnicity",
+    "duration": 224,
+    "createdAt": "2017-08-21T06:20:39.116Z",
+    "updatedAt": "2017-08-21T06:20:39.116Z"
+  },
+  "430": {
+    "id": 430,
+    "albumId": 144,
+    "artistId": 4,
+    "title": "Poe Mans Dreams (His Vice)",
+    "duration": 261,
+    "createdAt": "2017-08-21T06:20:39.129Z",
+    "updatedAt": "2017-08-21T06:20:39.129Z"
+  },
+  "431": {
+    "id": 431,
+    "albumId": 144,
+    "artistId": 4,
+    "title": "Ronald Reagan Era",
+    "duration": 216,
+    "createdAt": "2017-08-21T06:20:39.134Z",
+    "updatedAt": "2017-08-21T06:20:39.134Z"
+  },
+  "432": {
+    "id": 432,
+    "albumId": 144,
+    "artistId": 4,
+    "title": "Kush & Corinthians",
+    "duration": 304,
+    "createdAt": "2017-08-21T06:20:39.140Z",
+    "updatedAt": "2017-08-21T06:20:39.140Z"
+  },
+  "433": {
+    "id": 433,
+    "albumId": 144,
+    "artistId": 4,
+    "title": "No Make-Up (Her Vice)",
+    "duration": 235,
+    "createdAt": "2017-08-21T06:20:39.145Z",
+    "updatedAt": "2017-08-21T06:20:39.145Z"
+  },
+  "434": {
+    "id": 434,
+    "albumId": 145,
+    "artistId": 4,
+    "title": "m.A.A.d city",
+    "duration": 350,
+    "createdAt": "2017-08-21T06:20:39.149Z",
+    "updatedAt": "2017-08-21T06:20:39.149Z"
+  },
+  "435": {
+    "id": 435,
+    "albumId": 145,
+    "artistId": 4,
+    "title": "Bitch, Don’t Kill My Vibe",
+    "duration": 310,
+    "createdAt": "2017-08-21T06:20:39.161Z",
+    "updatedAt": "2017-08-21T06:20:39.161Z"
+  },
+  "436": {
+    "id": 436,
+    "albumId": 145,
+    "artistId": 4,
+    "title": "Money Trees",
+    "duration": 386,
+    "createdAt": "2017-08-21T06:20:39.172Z",
+    "updatedAt": "2017-08-21T06:20:39.172Z"
+  },
+  "437": {
+    "id": 437,
+    "albumId": 145,
+    "artistId": 4,
+    "title": "Swimming Pools (Drank) (Extended Version)",
+    "duration": 313,
+    "createdAt": "2017-08-21T06:20:39.177Z",
+    "updatedAt": "2017-08-21T06:20:39.177Z"
+  },
+  "438": {
+    "id": 438,
+    "albumId": 145,
+    "artistId": 4,
+    "title": "Poetic Justice",
+    "duration": 300,
+    "createdAt": "2017-08-21T06:20:39.181Z",
+    "updatedAt": "2017-08-21T06:20:39.181Z"
+  },
+  "439": {
+    "id": 439,
+    "albumId": 145,
+    "artistId": 4,
+    "title": "Sing About Me, I'm Dying Of Thirst",
+    "duration": 723,
+    "createdAt": "2017-08-21T06:20:39.187Z",
+    "updatedAt": "2017-08-21T06:20:39.187Z"
+  },
+  "440": {
+    "id": 440,
+    "albumId": 145,
+    "artistId": 4,
+    "title": "Backseat Freestyle",
+    "duration": 212,
+    "createdAt": "2017-08-21T06:20:39.193Z",
+    "updatedAt": "2017-08-21T06:20:39.193Z"
+  },
+  "441": {
+    "id": 441,
+    "albumId": 145,
+    "artistId": 4,
+    "title": "The Recipe (Bonus Track)",
+    "duration": 352,
+    "createdAt": "2017-08-21T06:20:39.206Z",
+    "updatedAt": "2017-08-21T06:20:39.206Z"
+  },
+  "442": {
+    "id": 442,
+    "albumId": 145,
+    "artistId": 4,
+    "title": "Backseat Freestyle",
+    "duration": 212,
+    "createdAt": "2017-08-21T06:20:39.219Z",
+    "updatedAt": "2017-08-21T06:20:39.219Z"
+  },
+  "443": {
+    "id": 443,
+    "albumId": 145,
+    "artistId": 4,
+    "title": "The Art of Peer Pressure",
+    "duration": 324,
+    "createdAt": "2017-08-21T06:20:39.224Z",
+    "updatedAt": "2017-08-21T06:20:39.224Z"
+  },
+  "444": {
+    "id": 444,
+    "albumId": 145,
+    "artistId": 4,
+    "title": "Now Or Never (Bonus Track)",
+    "duration": 256,
+    "createdAt": "2017-08-21T06:20:39.228Z",
+    "updatedAt": "2017-08-21T06:20:39.228Z"
+  },
+  "445": {
+    "id": 445,
+    "albumId": 145,
+    "artistId": 4,
+    "title": "good kid",
+    "duration": 214,
+    "createdAt": "2017-08-21T06:20:39.233Z",
+    "updatedAt": "2017-08-21T06:20:39.233Z"
+  },
+  "446": {
+    "id": 446,
+    "albumId": 145,
+    "artistId": 4,
+    "title": "m.A.A.d city",
+    "duration": 350,
+    "createdAt": "2017-08-21T06:20:39.239Z",
+    "updatedAt": "2017-08-21T06:20:39.239Z"
+  },
+  "447": {
+    "id": 447,
+    "albumId": 145,
+    "artistId": 4,
+    "title": "Bitch, Don’t Kill My Vibe (Remix)",
+    "duration": 278,
+    "createdAt": "2017-08-21T06:20:39.252Z",
+    "updatedAt": "2017-08-21T06:20:39.252Z"
+  },
+  "448": {
+    "id": 448,
+    "albumId": 145,
+    "artistId": 4,
+    "title": "Compton",
+    "duration": 248,
+    "createdAt": "2017-08-21T06:20:39.262Z",
+    "updatedAt": "2017-08-21T06:20:39.262Z"
+  },
+  "449": {
+    "id": 449,
+    "albumId": 145,
+    "artistId": 4,
+    "title": "Real",
+    "duration": 443,
+    "createdAt": "2017-08-21T06:20:39.267Z",
+    "updatedAt": "2017-08-21T06:20:39.267Z"
+  },
+  "450": {
+    "id": 450,
+    "albumId": 145,
+    "artistId": 4,
+    "title": "Sherane a.k.a Master Splinter’s Daughter",
+    "duration": 273,
+    "createdAt": "2017-08-21T06:20:39.272Z",
+    "updatedAt": "2017-08-21T06:20:39.272Z"
+  },
+  "451": {
+    "id": 451,
+    "albumId": 145,
+    "artistId": 4,
+    "title": "Black Boy Fly (Bonus Track)",
+    "duration": 279,
+    "createdAt": "2017-08-21T06:20:39.278Z",
+    "updatedAt": "2017-08-21T06:20:39.278Z"
+  },
+  "452": {
+    "id": 452,
+    "albumId": 145,
+    "artistId": 4,
+    "title": "Money Trees",
+    "duration": 386,
+    "createdAt": "2017-08-21T06:20:39.285Z",
+    "updatedAt": "2017-08-21T06:20:39.285Z"
+  },
+  "453": {
+    "id": 453,
+    "albumId": 145,
+    "artistId": 4,
+    "title": "Swimming Pools (Drank) (Extended Version)",
+    "duration": 313,
+    "createdAt": "2017-08-21T06:20:39.295Z",
+    "updatedAt": "2017-08-21T06:20:39.295Z"
+  },
+  "454": {
+    "id": 454,
+    "albumId": 146,
+    "artistId": 4,
+    "title": "Sidewalks",
+    "duration": 231,
+    "createdAt": "2017-08-21T06:20:39.308Z",
+    "updatedAt": "2017-08-21T06:20:39.308Z"
+  },
+  "455": {
+    "id": 455,
+    "albumId": 147,
+    "artistId": 4,
+    "title": "King Kunta",
+    "duration": 234,
+    "createdAt": "2017-08-21T06:20:39.314Z",
+    "updatedAt": "2017-08-21T06:20:39.314Z"
+  },
+  "456": {
+    "id": 456,
+    "albumId": 147,
+    "artistId": 4,
+    "title": "Alright",
+    "duration": 219,
+    "createdAt": "2017-08-21T06:20:39.319Z",
+    "updatedAt": "2017-08-21T06:20:39.319Z"
+  },
+  "457": {
+    "id": 457,
+    "albumId": 147,
+    "artistId": 4,
+    "title": "How Much A Dollar Cost",
+    "duration": 261,
+    "createdAt": "2017-08-21T06:20:39.324Z",
+    "updatedAt": "2017-08-21T06:20:39.324Z"
+  },
+  "458": {
+    "id": 458,
+    "albumId": 147,
+    "artistId": 4,
+    "title": "These Walls",
+    "duration": 301,
+    "createdAt": "2017-08-21T06:20:39.328Z",
+    "updatedAt": "2017-08-21T06:20:39.328Z"
+  },
+  "459": {
+    "id": 459,
+    "albumId": 147,
+    "artistId": 4,
+    "title": "Wesley's Theory",
+    "duration": 287,
+    "createdAt": "2017-08-21T06:20:39.341Z",
+    "updatedAt": "2017-08-21T06:20:39.341Z"
+  },
+  "460": {
+    "id": 460,
+    "albumId": 147,
+    "artistId": 4,
+    "title": "The Blacker The Berry",
+    "duration": 328,
+    "createdAt": "2017-08-21T06:20:39.351Z",
+    "updatedAt": "2017-08-21T06:20:39.351Z"
+  },
+  "461": {
+    "id": 461,
+    "albumId": 147,
+    "artistId": 4,
+    "title": "Institutionalized",
+    "duration": 271,
+    "createdAt": "2017-08-21T06:20:39.360Z",
+    "updatedAt": "2017-08-21T06:20:39.360Z"
+  },
+  "462": {
+    "id": 462,
+    "albumId": 147,
+    "artistId": 4,
+    "title": "Hood Politics",
+    "duration": 292,
+    "createdAt": "2017-08-21T06:20:39.365Z",
+    "updatedAt": "2017-08-21T06:20:39.365Z"
+  },
+  "463": {
+    "id": 463,
+    "albumId": 147,
+    "artistId": 4,
+    "title": "u",
+    "duration": 268,
+    "createdAt": "2017-08-21T06:20:39.369Z",
+    "updatedAt": "2017-08-21T06:20:39.369Z"
+  },
+  "464": {
+    "id": 464,
+    "albumId": 147,
+    "artistId": 4,
+    "title": "Mortal Man",
+    "duration": 727,
+    "createdAt": "2017-08-21T06:20:39.374Z",
+    "updatedAt": "2017-08-21T06:20:39.374Z"
+  },
+  "465": {
+    "id": 465,
+    "albumId": 147,
+    "artistId": 4,
+    "title": "i",
+    "duration": 336,
+    "createdAt": "2017-08-21T06:20:39.393Z",
+    "updatedAt": "2017-08-21T06:20:39.393Z"
+  },
+  "466": {
+    "id": 466,
+    "albumId": 147,
+    "artistId": 4,
+    "title": "For Free? (Interlude)",
+    "duration": 130,
+    "createdAt": "2017-08-21T06:20:39.400Z",
+    "updatedAt": "2017-08-21T06:20:39.400Z"
+  },
+  "467": {
+    "id": 467,
+    "albumId": 148,
+    "artistId": 4,
+    "title": "Bad Blood",
+    "duration": 200,
+    "createdAt": "2017-08-21T06:20:39.405Z",
+    "updatedAt": "2017-08-21T06:20:39.405Z"
+  },
+  "468": {
+    "id": 468,
+    "albumId": 149,
+    "artistId": 4,
+    "title": "The Recipe",
+    "duration": 353,
+    "createdAt": "2017-08-21T06:20:39.410Z",
+    "updatedAt": "2017-08-21T06:20:39.410Z"
+  },
+  "469": {
+    "id": 469,
+    "albumId": 150,
+    "artistId": 4,
+    "title": "Radioactive",
+    "duration": 276,
+    "createdAt": "2017-08-21T06:20:39.417Z",
+    "updatedAt": "2017-08-21T06:20:39.417Z"
+  },
+  "470": {
+    "id": 470,
+    "albumId": 151,
+    "artistId": 4,
+    "title": "Collard Greens",
+    "duration": 299,
+    "createdAt": "2017-08-21T06:20:39.422Z",
+    "updatedAt": "2017-08-21T06:20:39.422Z"
+  },
+  "471": {
+    "id": 471,
+    "albumId": 152,
+    "artistId": 4,
+    "title": "Autumn Leaves",
+    "duration": 268,
+    "createdAt": "2017-08-21T06:20:39.443Z",
+    "updatedAt": "2017-08-21T06:20:39.443Z"
+  },
+  "472": {
+    "id": 472,
+    "albumId": 153,
+    "artistId": 4,
+    "title": "Doves In The Wind",
+    "duration": 266,
+    "createdAt": "2017-08-21T06:20:39.447Z",
+    "updatedAt": "2017-08-21T06:20:39.447Z"
+  },
+  "473": {
+    "id": 473,
+    "albumId": 154,
+    "artistId": 4,
+    "title": "i",
+    "duration": 231,
+    "createdAt": "2017-08-21T06:20:39.452Z",
+    "updatedAt": "2017-08-21T06:20:39.452Z"
+  },
+  "474": {
+    "id": 474,
+    "albumId": 155,
+    "artistId": 4,
+    "title": "1Train",
+    "duration": 372,
+    "createdAt": "2017-08-21T06:20:39.458Z",
+    "updatedAt": "2017-08-21T06:20:39.458Z"
+  },
+  "475": {
+    "id": 475,
+    "albumId": 155,
+    "artistId": 4,
+    "title": "F**kin' Problems",
+    "duration": 233,
+    "createdAt": "2017-08-21T06:20:39.468Z",
+    "updatedAt": "2017-08-21T06:20:39.468Z"
+  },
+  "476": {
+    "id": 476,
+    "albumId": 156,
+    "artistId": 4,
+    "title": "The Heart Part 4",
+    "duration": 288,
+    "createdAt": "2017-08-21T06:20:39.473Z",
+    "updatedAt": "2017-08-21T06:20:39.473Z"
+  },
+  "477": {
+    "id": 477,
+    "albumId": 157,
+    "artistId": 4,
+    "title": "U.O.E.N.O.",
+    "duration": 320,
+    "createdAt": "2017-08-21T06:20:39.487Z",
+    "updatedAt": "2017-08-21T06:20:39.487Z"
+  },
+  "478": {
+    "id": 478,
+    "albumId": 157,
+    "artistId": 4,
+    "title": "Money Trees",
+    "duration": 395,
+    "createdAt": "2017-08-21T06:20:39.493Z",
+    "updatedAt": "2017-08-21T06:20:39.493Z"
+  },
+  "479": {
+    "id": 479,
+    "albumId": 158,
+    "artistId": 4,
+    "title": "Classic Man (Remix)",
+    "duration": 235,
+    "createdAt": "2017-08-21T06:20:39.499Z",
+    "updatedAt": "2017-08-21T06:20:39.499Z"
+  },
+  "480": {
+    "id": 480,
+    "albumId": 159,
+    "artistId": 4,
+    "title": "How Many Drinks?",
+    "duration": 270,
+    "createdAt": "2017-08-21T06:20:39.504Z",
+    "updatedAt": "2017-08-21T06:20:39.504Z"
+  },
+  "481": {
+    "id": 481,
+    "albumId": 160,
+    "artistId": 4,
+    "title": "Stay Ready (What A Life)",
+    "duration": 382,
+    "createdAt": "2017-08-21T06:20:39.523Z",
+    "updatedAt": "2017-08-21T06:20:39.523Z"
+  },
+  "482": {
+    "id": 482,
+    "albumId": 161,
+    "artistId": 4,
+    "title": "HUMBLE.",
+    "duration": 177,
+    "createdAt": "2017-08-21T06:20:39.530Z",
+    "updatedAt": "2017-08-21T06:20:39.530Z"
+  },
+  "483": {
+    "id": 483,
+    "albumId": 161,
+    "artistId": 4,
+    "title": "Perfect Pint",
+    "duration": 241,
+    "createdAt": "2017-08-21T06:20:39.537Z",
+    "updatedAt": "2017-08-21T06:20:39.537Z"
+  },
+  "484": {
+    "id": 484,
+    "albumId": 162,
+    "artistId": 4,
+    "title": "Mask Off (Remix)",
+    "duration": 258,
+    "createdAt": "2017-08-21T06:20:39.544Z",
+    "updatedAt": "2017-08-21T06:20:39.544Z"
+  },
+  "485": {
+    "id": 485,
+    "albumId": 163,
+    "artistId": 4,
+    "title": "Love Game",
+    "duration": 296,
+    "createdAt": "2017-08-21T06:20:39.548Z",
+    "updatedAt": "2017-08-21T06:20:39.548Z"
+  },
+  "486": {
+    "id": 486,
+    "albumId": 164,
+    "artistId": 4,
+    "title": "untitled 07 levitate",
+    "duration": 146,
+    "createdAt": "2017-08-21T06:20:39.553Z",
+    "updatedAt": "2017-08-21T06:20:39.553Z"
+  },
+  "487": {
+    "id": 487,
+    "albumId": 165,
+    "artistId": 4,
+    "title": "We Up (Album Version Explicit)",
+    "duration": 198,
+    "createdAt": "2017-08-21T06:20:39.564Z",
+    "updatedAt": "2017-08-21T06:20:39.564Z"
+  },
+  "488": {
+    "id": 488,
+    "albumId": 166,
+    "artistId": 4,
+    "title": "Holy Key",
+    "duration": 281,
+    "createdAt": "2017-08-21T06:20:39.570Z",
+    "updatedAt": "2017-08-21T06:20:39.570Z"
+  },
+  "489": {
+    "id": 489,
+    "albumId": 167,
+    "artistId": 4,
+    "title": "The Greatest (KDA Remix)",
+    "duration": 221,
+    "createdAt": "2017-08-21T06:20:39.585Z",
+    "updatedAt": "2017-08-21T06:20:39.585Z"
+  },
+  "490": {
+    "id": 490,
+    "albumId": 168,
+    "artistId": 4,
+    "title": "untitled 03 05.28.2013.",
+    "duration": 154,
+    "createdAt": "2017-08-21T06:20:39.590Z",
+    "updatedAt": "2017-08-21T06:20:39.590Z"
+  },
+  "491": {
+    "id": 491,
+    "albumId": 168,
+    "artistId": 4,
+    "title": "untitled 02 06.23.2014.",
+    "duration": 258,
+    "createdAt": "2017-08-21T06:20:39.595Z",
+    "updatedAt": "2017-08-21T06:20:39.595Z"
+  },
+  "492": {
+    "id": 492,
+    "albumId": 168,
+    "artistId": 4,
+    "title": "untitled 07 2014 - 2016",
+    "duration": 496,
+    "createdAt": "2017-08-21T06:20:39.603Z",
+    "updatedAt": "2017-08-21T06:20:39.603Z"
+  },
+  "493": {
+    "id": 493,
+    "albumId": 169,
+    "artistId": 4,
+    "title": "Give It 2 U",
+    "duration": 229,
+    "createdAt": "2017-08-21T06:20:39.613Z",
+    "updatedAt": "2017-08-21T06:20:39.613Z"
+  },
+  "494": {
+    "id": 494,
+    "albumId": 170,
+    "artistId": 4,
+    "title": "Collard Greens",
+    "duration": 301,
+    "createdAt": "2017-08-21T06:20:39.620Z",
+    "updatedAt": "2017-08-21T06:20:39.620Z"
+  },
+  "495": {
+    "id": 495,
+    "albumId": 171,
+    "artistId": 4,
+    "title": "LA (feat. Kendrick Lamar, Brandy & James Fauntleroy)",
+    "duration": 307,
+    "createdAt": "2017-08-21T06:20:39.636Z",
+    "updatedAt": "2017-08-21T06:20:39.636Z"
+  },
+  "496": {
+    "id": 496,
+    "albumId": 172,
+    "artistId": 4,
+    "title": "Alright (Without Skits)",
+    "duration": 194,
+    "createdAt": "2017-08-21T06:20:39.640Z",
+    "updatedAt": "2017-08-21T06:20:39.640Z"
+  },
+  "497": {
+    "id": 497,
+    "albumId": 173,
+    "artistId": 4,
+    "title": "Illuminate (feat. Kendrick Lamar)",
+    "duration": 306,
+    "createdAt": "2017-08-21T06:20:39.647Z",
+    "updatedAt": "2017-08-21T06:20:39.647Z"
+  },
+  "498": {
+    "id": 498,
+    "albumId": 174,
+    "artistId": 4,
+    "title": "Forbidden Fruit",
+    "duration": 268,
+    "createdAt": "2017-08-21T06:20:39.652Z",
+    "updatedAt": "2017-08-21T06:20:39.652Z"
+  },
+  "499": {
+    "id": 499,
+    "albumId": 175,
+    "artistId": 4,
+    "title": "On Me (feat. Kendrick Lamar)",
+    "duration": 286,
+    "createdAt": "2017-08-21T06:20:39.660Z",
+    "updatedAt": "2017-08-21T06:20:39.660Z"
+  },
+  "500": {
+    "id": 500,
+    "albumId": 176,
+    "artistId": 4,
+    "title": "Walk On By",
+    "duration": 199,
+    "createdAt": "2017-08-21T06:20:39.666Z",
+    "updatedAt": "2017-08-21T06:20:39.666Z"
+  },
+  "501": {
+    "id": 501,
+    "albumId": 177,
+    "artistId": 5,
+    "title": "Nothing Else Matters",
+    "duration": 388,
+    "createdAt": "2017-08-21T06:20:39.676Z",
+    "updatedAt": "2017-08-21T06:20:39.676Z"
+  },
+  "502": {
+    "id": 502,
+    "albumId": 177,
+    "artistId": 5,
+    "title": "Enter Sandman",
+    "duration": 331,
+    "createdAt": "2017-08-21T06:20:39.689Z",
+    "updatedAt": "2017-08-21T06:20:39.689Z"
+  },
+  "503": {
+    "id": 503,
+    "albumId": 177,
+    "artistId": 5,
+    "title": "The Unforgiven",
+    "duration": 386,
+    "createdAt": "2017-08-21T06:20:39.694Z",
+    "updatedAt": "2017-08-21T06:20:39.694Z"
+  },
+  "504": {
+    "id": 504,
+    "albumId": 177,
+    "artistId": 5,
+    "title": "Sad But True",
+    "duration": 323,
+    "createdAt": "2017-08-21T06:20:39.699Z",
+    "updatedAt": "2017-08-21T06:20:39.699Z"
+  },
+  "505": {
+    "id": 505,
+    "albumId": 177,
+    "artistId": 5,
+    "title": "Wherever I May Roam",
+    "duration": 403,
+    "createdAt": "2017-08-21T06:20:39.704Z",
+    "updatedAt": "2017-08-21T06:20:39.704Z"
+  },
+  "506": {
+    "id": 506,
+    "albumId": 177,
+    "artistId": 5,
+    "title": "Of Wolf And Man",
+    "duration": 256,
+    "createdAt": "2017-08-21T06:20:39.709Z",
+    "updatedAt": "2017-08-21T06:20:39.709Z"
+  },
+  "507": {
+    "id": 507,
+    "albumId": 177,
+    "artistId": 5,
+    "title": "Holier Than Thou",
+    "duration": 227,
+    "createdAt": "2017-08-21T06:20:39.721Z",
+    "updatedAt": "2017-08-21T06:20:39.721Z"
+  },
+  "508": {
+    "id": 508,
+    "albumId": 177,
+    "artistId": 5,
+    "title": "Through The Never",
+    "duration": 242,
+    "createdAt": "2017-08-21T06:20:39.734Z",
+    "updatedAt": "2017-08-21T06:20:39.734Z"
+  },
+  "509": {
+    "id": 509,
+    "albumId": 177,
+    "artistId": 5,
+    "title": "Don't Tread On Me",
+    "duration": 240,
+    "createdAt": "2017-08-21T06:20:39.740Z",
+    "updatedAt": "2017-08-21T06:20:39.740Z"
+  },
+  "510": {
+    "id": 510,
+    "albumId": 177,
+    "artistId": 5,
+    "title": "My Friend Of Misery",
+    "duration": 407,
+    "createdAt": "2017-08-21T06:20:39.745Z",
+    "updatedAt": "2017-08-21T06:20:39.745Z"
+  },
+  "511": {
+    "id": 511,
+    "albumId": 177,
+    "artistId": 5,
+    "title": "The God That Failed",
+    "duration": 308,
+    "createdAt": "2017-08-21T06:20:39.749Z",
+    "updatedAt": "2017-08-21T06:20:39.749Z"
+  },
+  "512": {
+    "id": 512,
+    "albumId": 177,
+    "artistId": 5,
+    "title": "The Struggle Within",
+    "duration": 233,
+    "createdAt": "2017-08-21T06:20:39.757Z",
+    "updatedAt": "2017-08-21T06:20:39.757Z"
+  },
+  "513": {
+    "id": 513,
+    "albumId": 178,
+    "artistId": 5,
+    "title": "Whiskey In The Jar",
+    "duration": 304,
+    "createdAt": "2017-08-21T06:20:39.769Z",
+    "updatedAt": "2017-08-21T06:20:39.769Z"
+  },
+  "514": {
+    "id": 514,
+    "albumId": 178,
+    "artistId": 5,
+    "title": "Turn The Page",
+    "duration": 366,
+    "createdAt": "2017-08-21T06:20:39.781Z",
+    "updatedAt": "2017-08-21T06:20:39.781Z"
+  },
+  "515": {
+    "id": 515,
+    "albumId": 178,
+    "artistId": 5,
+    "title": "The Wait",
+    "duration": 295,
+    "createdAt": "2017-08-21T06:20:39.787Z",
+    "updatedAt": "2017-08-21T06:20:39.787Z"
+  },
+  "516": {
+    "id": 516,
+    "albumId": 178,
+    "artistId": 5,
+    "title": "Die, Die My Darling",
+    "duration": 146,
+    "createdAt": "2017-08-21T06:20:39.794Z",
+    "updatedAt": "2017-08-21T06:20:39.794Z"
+  },
+  "517": {
+    "id": 517,
+    "albumId": 178,
+    "artistId": 5,
+    "title": "Astronomy",
+    "duration": 397,
+    "createdAt": "2017-08-21T06:20:39.799Z",
+    "updatedAt": "2017-08-21T06:20:39.799Z"
+  },
+  "518": {
+    "id": 518,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "Hardwired",
+    "duration": 189,
+    "createdAt": "2017-08-21T06:20:39.805Z",
+    "updatedAt": "2017-08-21T06:20:39.805Z"
+  },
+  "519": {
+    "id": 519,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "Now That We’re Dead",
+    "duration": 419,
+    "createdAt": "2017-08-21T06:20:39.822Z",
+    "updatedAt": "2017-08-21T06:20:39.822Z"
+  },
+  "520": {
+    "id": 520,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "Moth Into Flame",
+    "duration": 350,
+    "createdAt": "2017-08-21T06:20:39.830Z",
+    "updatedAt": "2017-08-21T06:20:39.830Z"
+  },
+  "521": {
+    "id": 521,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "Hardwired",
+    "duration": 189,
+    "createdAt": "2017-08-21T06:20:39.838Z",
+    "updatedAt": "2017-08-21T06:20:39.838Z"
+  },
+  "522": {
+    "id": 522,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "Atlas, Rise!",
+    "duration": 388,
+    "createdAt": "2017-08-21T06:20:39.845Z",
+    "updatedAt": "2017-08-21T06:20:39.845Z"
+  },
+  "523": {
+    "id": 523,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "Now That We’re Dead",
+    "duration": 419,
+    "createdAt": "2017-08-21T06:20:39.852Z",
+    "updatedAt": "2017-08-21T06:20:39.852Z"
+  },
+  "524": {
+    "id": 524,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "Atlas, Rise!",
+    "duration": 388,
+    "createdAt": "2017-08-21T06:20:39.857Z",
+    "updatedAt": "2017-08-21T06:20:39.857Z"
+  },
+  "525": {
+    "id": 525,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "Halo On Fire",
+    "duration": 495,
+    "createdAt": "2017-08-21T06:20:39.869Z",
+    "updatedAt": "2017-08-21T06:20:39.869Z"
+  },
+  "526": {
+    "id": 526,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "Spit Out The Bone",
+    "duration": 429,
+    "createdAt": "2017-08-21T06:20:39.876Z",
+    "updatedAt": "2017-08-21T06:20:39.876Z"
+  },
+  "527": {
+    "id": 527,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "Moth Into Flame",
+    "duration": 350,
+    "createdAt": "2017-08-21T06:20:39.881Z",
+    "updatedAt": "2017-08-21T06:20:39.881Z"
+  },
+  "528": {
+    "id": 528,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "Dream No More",
+    "duration": 389,
+    "createdAt": "2017-08-21T06:20:39.890Z",
+    "updatedAt": "2017-08-21T06:20:39.890Z"
+  },
+  "529": {
+    "id": 529,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "Halo On Fire",
+    "duration": 495,
+    "createdAt": "2017-08-21T06:20:39.896Z",
+    "updatedAt": "2017-08-21T06:20:39.896Z"
+  },
+  "530": {
+    "id": 530,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "Confusion",
+    "duration": 401,
+    "createdAt": "2017-08-21T06:20:39.902Z",
+    "updatedAt": "2017-08-21T06:20:39.902Z"
+  },
+  "531": {
+    "id": 531,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "Dream No More",
+    "duration": 389,
+    "createdAt": "2017-08-21T06:20:39.914Z",
+    "updatedAt": "2017-08-21T06:20:39.914Z"
+  },
+  "532": {
+    "id": 532,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "Confusion",
+    "duration": 401,
+    "createdAt": "2017-08-21T06:20:39.921Z",
+    "updatedAt": "2017-08-21T06:20:39.921Z"
+  },
+  "533": {
+    "id": 533,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "ManUNkind",
+    "duration": 415,
+    "createdAt": "2017-08-21T06:20:39.925Z",
+    "updatedAt": "2017-08-21T06:20:39.925Z"
+  },
+  "534": {
+    "id": 534,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "Spit Out The Bone",
+    "duration": 429,
+    "createdAt": "2017-08-21T06:20:39.938Z",
+    "updatedAt": "2017-08-21T06:20:39.938Z"
+  },
+  "535": {
+    "id": 535,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "Here Comes Revenge",
+    "duration": 437,
+    "createdAt": "2017-08-21T06:20:39.944Z",
+    "updatedAt": "2017-08-21T06:20:39.944Z"
+  },
+  "536": {
+    "id": 536,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "When A Blind Man Cries",
+    "duration": 275,
+    "createdAt": "2017-08-21T06:20:39.950Z",
+    "updatedAt": "2017-08-21T06:20:39.950Z"
+  },
+  "537": {
+    "id": 537,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "Lords Of Summer",
+    "duration": 430,
+    "createdAt": "2017-08-21T06:20:39.966Z",
+    "updatedAt": "2017-08-21T06:20:39.966Z"
+  },
+  "538": {
+    "id": 538,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "Am I Savage?",
+    "duration": 389,
+    "createdAt": "2017-08-21T06:20:39.973Z",
+    "updatedAt": "2017-08-21T06:20:39.973Z"
+  },
+  "539": {
+    "id": 539,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "Am I Savage?",
+    "duration": 389,
+    "createdAt": "2017-08-21T06:20:39.978Z",
+    "updatedAt": "2017-08-21T06:20:39.978Z"
+  },
+  "540": {
+    "id": 540,
+    "albumId": 179,
+    "artistId": 5,
+    "title": "ManUNkind",
+    "duration": 415,
+    "createdAt": "2017-08-21T06:20:39.992Z",
+    "updatedAt": "2017-08-21T06:20:39.992Z"
+  },
+  "541": {
+    "id": 541,
+    "albumId": 180,
+    "artistId": 5,
+    "title": "Master Of Puppets",
+    "duration": 515,
+    "createdAt": "2017-08-21T06:20:39.998Z",
+    "updatedAt": "2017-08-21T06:20:39.998Z"
+  },
+  "542": {
+    "id": 542,
+    "albumId": 180,
+    "artistId": 5,
+    "title": "Battery",
+    "duration": 312,
+    "createdAt": "2017-08-21T06:20:40.005Z",
+    "updatedAt": "2017-08-21T06:20:40.005Z"
+  },
+  "543": {
+    "id": 543,
+    "albumId": 180,
+    "artistId": 5,
+    "title": "Welcome Home (Sanitarium)",
+    "duration": 387,
+    "createdAt": "2017-08-21T06:20:40.016Z",
+    "updatedAt": "2017-08-21T06:20:40.016Z"
+  },
+  "544": {
+    "id": 544,
+    "albumId": 180,
+    "artistId": 5,
+    "title": "The Thing That Should Not Be",
+    "duration": 396,
+    "createdAt": "2017-08-21T06:20:40.022Z",
+    "updatedAt": "2017-08-21T06:20:40.022Z"
+  },
+  "545": {
+    "id": 545,
+    "albumId": 180,
+    "artistId": 5,
+    "title": "Orion",
+    "duration": 507,
+    "createdAt": "2017-08-21T06:20:40.027Z",
+    "updatedAt": "2017-08-21T06:20:40.027Z"
+  },
+  "546": {
+    "id": 546,
+    "albumId": 180,
+    "artistId": 5,
+    "title": "Leper Messiah",
+    "duration": 340,
+    "createdAt": "2017-08-21T06:20:40.039Z",
+    "updatedAt": "2017-08-21T06:20:40.039Z"
+  },
+  "547": {
+    "id": 547,
+    "albumId": 180,
+    "artistId": 5,
+    "title": "Disposable Heroes",
+    "duration": 496,
+    "createdAt": "2017-08-21T06:20:40.046Z",
+    "updatedAt": "2017-08-21T06:20:40.046Z"
+  },
+  "548": {
+    "id": 548,
+    "albumId": 181,
+    "artistId": 5,
+    "title": "One",
+    "duration": 447,
+    "createdAt": "2017-08-21T06:20:40.053Z",
+    "updatedAt": "2017-08-21T06:20:40.053Z"
+  },
+  "549": {
+    "id": 549,
+    "albumId": 181,
+    "artistId": 5,
+    "title": "Blackened",
+    "duration": 400,
+    "createdAt": "2017-08-21T06:20:40.065Z",
+    "updatedAt": "2017-08-21T06:20:40.065Z"
+  },
+  "550": {
+    "id": 550,
+    "albumId": 181,
+    "artistId": 5,
+    "title": "...And Justice For All",
+    "duration": 586,
+    "createdAt": "2017-08-21T06:20:40.072Z",
+    "updatedAt": "2017-08-21T06:20:40.072Z"
+  },
+  "551": {
+    "id": 551,
+    "albumId": 181,
+    "artistId": 5,
+    "title": "The Shortest Straw",
+    "duration": 395,
+    "createdAt": "2017-08-21T06:20:40.078Z",
+    "updatedAt": "2017-08-21T06:20:40.078Z"
+  },
+  "552": {
+    "id": 552,
+    "albumId": 181,
+    "artistId": 5,
+    "title": "Eye Of The Beholder",
+    "duration": 390,
+    "createdAt": "2017-08-21T06:20:40.097Z",
+    "updatedAt": "2017-08-21T06:20:40.097Z"
+  },
+  "553": {
+    "id": 553,
+    "albumId": 181,
+    "artistId": 5,
+    "title": "Harvester Of Sorrow",
+    "duration": 345,
+    "createdAt": "2017-08-21T06:20:40.103Z",
+    "updatedAt": "2017-08-21T06:20:40.103Z"
+  },
+  "554": {
+    "id": 554,
+    "albumId": 182,
+    "artistId": 5,
+    "title": "For Whom The Bell Tolls (Remastered)",
+    "duration": 309,
+    "createdAt": "2017-08-21T06:20:40.111Z",
+    "updatedAt": "2017-08-21T06:20:40.111Z"
+  },
+  "555": {
+    "id": 555,
+    "albumId": 182,
+    "artistId": 5,
+    "title": "Fade To Black (Remastered)",
+    "duration": 417,
+    "createdAt": "2017-08-21T06:20:40.122Z",
+    "updatedAt": "2017-08-21T06:20:40.122Z"
+  },
+  "556": {
+    "id": 556,
+    "albumId": 182,
+    "artistId": 5,
+    "title": "Creeping Death (Remastered)",
+    "duration": 395,
+    "createdAt": "2017-08-21T06:20:40.134Z",
+    "updatedAt": "2017-08-21T06:20:40.134Z"
+  },
+  "557": {
+    "id": 557,
+    "albumId": 182,
+    "artistId": 5,
+    "title": "Ride The Lightning (Remastered)",
+    "duration": 396,
+    "createdAt": "2017-08-21T06:20:40.144Z",
+    "updatedAt": "2017-08-21T06:20:40.144Z"
+  },
+  "558": {
+    "id": 558,
+    "albumId": 182,
+    "artistId": 5,
+    "title": "Fight Fire With Fire (Remastered)",
+    "duration": 284,
+    "createdAt": "2017-08-21T06:20:40.167Z",
+    "updatedAt": "2017-08-21T06:20:40.167Z"
+  },
+  "559": {
+    "id": 559,
+    "albumId": 182,
+    "artistId": 5,
+    "title": "For Whom The Bell Tolls (Remastered)",
+    "duration": 309,
+    "createdAt": "2017-08-21T06:20:40.173Z",
+    "updatedAt": "2017-08-21T06:20:40.173Z"
+  },
+  "560": {
+    "id": 560,
+    "albumId": 183,
+    "artistId": 5,
+    "title": "St. Anger",
+    "duration": 441,
+    "createdAt": "2017-08-21T06:20:40.185Z",
+    "updatedAt": "2017-08-21T06:20:40.185Z"
+  },
+  "561": {
+    "id": 561,
+    "albumId": 183,
+    "artistId": 5,
+    "title": "Frantic",
+    "duration": 350,
+    "createdAt": "2017-08-21T06:20:40.207Z",
+    "updatedAt": "2017-08-21T06:20:40.207Z"
+  },
+  "562": {
+    "id": 562,
+    "albumId": 183,
+    "artistId": 5,
+    "title": "Some Kind Of Monster",
+    "duration": 505,
+    "createdAt": "2017-08-21T06:20:40.220Z",
+    "updatedAt": "2017-08-21T06:20:40.220Z"
+  },
+  "563": {
+    "id": 563,
+    "albumId": 184,
+    "artistId": 5,
+    "title": "The Day That Never Comes",
+    "duration": 476,
+    "createdAt": "2017-08-21T06:20:40.236Z",
+    "updatedAt": "2017-08-21T06:20:40.236Z"
+  },
+  "564": {
+    "id": 564,
+    "albumId": 184,
+    "artistId": 5,
+    "title": "All Nightmare Long",
+    "duration": 477,
+    "createdAt": "2017-08-21T06:20:40.274Z",
+    "updatedAt": "2017-08-21T06:20:40.274Z"
+  },
+  "565": {
+    "id": 565,
+    "albumId": 184,
+    "artistId": 5,
+    "title": "The Unforgiven III",
+    "duration": 466,
+    "createdAt": "2017-08-21T06:20:40.287Z",
+    "updatedAt": "2017-08-21T06:20:40.287Z"
+  },
+  "566": {
+    "id": 566,
+    "albumId": 184,
+    "artistId": 5,
+    "title": "Broken, Beat & Scarred",
+    "duration": 385,
+    "createdAt": "2017-08-21T06:20:40.298Z",
+    "updatedAt": "2017-08-21T06:20:40.298Z"
+  },
+  "567": {
+    "id": 567,
+    "albumId": 185,
+    "artistId": 5,
+    "title": "Enter Sandman",
+    "duration": 374,
+    "createdAt": "2017-08-21T06:20:40.324Z",
+    "updatedAt": "2017-08-21T06:20:40.324Z"
+  },
+  "568": {
+    "id": 568,
+    "albumId": 185,
+    "artistId": 5,
+    "title": "Paranoid",
+    "duration": 169,
+    "createdAt": "2017-08-21T06:20:40.347Z",
+    "updatedAt": "2017-08-21T06:20:40.347Z"
+  },
+  "569": {
+    "id": 569,
+    "albumId": 185,
+    "artistId": 5,
+    "title": "Turn the Page",
+    "duration": 317,
+    "createdAt": "2017-08-21T06:20:40.353Z",
+    "updatedAt": "2017-08-21T06:20:40.353Z"
+  },
+  "570": {
+    "id": 570,
+    "albumId": 186,
+    "artistId": 5,
+    "title": "Nothing Else Matters",
+    "duration": 431,
+    "createdAt": "2017-08-21T06:20:40.374Z",
+    "updatedAt": "2017-08-21T06:20:40.374Z"
+  },
+  "571": {
+    "id": 571,
+    "albumId": 187,
+    "artistId": 5,
+    "title": "The Unforgiven II",
+    "duration": 396,
+    "createdAt": "2017-08-21T06:20:40.381Z",
+    "updatedAt": "2017-08-21T06:20:40.381Z"
+  },
+  "572": {
+    "id": 572,
+    "albumId": 187,
+    "artistId": 5,
+    "title": "The Memory Remains",
+    "duration": 279,
+    "createdAt": "2017-08-21T06:20:40.389Z",
+    "updatedAt": "2017-08-21T06:20:40.389Z"
+  },
+  "573": {
+    "id": 573,
+    "albumId": 187,
+    "artistId": 5,
+    "title": "Fuel",
+    "duration": 269,
+    "createdAt": "2017-08-21T06:20:40.404Z",
+    "updatedAt": "2017-08-21T06:20:40.404Z"
+  },
+  "574": {
+    "id": 574,
+    "albumId": 187,
+    "artistId": 5,
+    "title": "Devil's Dance",
+    "duration": 318,
+    "createdAt": "2017-08-21T06:20:40.410Z",
+    "updatedAt": "2017-08-21T06:20:40.410Z"
+  },
+  "575": {
+    "id": 575,
+    "albumId": 187,
+    "artistId": 5,
+    "title": "Slither",
+    "duration": 313,
+    "createdAt": "2017-08-21T06:20:40.416Z",
+    "updatedAt": "2017-08-21T06:20:40.416Z"
+  },
+  "576": {
+    "id": 576,
+    "albumId": 187,
+    "artistId": 5,
+    "title": "Better Than You",
+    "duration": 321,
+    "createdAt": "2017-08-21T06:20:40.434Z",
+    "updatedAt": "2017-08-21T06:20:40.434Z"
+  },
+  "577": {
+    "id": 577,
+    "albumId": 188,
+    "artistId": 5,
+    "title":
+      "Nothing Else Matters (Live At Berkeley Community Theatre / April, 1999)",
+    "duration": 409,
+    "createdAt": "2017-08-21T06:20:40.441Z",
+    "updatedAt": "2017-08-21T06:20:40.441Z"
+  },
+  "578": {
+    "id": 578,
+    "albumId": 188,
+    "artistId": 5,
+    "title": "One (Live At Berkeley Community Theatre / April, 1999)",
+    "duration": 473,
+    "createdAt": "2017-08-21T06:20:40.450Z",
+    "updatedAt": "2017-08-21T06:20:40.450Z"
+  },
+  "579": {
+    "id": 579,
+    "albumId": 188,
+    "artistId": 5,
+    "title":
+      "No Leaf Clover (Live At Berkeley Community Theatre / April, 1999)",
+    "duration": 343,
+    "createdAt": "2017-08-21T06:20:40.458Z",
+    "updatedAt": "2017-08-21T06:20:40.458Z"
+  },
+  "580": {
+    "id": 580,
+    "albumId": 188,
+    "artistId": 5,
+    "title":
+      "Until It Sleeps (Live At Berkeley Community Theatre / April, 1999)",
+    "duration": 269,
+    "createdAt": "2017-08-21T06:20:40.464Z",
+    "updatedAt": "2017-08-21T06:20:40.464Z"
+  },
+  "581": {
+    "id": 581,
+    "albumId": 188,
+    "artistId": 5,
+    "title":
+      "Master Of Puppets (Live At Berkeley Community Theatre / April, 1999)",
+    "duration": 534,
+    "createdAt": "2017-08-21T06:20:40.472Z",
+    "updatedAt": "2017-08-21T06:20:40.472Z"
+  },
+  "582": {
+    "id": 582,
+    "albumId": 188,
+    "artistId": 5,
+    "title":
+      "Hero Of The Day (Live At Berkeley Community Theatre / April, 1999)",
+    "duration": 284,
+    "createdAt": "2017-08-21T06:20:40.493Z",
+    "updatedAt": "2017-08-21T06:20:40.493Z"
+  },
+  "583": {
+    "id": 583,
+    "albumId": 188,
+    "artistId": 5,
+    "title":
+      "The Call Of The Ktulu (Live At Berkeley Community Theatre / April, 1999)",
+    "duration": 574,
+    "createdAt": "2017-08-21T06:20:40.499Z",
+    "updatedAt": "2017-08-21T06:20:40.499Z"
+  },
+  "584": {
+    "id": 584,
+    "albumId": 188,
+    "artistId": 5,
+    "title": "Bleeding Me (Live At Berkeley Community Theatre / April, 1999)",
+    "duration": 541,
+    "createdAt": "2017-08-21T06:20:40.506Z",
+    "updatedAt": "2017-08-21T06:20:40.506Z"
+  },
+  "585": {
+    "id": 585,
+    "albumId": 188,
+    "artistId": 5,
+    "title":
+      "The Ecstasy Of Gold (Live At Berkeley Community Theatre / April, 1999)",
+    "duration": 152,
+    "createdAt": "2017-08-21T06:20:40.515Z",
+    "updatedAt": "2017-08-21T06:20:40.515Z"
+  },
+  "586": {
+    "id": 586,
+    "albumId": 189,
+    "artistId": 5,
+    "title": "The Four Horsemen (Remastered)",
+    "duration": 432,
+    "createdAt": "2017-08-21T06:20:40.525Z",
+    "updatedAt": "2017-08-21T06:20:40.525Z"
+  },
+  "587": {
+    "id": 587,
+    "albumId": 189,
+    "artistId": 5,
+    "title": "Seek & Destroy (Remastered)",
+    "duration": 414,
+    "createdAt": "2017-08-21T06:20:40.531Z",
+    "updatedAt": "2017-08-21T06:20:40.531Z"
+  },
+  "588": {
+    "id": 588,
+    "albumId": 189,
+    "artistId": 5,
+    "title": "Motorbreath (Remastered)",
+    "duration": 187,
+    "createdAt": "2017-08-21T06:20:40.545Z",
+    "updatedAt": "2017-08-21T06:20:40.545Z"
+  },
+  "589": {
+    "id": 589,
+    "albumId": 190,
+    "artistId": 5,
+    "title": "Hero Of The Day",
+    "duration": 261,
+    "createdAt": "2017-08-21T06:20:40.557Z",
+    "updatedAt": "2017-08-21T06:20:40.557Z"
+  },
+  "590": {
+    "id": 590,
+    "albumId": 190,
+    "artistId": 5,
+    "title": "Until It Sleeps",
+    "duration": 267,
+    "createdAt": "2017-08-21T06:20:40.563Z",
+    "updatedAt": "2017-08-21T06:20:40.563Z"
+  },
+  "591": {
+    "id": 591,
+    "albumId": 190,
+    "artistId": 5,
+    "title": "Mama Said",
+    "duration": 319,
+    "createdAt": "2017-08-21T06:20:40.574Z",
+    "updatedAt": "2017-08-21T06:20:40.574Z"
+  },
+  "592": {
+    "id": 592,
+    "albumId": 190,
+    "artistId": 5,
+    "title": "King Nothing",
+    "duration": 329,
+    "createdAt": "2017-08-21T06:20:40.581Z",
+    "updatedAt": "2017-08-21T06:20:40.581Z"
+  },
+  "593": {
+    "id": 593,
+    "albumId": 190,
+    "artistId": 5,
+    "title": "Bleeding Me",
+    "duration": 497,
+    "createdAt": "2017-08-21T06:20:40.588Z",
+    "updatedAt": "2017-08-21T06:20:40.588Z"
+  },
+  "594": {
+    "id": 594,
+    "albumId": 190,
+    "artistId": 5,
+    "title": "Ain't My Bitch",
+    "duration": 304,
+    "createdAt": "2017-08-21T06:20:40.599Z",
+    "updatedAt": "2017-08-21T06:20:40.599Z"
+  },
+  "595": {
+    "id": 595,
+    "albumId": 190,
+    "artistId": 5,
+    "title": "The House That Jack Built",
+    "duration": 398,
+    "createdAt": "2017-08-21T06:20:40.606Z",
+    "updatedAt": "2017-08-21T06:20:40.606Z"
+  },
+  "596": {
+    "id": 596,
+    "albumId": 191,
+    "artistId": 5,
+    "title": "The Unforgiven",
+    "duration": 378,
+    "createdAt": "2017-08-21T06:20:40.614Z",
+    "updatedAt": "2017-08-21T06:20:40.614Z"
+  },
+  "597": {
+    "id": 597,
+    "albumId": 192,
+    "artistId": 5,
+    "title": "I Disappear",
+    "duration": 266,
+    "createdAt": "2017-08-21T06:20:40.628Z",
+    "updatedAt": "2017-08-21T06:20:40.628Z"
+  },
+  "598": {
+    "id": 598,
+    "albumId": 193,
+    "artistId": 5,
+    "title": "The Unforgiven",
+    "duration": 323,
+    "createdAt": "2017-08-21T06:20:40.636Z",
+    "updatedAt": "2017-08-21T06:20:40.636Z"
+  },
+  "599": {
+    "id": 599,
+    "albumId": 194,
+    "artistId": 5,
+    "title": "Nothing Else Matters",
+    "duration": 391,
+    "createdAt": "2017-08-21T06:20:40.643Z",
+    "updatedAt": "2017-08-21T06:20:40.643Z"
+  },
+  "600": {
+    "id": 600,
+    "albumId": 195,
+    "artistId": 5,
+    "title": "Enter Sandman",
+    "duration": 221,
+    "createdAt": "2017-08-21T06:20:40.650Z",
+    "updatedAt": "2017-08-21T06:20:40.650Z"
+  }
+}

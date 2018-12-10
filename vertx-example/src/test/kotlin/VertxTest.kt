@@ -201,4 +201,44 @@ class VertxTest {
         assertThat(player.nowPlayingIndex).isEqualTo(0)
         assertThat(player.nowPlaying.title).isEqualTo("Trap Queen")
     }
+
+
+    @Test
+    fun `Tuners lists them`() {
+        val player: ApiAdapter.TunerData = requestRaw(HttpMethod.GET, "/tuners")
+                .map { it.toString() }
+                .doOnSuccess { println(it) }
+                .map { adapter.tunersMoshi.fromJson(it)!! }
+                .blockingGet()
+                .first()
+
+        println(player)
+
+        assertThat(player.stationIndex).isEqualTo(0)
+        assertThat(player.radioText.title).isEqualTo("Trap Queen")
+    }
+
+
+    @Test
+    fun `Tuners rpc changes the station and the track`() {
+        val method = Method(method = "select", params = mapOf("index" to 1))
+
+        val body = adapter.methodMoshi.toJson(method)
+
+        requestRaw(HttpMethod.POST, "/tuners/fm/rpc", body)
+                .map { it.toString() }
+                .doOnSuccess { println("response: $it") }
+                .map { adapter.tunerMoshi.fromJson(it)!! }
+                .blockingGet()
+
+        val player: ApiAdapter.TunerData = requestRaw(HttpMethod.GET, "/tuners/fm")
+                .map { it.toString() }
+                .doOnSuccess { println("state: $it") }
+                .map { adapter.tunerMoshi.fromJson(it)!! }
+                .blockingGet()
+
+        assertThat(player.stationIndex).isEqualTo(1)
+        assertThat(player.station.name).isEqualTo("88.9 wsnd FW")
+        assertThat(player.radioText.title).isEqualTo("Bohemian Rhapsody (Remastered 2011)")
+    }
 }

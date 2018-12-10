@@ -37,6 +37,12 @@ class RadioImpl(private val scheduler: Scheduler, audio: Audio) : Radio {
     private val list = moshi.readList(Station::class.java, "stations.json")
     private val index: BehaviorSubject<Int> = BehaviorSubject.createDefault(0)
 
+    private val trackList: List<Track> by lazy {
+        moshi.readMap(Track::class.java, "tracks.json")
+                .values
+                .toList()
+    }
+
     override fun list(): Observable<List<Station>> {
         return Observable.just(list)
     }
@@ -46,7 +52,7 @@ class RadioImpl(private val scheduler: Scheduler, audio: Audio) : Radio {
     }
 
     override fun radioText(): Observable<Track> {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+        return this.index.map { trackList[it] }
     }
 
     override fun select(index: Int): Completable = Completable.defer {

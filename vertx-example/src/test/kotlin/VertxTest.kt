@@ -1,8 +1,10 @@
 import com.squareup.moshi.Moshi
+import com.squareup.moshi.Types
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
 import de.eso.rxplayer.EntertainmentService
 import de.eso.rxplayer.Track
 import de.eso.rxplayer.vertx.*
+import io.reactivex.Observable
 import io.reactivex.Single
 import io.reactivex.schedulers.Schedulers
 import io.vertx.core.ServiceHelper
@@ -17,8 +19,11 @@ import java.net.ServerSocket
 
 
 class VertxTest {
+    val moshi: Moshi = Moshi.Builder().add(KotlinJsonAdapterFactory()).build()
     lateinit var client: HttpClient
     lateinit var adapter: ApiAdapter
+    lateinit var vertxServer: VertxServer
+
     var port: Int = 0
     @Before
     fun setup() {
@@ -33,10 +38,11 @@ class VertxTest {
                 entertainment = EntertainmentService(scheduler = Schedulers.single()),
                 moshi = Moshi.Builder().add(KotlinJsonAdapterFactory()).build()
         )
-        VertxServer(
+        vertxServer = VertxServer(
                 port = port,
                 adapter = adapter
-        ).listen()
+        )
+        vertxServer.listen()
     }
 
     fun requestRaw(method: HttpMethod, uri: String, vararg body: String): Single<Buffer> {
@@ -53,7 +59,6 @@ class VertxTest {
             request.end()
         }
     }
-
 
     @Test
     fun `Root lists resources`() {
@@ -240,5 +245,34 @@ class VertxTest {
         assertThat(player.stationIndex).isEqualTo(1)
         assertThat(player.station.name).isEqualTo("88.9 wsnd FW")
         assertThat(player.radioText.title).isEqualTo("Bohemian Rhapsody (Remastered 2011)")
+    }
+
+    fun WsRequest.toJson(): String {
+        return vertxServer.wsRequestMoshi.toJson(this)
+    }
+
+    fun <T> ws(uri: String, id: String, type: Class<T>): Observable<WsMessage<T>> {
+        val moshiAdapter = moshi.adapter<WsMessage<T>>(Types.newParameterizedType(WsMessage::class.java, type))
+        return Observable.create<Buffer> { emitter ->
+            client.websocket(
+                    port,
+                    "localhost",
+                    "/ws"
+            ) { wsConnect ->
+                wsConnect.handler { wsBuffer -> emitter.onNext(wsBuffer) }
+                wsConnect.writeTextMessage(WsRequest(uri, id, true).toJson())
+            }
+        }
+                .map { wsBuffer -> wsBuffer.getString(0, wsBuffer.length()) }
+                .map { bodyString -> moshiAdapter.fromJson(bodyString) }
+    }
+
+    @Test
+    fun `Websocket should stream`() {
+        val playerData = ws("/players/sd", "1", PlayerData::class.java)
+                .firstOrError()
+                .blockingGet()
+        assertThat(playerData.id).isEqualTo("1")
+        assertThat(playerData.payload.duration).isEqualTo(177)
     }
 }

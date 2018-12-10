@@ -213,3 +213,6 @@ data class PlayerData(
 
 data class MethodDesc(val name: String, val uri: String, val verb: String, val example: Method)
 data class Method(val method: String, val params: Map<String, Any>)
+
+data class WsMessage<T>(val id: String, val payload: T)
+data class WsRequest(val uri: String?, val id: String, val subscribe: Boolean)

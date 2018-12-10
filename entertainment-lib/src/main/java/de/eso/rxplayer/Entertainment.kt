@@ -97,6 +97,9 @@ interface Player {
 
     /** Selects a track for playback. Completable is lazy and must be subscribed. */
     fun select(index: Int): Completable
+
+    /** Name of this player for logging */
+    val name: String
 }
 
 /**
@@ -138,22 +141,22 @@ interface Speaker {
     fun observe(): Observable<SpeakerState>
 }
 
-data class Station(val name: String)
+data class Station(val name: String, val logo: String)
 
 data class Track(
         val id: Int,
         val albumId: Int,
         val artistId: Int,
         val title: String,
-        val duration: Int,
-        val createdAt: String,
-        val updatedAt: String
+        val duration: Int
+        // val createdAt: String,
+        // val updatedAt: String
 )
 
 data class Artist(
         val name: String,
-        val createdAt: String,
-        val updatedAt: String,
+        // val createdAt: String,
+        // val updatedAt: String,
         val id: Int
 )
 
@@ -165,9 +168,9 @@ data class Album(
         val coverSmall: String,
         val coverMedium: String,
         val coverBig: String,
-        val coverXl: String,
-        val createdAt: String,
-        val updatedAt: String
+        val coverXl: String
+        // val createdAt: String,
+        // val updatedAt: String
 )
 
 data class SpeakerState(

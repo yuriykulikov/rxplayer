@@ -19,8 +19,8 @@ class EntertainmentService(scheduler: Scheduler) : Entertainment {
     }
 
     override val audio: Audio = AudioImpl(scheduler)
-    override val usb: Player = PlayerImpl(scheduler, audio, Audio.Connection.USB)
-    override val cd: Player = PlayerImpl(scheduler, audio, Audio.Connection.CD)
+    override val usb: Player = PlayerImpl(scheduler, audio, Audio.Connection.USB, "usb")
+    override val cd: Player = PlayerImpl(scheduler, audio, Audio.Connection.CD, "sd")
     override val fm: Radio = RadioImpl(scheduler, audio)
     override val speaker: Speaker = SpeakerImpl(audio, usb, cd, fm)
     override val browser: Browser = BrowserImpl(scheduler)
@@ -33,21 +33,26 @@ class SpeakerImpl(audio: Audio, usb: Player, cd: Player, fm: Radio) : Speaker {
 }
 
 class RadioImpl(private val scheduler: Scheduler, audio: Audio) : Radio {
+    private val moshi: Moshi = Moshi.Builder().add(KotlinJsonAdapterFactory()).build()
+    private val list = moshi.readList(Station::class.java, "stations.json")
+    private val index: BehaviorSubject<Int> = BehaviorSubject.createDefault(0)
+
     override fun list(): Observable<List<Station>> {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+        return Observable.just(list)
     }
 
     override fun nowPlaying(): Observable<Int> {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+        return index.observeOn(scheduler)
     }
 
     override fun radioText(): Observable<Track> {
         TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 
-    override fun select(index: Int): Completable {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
-    }
+    override fun select(index: Int): Completable = Completable.defer {
+        this.index.onNext(index)
+        Completable.complete()
+    }.subscribeOn(scheduler)
 }
 
 class PlayerImpl(
@@ -56,6 +61,8 @@ class PlayerImpl(
         /** Used to check if we can actually stream */
         private val audio: Audio,
         private val connection: Audio.Connection,
+        override val name: String,
+        private val checkAudio: Boolean = false,
         private val moshi: Moshi = Moshi.Builder().add(KotlinJsonAdapterFactory()).build(),
         /** delays emissions by this time in milliseconds */
         private val delay: Long = 500
@@ -63,9 +70,10 @@ class PlayerImpl(
     private val activeTrackIndex: BehaviorSubject<Int> = BehaviorSubject.createDefault(0)
     private val isPlaying: BehaviorSubject<Boolean> = BehaviorSubject.createDefault(false)
     private val trackList: List<Track> by lazy {
-        moshi.readMap(Track::class.java, "tracks.json")
+        val allTracks = moshi.readMap(Track::class.java, "tracks.json")
                 .values
                 .toList()
+        if (name == "sd") allTracks.subList(400, 450) else allTracks
     }
 
     override fun nowPlaying(): Observable<Int> {
@@ -85,9 +93,9 @@ class PlayerImpl(
                 .firstOrError()
                 .flatMapCompletable { audioState ->
                     when {
-                        isPlaying.value == true -> Completable.error(IllegalStateException("[PlayerImpl.play] Can't resume because already playing"))
+                        checkAudio && isPlaying.value == true -> Completable.error(IllegalStateException("[PlayerImpl.play] Can't resume because already playing"))
                         // developer has screwed up: audio connection was not started and we cannot stream
-                        audioState != Audio.AudioState.STARTED -> Completable.error(IllegalStateException("[PlayerImpl.play] Can't steam because $connection is $audioState"))
+                        checkAudio && audioState != Audio.AudioState.STARTED -> Completable.error(IllegalStateException("[PlayerImpl.play] Can't steam because $connection is $audioState"))
                         // everything fine, we can stream, so let's resume playback after "loading"
                         else -> scheduler.timer(delay) { isPlaying.onNext(true) }
                     }
@@ -232,6 +240,20 @@ fun <T> Moshi.readMap(type: Class<T>, resource: String): Map<String, T> {
             .fromJson(this.javaClass.classLoader.getResource(resource).readText())
             ?: emptyMap()
 }
+
+/**
+ * Read the resource and parse the content into a list.
+ */
+fun <T> Moshi.readList(type: Class<T>, resource: String): List<T> {
+    val listType = Types.newParameterizedType(
+            List::class.java,
+            type
+    )
+    return this.adapter<List<T>>(listType)
+            .fromJson(this.javaClass.classLoader.getResource(resource).readText())
+            ?: emptyList()
+}
+
 
 private fun Scheduler.timer(delay: Long = 500, action: () -> Unit): Completable {
     return Completable

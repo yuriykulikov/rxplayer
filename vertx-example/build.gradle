@@ -9,9 +9,15 @@ repositories {
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
-    implementation 'yuriykulikov.rxplayer:entertainment-lib:1.0.1'
+    // implementation 'yuriykulikov.rxplayer:entertainment-lib:1.0.1'
+    implementation project(":entertainment-lib")
     implementation 'io.vertx:vertx-core:3.5.0'
     implementation 'io.vertx:vertx-web-client:3.5.0'
+    implementation 'io.reactivex.rxjava2:rxkotlin:2.3.0'
+
+    testImplementation 'net.wuerl.kotlin:assertj-core-kotlin:0.1.1'
+    testImplementation 'junit:junit:4.12'
+    testImplementation 'org.mockito:mockito-core:2.8.47'
 }
 
 jacocoTestReport {

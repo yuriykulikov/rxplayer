@@ -26,9 +26,10 @@ class VertxServer(private val port: Int, private val adapter: ApiAdapter) {
                             .subscribe({ json: String ->
                                 request
                                         .response()
-                                        .setStatusCode(400)
+                                        .setStatusCode(200)
                                         .setStatusMessage("OK")
                                         .putHeader("content-type", "application/json; charset=utf-8")
+                                        .putHeader("Access-Control-Allow-Origin", "*")
                                         .end(json)
                             }, { error ->
                                 request

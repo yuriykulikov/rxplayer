@@ -1,6 +1,8 @@
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.Types
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
+import de.eso.rxplayer.Album
+import de.eso.rxplayer.Artist
 import de.eso.rxplayer.EntertainmentService
 import de.eso.rxplayer.Track
 import de.eso.rxplayer.vertx.*
@@ -66,7 +68,7 @@ class VertxTest {
                 .map { it.toString() }
                 .blockingGet()
                 .let { assertThat(it) }
-                .contains("{\"resources\": [\"/players\", \"/tuners\"] }")
+                .contains("resources", "players", "tuners", "artists", "albums")
     }
 
     @Test
@@ -245,6 +247,28 @@ class VertxTest {
         assertThat(player.stationIndex).isEqualTo(1)
         assertThat(player.station.name).isEqualTo("88.9 wsnd FW")
         assertThat(player.radioText.title).isEqualTo("Bohemian Rhapsody (Remastered 2011)")
+    }
+
+    @Test
+    fun `artists are available at artists`() {
+        val artists: List<Artist> = requestRaw(HttpMethod.GET, "/artists")
+                .map { it.toString() }
+                .map { adapter.artistsMoshi.fromJson(it)!! }
+                .blockingGet()
+
+        println(artists)
+
+        assertThat(artists).hasSize(6)
+    }
+
+    @Test
+    fun `Albums are available at albums`() {
+        val artists: List<Album> = requestRaw(HttpMethod.GET, "/albums")
+                .map { it.toString() }
+                .map { adapter.albumsMoshi.fromJson(it)!! }
+                .blockingGet()
+
+        assertThat(artists).hasSize(195)
     }
 
     fun WsRequest.toJson(): String {

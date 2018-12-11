@@ -231,6 +231,15 @@ class BrowserImpl(
                 ?.let { Single.just(it).delay(delay, TimeUnit.MILLISECONDS, scheduler) }
                 ?: Single.error(IllegalArgumentException("[BrowserImpl.albumById] id $id is not valid."))
     }
+
+    override fun allArtists(): Single<List<Artist>> {
+        return Single.fromCallable { artists.values.toList().sortedBy { it.id } }
+    }
+
+    override fun allAlbums(): Single<List<Album>> {
+        return Single.fromCallable { albums.values.toList().sortedBy { it.id } }
+    }
+
 }
 
 /**

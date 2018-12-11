@@ -20,12 +20,14 @@ class ApiAdapter(private val entertainment: Entertainment, moshi: Moshi) {
     val tunersMoshi = moshi.adapter<List<TunerData>>(Types.newParameterizedType(List::class.java, TunerData::class.java))
     val tunerMoshi = moshi.adapter<TunerData>(Types.getRawType(TunerData::class.java))
     val stationsMoshi = moshi.adapter<List<Station>>(Types.newParameterizedType(List::class.java, Station::class.java))
+    val artistsMoshi = moshi.adapter<List<Artist>>(Types.newParameterizedType(List::class.java, Artist::class.java))
+    val albumsMoshi = moshi.adapter<List<Album>>(Types.newParameterizedType(List::class.java, Album::class.java))
 
     fun flow(request: Request): Observable<String> {
         val params = request.params
         return when {
             request.uri.isEmpty() || request.uri == "/" -> {
-                Observable.just("""{"resources": ["/players", "/tuners"] }""")
+                Observable.just("""{"resources": ["/players", "/tuners", "/albums", "/artists"] }""")
             }
             request.uri == "/players" -> {
                 Observables
@@ -40,6 +42,8 @@ class ApiAdapter(private val entertainment: Entertainment, moshi: Moshi) {
             request.uri == "/players/sd/rpc" && request.method != null -> handleMethod(entertainment.cd, request.method)
             request.uri == "/players/usb/rpc" -> showMethods(entertainment.usb)
             request.uri == "/players/sd/rpc" -> showMethods(entertainment.usb)
+            request.uri == "/artists" -> entertainment.browser.allArtists().toObservable().map { artistsMoshi.toJson(it) }
+            request.uri == "/albums" -> entertainment.browser.allAlbums().toObservable().map { albumsMoshi.toJson(it) }
 
             request.uri == "/tuners" -> {
                 flowTuner(entertainment.fm)

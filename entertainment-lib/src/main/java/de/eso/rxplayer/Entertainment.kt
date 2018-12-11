@@ -131,6 +131,12 @@ interface Browser {
 
     /** Fetches the artist for the given id. Always gives the same result. Does not implement caching. */
     fun artistBy(id: Int): Single<Artist>
+
+    /** Fetches all artists */
+    fun allArtists(): Single<List<Artist>>
+
+    /** Fetches all albums */
+    fun allAlbums(): Single<List<Album>>
 }
 
 /**

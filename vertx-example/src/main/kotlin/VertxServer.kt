@@ -30,6 +30,7 @@ class VertxServer(private val port: Int, private val adapter: ApiAdapter) {
                                         .setStatusMessage("OK")
                                         .putHeader("content-type", "application/json; charset=utf-8")
                                         .putHeader("Access-Control-Allow-Origin", "*")
+                                        .putHeader("Access-Control-Allow-Headers", "content-type")
                                         .end(json)
                             }, { error ->
                                 request

@@ -9,7 +9,7 @@ class BrowserTest {
     private class AudioMock : Audio by proxy(Audio::class.java)
 
     private val scheduler = TestScheduler()
-    private val player = PlayerImpl(scheduler, AudioMock(), Audio.Connection.USB)
+    private val player = PlayerImpl(scheduler, AudioMock(), Audio.Connection.USB, "usb")
     private val browser: Browser = BrowserImpl(scheduler)
 
     @Test

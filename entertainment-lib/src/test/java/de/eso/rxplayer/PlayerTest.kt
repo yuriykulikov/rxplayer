@@ -18,7 +18,13 @@ class PlayerTest {
 
     private val scheduler = TestScheduler()
     private val audio = AudioMock()
-    private val player = PlayerImpl(scheduler, audio, Audio.Connection.USB)
+    private val player = PlayerImpl(
+            scheduler = scheduler,
+            audio = audio,
+            connection = Audio.Connection.USB,
+            name = "usb",
+            checkAudio = true
+    )
 
     @Test
     fun `tracks are available after a delay`() {

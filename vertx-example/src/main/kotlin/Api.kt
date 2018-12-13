@@ -138,7 +138,7 @@ class ApiAdapter(private val entertainment: Entertainment, moshi: Moshi) {
                             nowPlayingIndex = index,
                             duration = list[index].duration,
                             nowPlaying = list[index],
-                            methods = "/players/${player.name}/methods",
+                            rpc = "/players/${player.name}/rpc",
                             tracks = "/players/${player.name}/tracks"
                     )
                 }
@@ -211,7 +211,7 @@ data class PlayerData(
         val nowPlayingIndex: Int,
         val nowPlaying: Track,
         val duration: Int,
-        val methods: String,
+        val rpc: String,
         val tracks: String
 )
 

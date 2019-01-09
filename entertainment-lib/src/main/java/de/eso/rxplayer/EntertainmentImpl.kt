@@ -10,6 +10,7 @@ import io.reactivex.Single
 import io.reactivex.disposables.Disposable
 import io.reactivex.disposables.Disposables
 import io.reactivex.subjects.BehaviorSubject
+import java.util.*
 import java.util.concurrent.TimeUnit
 
 
@@ -34,8 +35,10 @@ class SpeakerImpl(audio: Audio, usb: Player, cd: Player, fm: Radio) : Speaker {
 
 class RadioImpl(private val scheduler: Scheduler, audio: Audio) : Radio {
     private val moshi: Moshi = Moshi.Builder().add(KotlinJsonAdapterFactory()).build()
-    private val list = moshi.readList(Station::class.java, "stations.json")
-    private val index: BehaviorSubject<Int> = BehaviorSubject.createDefault(0)
+    private val stations = moshi.readList(Station::class.java, "stations.json")
+    private val currentStationIndex: BehaviorSubject<Int> = BehaviorSubject.createDefault(0)
+
+    private val currentTrack: Observable<Track>
 
     private val trackList: List<Track> by lazy {
         moshi.readMap(Track::class.java, "tracks.json")
@@ -43,20 +46,34 @@ class RadioImpl(private val scheduler: Scheduler, audio: Audio) : Radio {
                 .toList()
     }
 
+    init {
+        val random = Random()
+        currentTrack = this.currentStationIndex.switchMap {
+            Observable.interval(0, 10, TimeUnit.SECONDS, scheduler)
+                    .map {
+                        val nextTrackIndex = random.nextInt(trackList.size - 1)
+                        trackList[nextTrackIndex]
+                    }
+        }
+                .replay(1)
+                .autoConnect(-1)
+
+    }
+
     override fun list(): Observable<List<Station>> {
-        return Observable.just(list)
+        return Observable.just(stations)
     }
 
     override fun nowPlaying(): Observable<Int> {
-        return index.observeOn(scheduler)
+        return currentStationIndex.observeOn(scheduler)
     }
 
     override fun radioText(): Observable<Track> {
-        return this.index.map { trackList[it] }
+        return currentTrack
     }
 
     override fun select(index: Int): Completable = Completable.defer {
-        this.index.onNext(index)
+        this.currentStationIndex.onNext(index)
         Completable.complete()
     }.subscribeOn(scheduler)
 }

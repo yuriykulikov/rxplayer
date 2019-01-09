@@ -19,7 +19,7 @@ interface Entertainment {
     val cd: Player
     /** Radio tuner. Station can be chosen, but the track cannot be. */
     val fm: Radio
-    /** Browser for fetching artsists and albums */
+    /** Browser for fetching artists and albums */
     val browser: Browser
     /** Represents the audio system speakers. For testing and debugging purposes. */
     val speaker: Speaker

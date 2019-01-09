@@ -222,7 +222,7 @@ class VertxTest {
         println(player)
 
         assertThat(player.stationIndex).isEqualTo(0)
-        assertThat(player.radioText.title).isEqualTo("Trap Queen")
+        assertThat(player.radioText.title).isNotEmpty()
     }
 
 
@@ -246,7 +246,7 @@ class VertxTest {
 
         assertThat(player.stationIndex).isEqualTo(1)
         assertThat(player.station.name).isEqualTo("88.9 wsnd FW")
-        assertThat(player.radioText.title).isEqualTo("Bohemian Rhapsody (Remastered 2011)")
+        assertThat(player.radioText.title).isNotEmpty()
     }
 
     @Test
@@ -284,6 +284,20 @@ class VertxTest {
         assertThat(artists).hasSize(195)
     }
 
+    // TODO: test multiple values & obs$ not closed and no onError
+    // TODO: use TestScheduler instead of Schedulers#single() -> advanceTime
+    @Test
+    fun `Tuners resource returns current TunerData on subscription`() {
+        val tuners = ws("/tuners", "100500", Array<ApiAdapter.TunerData>::class.java)
+                .map { it.payload }
+                .map { it[0] }
+                .firstOrError()
+                .blockingGet()
+
+        assertThat(tuners.radioText.title).isNotEmpty()
+    }
+
+
     @Test
     fun `Single album can be queried with WS`() {
         val album = ws("/albums/1", "100500", Album::class.java)
@@ -306,7 +320,11 @@ class VertxTest {
                     "localhost",
                     "/ws"
             ) { wsConnect ->
+                wsConnect.exceptionHandler {
+                    emitter.onError(it)
+                }
                 wsConnect.handler { wsBuffer -> emitter.onNext(wsBuffer) }
+                // create subscription
                 wsConnect.writeTextMessage(WsRequest(uri, id, true).toJson())
             }
         }

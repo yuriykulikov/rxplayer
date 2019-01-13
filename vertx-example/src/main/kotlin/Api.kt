@@ -1,5 +1,6 @@
 package de.eso.rxplayer.vertx
 
+import com.squareup.moshi.JsonAdapter
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.Types
 import de.eso.rxplayer.*
@@ -11,7 +12,7 @@ import io.vertx.core.http.HttpMethod
 import io.vertx.core.http.HttpServerRequest
 
 
-class ApiAdapter(private val entertainment: Entertainment, moshi: Moshi) {
+class ApiAdapter(private val entertainment: Entertainment, private val moshi: Moshi) {
     val tracksMoshi = moshi.adapter<List<Track>>(Types.newParameterizedType(List::class.java, Track::class.java))
     val playersMoshi = moshi.adapter<List<PlayerData>>(Types.newParameterizedType(List::class.java, PlayerData::class.java))
     val playerMoshi = moshi.adapter<PlayerData>(Types.getRawType(PlayerData::class.java))
@@ -22,6 +23,14 @@ class ApiAdapter(private val entertainment: Entertainment, moshi: Moshi) {
     val stationsMoshi = moshi.adapter<List<Station>>(Types.newParameterizedType(List::class.java, Station::class.java))
     val artistsMoshi = moshi.adapter<List<Artist>>(Types.newParameterizedType(List::class.java, Artist::class.java))
     val albumsMoshi = moshi.adapter<List<Album>>(Types.newParameterizedType(List::class.java, Album::class.java))
+
+    fun <T> listAdapter(clazz: Class<T>): JsonAdapter<List<T>> {
+        return moshi.adapter<List<T>>(Types.newParameterizedType(List::class.java, clazz))
+    }
+
+    fun <T> adapter(clazz: Class<T>): JsonAdapter<T> {
+        return moshi.adapter<T>(Types.getRawType(clazz))
+    }
 
     fun flow(request: Request): Observable<String> {
         val params = request.params
@@ -42,8 +51,16 @@ class ApiAdapter(private val entertainment: Entertainment, moshi: Moshi) {
             request.uri == "/players/sd/rpc" && request.method != null -> handleMethod(entertainment.cd, request.method)
             request.uri == "/players/usb/rpc" -> showMethods(entertainment.usb)
             request.uri == "/players/sd/rpc" -> showMethods(entertainment.usb)
+
             request.uri == "/artists" -> entertainment.browser.allArtists().toObservable().map { artistsMoshi.toJson(it) }
+            request.uri.startsWith("/artists/") -> entertainment.browser.artistBy(request.uri.removePrefix("/artists/").toInt())
+                    .map { adapter(Artist::class.java).toJson(it) }
+                    .toObservable()
+
             request.uri == "/albums" -> entertainment.browser.allAlbums().toObservable().map { albumsMoshi.toJson(it) }
+            request.uri.startsWith("/albums/") -> entertainment.browser.albumById(request.uri.removePrefix("/albums/").toInt())
+                    .map { adapter(Album::class.java).toJson(it) }
+                    .toObservable()
 
             request.uri == "/tuners" -> {
                 flowTuner(entertainment.fm)

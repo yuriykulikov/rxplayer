@@ -262,6 +262,19 @@ class VertxTest {
     }
 
     @Test
+    fun `Single artist can be queried`() {
+        val artist: Artist = requestRaw(HttpMethod.GET, "/artists/1")
+                .doOnSuccess { println(it) }
+                .map { it.toString() }
+                .map { adapter.adapter(Artist::class.java).fromJson(it)!! }
+                .blockingGet()
+
+        println(artist)
+
+        assertThat(artist.id).isEqualTo(1)
+    }
+
+    @Test
     fun `Albums are available at albums`() {
         val artists: List<Album> = requestRaw(HttpMethod.GET, "/albums")
                 .map { it.toString() }
@@ -269,6 +282,16 @@ class VertxTest {
                 .blockingGet()
 
         assertThat(artists).hasSize(195)
+    }
+
+    @Test
+    fun `Single album can be queried with WS`() {
+        val album = ws("/albums/1", "100500", Album::class.java)
+                .firstOrError()
+                .blockingGet()
+                .payload
+
+        assertThat(album.name).isEqualTo("Fetty Wap")
     }
 
     fun WsRequest.toJson(): String {

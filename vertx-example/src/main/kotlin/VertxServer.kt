@@ -13,8 +13,6 @@ class VertxServer(private val port: Int, private val adapter: ApiAdapter) {
 
     val wsRequestMoshi = moshi.adapter<WsRequest>(Types.getRawType(WsRequest::class.java))
 
-    val disposable = CompositeDisposable()
-
     fun listen() {
         ServiceHelper.loadFactory(VertxFactory::class.java)
                 .vertx()
@@ -42,6 +40,7 @@ class VertxServer(private val port: Int, private val adapter: ApiAdapter) {
                             })
 
                 }.websocketHandler { webSocket ->
+                    val disposable = CompositeDisposable()
                     webSocket.frameHandler { frame ->
                         val wsMessage: WsRequest = wsRequestMoshi.fromJson(frame.textData())!!
 

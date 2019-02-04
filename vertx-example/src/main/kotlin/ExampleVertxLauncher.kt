@@ -6,7 +6,10 @@ import de.eso.rxplayer.Entertainment
 import de.eso.rxplayer.EntertainmentService
 import io.reactivex.schedulers.Schedulers
 
-object Launcher {
+/**
+ * Run this with ./gradlew vertx-example:run
+ */
+object ExampleVertxLauncher {
 
     @JvmStatic
     fun main(args: Array<String>) {
@@ -15,8 +18,14 @@ object Launcher {
 
         val entertainment: Entertainment = EntertainmentService(scheduler = Schedulers.single())
 
-        val adapter: ApiAdapter = ApiAdapter(entertainment, moshi)
+        val adapter = ExampleVertxAdapter(entertainment)
 
-        VertxServer(7780, adapter).listen()
+        VertxServer(
+                7780,
+                adapter.handlers(),
+                serializer = moshi.serializer(),
+                deserializer = moshi.deserializer()
+        ).listen()
     }
 }
+

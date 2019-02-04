@@ -14,15 +14,30 @@ import java.util.*
 import java.util.concurrent.TimeUnit
 
 
-class EntertainmentService(scheduler: Scheduler) : Entertainment {
+class EntertainmentService(scheduler: Scheduler, hardDifficulty: Boolean = true) : Entertainment {
     init {
         // TODO check that scheduler is single-threaded
     }
 
     override val audio: Audio = AudioImpl(scheduler)
-    override val usb: Player = PlayerImpl(scheduler, audio, Audio.Connection.USB, "usb")
-    override val cd: Player = PlayerImpl(scheduler, audio, Audio.Connection.CD, "sd")
-    override val fm: Radio = RadioImpl(scheduler, audio)
+    override val usb: Player = PlayerImpl(
+            scheduler = scheduler,
+            audio = audio,
+            checkAudio = hardDifficulty,
+            connection = Audio.Connection.USB,
+            name = "usb"
+    )
+    override val cd: Player = PlayerImpl(
+            scheduler = scheduler,
+            audio = audio,
+            checkAudio = hardDifficulty,
+            connection = Audio.Connection.CD,
+            name = "sd"
+    )
+    override val fm: Radio = RadioImpl(
+            scheduler = scheduler,
+            audio = audio
+    )
     override val speaker: Speaker = SpeakerImpl(audio, usb, cd, fm)
     override val browser: Browser = BrowserImpl(scheduler)
 }

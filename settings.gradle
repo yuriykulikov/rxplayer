@@ -1,2 +1,3 @@
 include ':entertainment-lib'
+include ':vertx-server'
 include ':vertx-example'

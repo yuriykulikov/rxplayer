@@ -5,37 +5,22 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [ ![Download](https://api.bintray.com/packages/yuriykulikov/rxplayer/entertainment-lib/images/download.svg) ](https://bintray.com/yuriykulikov/rxplayer/entertainment-lib/_latestVersion)
 ## Wait, what?
+This is a learning project. You can use it to learn about dependency injection, testing and RxJava.
 
-Congratulations! You have found the RxPlayer source code.
-Depending on why have you found it, there are a few options:
-```kotlin
-when {
-  you.`are a mainainter`() -> `do something useful`()
-  you.`used the library and found this project`() -> `read the docs, check out the tests or contribute`()
-  // just stumbled upon it in the Internet
-  else -> `probably this is not interesting for you, but you are welcome to use it or to contribute to it`()
-}
-```
-## Howto
-### Gradle
-```groovy
-repositories {
-    maven {
-        url "https://dl.bintray.com/yuriykulikov/rxplayer"
-    }
-}
+## Contents
+This is gradle multiproject containing:
+* entertainment-lib
+* vertx-server
+* vertx-example
 
-dependencies {
-    implementation 'yuriykulikov.rxplayer:entertainment-lib:$version'
-}
-```
-### Entertainment
-Entertainment is a facade for multiple underlying subsystems. Subsystems are interconnected.
+### entertainment-lib
+Simulates a simple audio and radio player. Create it by calling the EntertainmentService constructor.
 ```java
 // create the instance of the entertainment
 Entertainment entertainment =  new EntertainmentService(Schedulers.single());
 ```
-### Audio
+Entertainment is a facade for multiple underlying subsystems. Subsystems are interconnected. Subsystems can be accessed
+by calling corresponding methods.
 ```java
 // get the audio
 entertainment.audio()
@@ -44,7 +29,33 @@ entertainment.audio()
   // don't forget to subscribe
   .subscribe()
 ```
-### Player
-Player plays tracks if audio is available.
-### Browser
-Can be used to look up artists and albums. Watch out - it is slow, so think about caching the results.
+
+### vertx-server
+Starts a simple http and websocket server. Create it by calling the VertxServer constructor. Server itself does not
+implement any
+logic, but it can be extended by supplying request handlers. See VertxServer javadoc for details.
+
+### vertx-exampl
+This is simple example with a launcher class. You can run it by calling
+```bash
+./gradlew vertx-example:run
+```
+
+## Tasks
+Depending on how much time you want to invest, diffetent tasks can be accomplished. Here is a non-exhaustive list.
+
+### New subproject
+Create a new subproject (similar to vertx-example). Make sure to apply gradle application plugin. Start with a "Hello world"
+application.
+You will have to adjust gradle.settings for that.
+
+### Implement an adapter between entertainment-lib and vertx-server
+In your launcher, bootstrap entertainment-lib, vertx-server and an adapter, which connects both. Start small and add more
+features as you go.
+
+### Use dependency injection
+Use Dagger2 to bootstrap the application. You can get rid of the EntertainmentService and instantiate it's parts in a
+Dagger2 module.
+
+### Tests
+Create unit and medium (integration) tests for the whole application and it's parts.

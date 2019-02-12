@@ -1,0 +1,33 @@
+apply plugin: 'org.jetbrains.kotlin.jvm'
+apply plugin: 'jacoco'
+
+repositories {
+    maven {
+        url "https://dl.bintray.com/yuriykulikov/rxplayer"
+    }
+}
+
+dependencies {
+    implementation project(":entertainment-lib")
+    implementation project(":vertx-server")
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
+    implementation 'io.vertx:vertx-core:3.5.0'
+    implementation 'io.vertx:vertx-web-client:3.5.0'
+    implementation 'io.reactivex.rxjava2:rxkotlin:2.3.0'
+    implementation (group: 'com.google.code.gson', name: 'gson', version: '2.7')
+
+    testImplementation 'net.wuerl.kotlin:assertj-core-kotlin:0.1.1'
+    testImplementation 'junit:junit:4.12'
+    testImplementation 'org.mockito:mockito-core:2.8.47'
+}
+
+jacocoTestReport {
+    reports {
+        xml.enabled true
+        csv.enabled false
+        html.destination file("${buildDir}/jacocoHtml")
+    }
+}
+
+apply plugin: 'application'
+mainClassName = 'RxplayerMain'

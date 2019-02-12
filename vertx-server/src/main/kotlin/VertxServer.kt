@@ -14,9 +14,8 @@ sealed class RequestHandler(
         open val predicate: (String) -> Boolean
 ) {
     /**
-     * @param predicate used to match this handler agains the incoming URI and VERB
-     * @param payloadClass class of the expected payload object. Can be null
-     * @param handlerFunction a function which will be called if a matching request arrives
+     * @param predicate used to match this handler against the incoming URI
+     * @param handlerFunction a function which will be called if a matching request arrives, providing uri and params
      */
     data class GetHandler(
             override val predicate: (String) -> Boolean,
@@ -24,7 +23,7 @@ sealed class RequestHandler(
     ) : RequestHandler(predicate)
 
     /**
-     * @param predicate used to match this handler agains the incoming URI and VERB
+     * @param predicate used to match this handler agains the incoming URI
      * @param payloadClass class of the expected payload object. Can be null
      * @param handlerFunction a function which will be called if a matching request arrives
      */

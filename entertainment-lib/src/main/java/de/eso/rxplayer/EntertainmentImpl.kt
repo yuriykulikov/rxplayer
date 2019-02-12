@@ -14,6 +14,13 @@ import java.util.*
 import java.util.concurrent.TimeUnit
 
 
+/**
+ * Implementation of [Entertainment], facade for multiple subsystems:
+ * * [audio]
+ * * [usb]
+ * * [cd]
+ * * [fm]
+ */
 class EntertainmentService(scheduler: Scheduler, hardDifficulty: Boolean = true) : Entertainment {
     init {
         // TODO check that scheduler is single-threaded

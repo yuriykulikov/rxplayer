@@ -10,6 +10,28 @@ in a near project similar set up. This means all the data is accesses from a ext
 and passed to a java business logic which processed the request and passed the response to the client.
 You must implement the business logic.
 
+## Setup the environment
+* Install git https://git-scm.com/)
+* Install IntelliJ community edition (https://www.jetbrains.com/idea/download/)
+* Install postman (https://www.getpostman.com/)
+* Clone the git repository from the server in your working directory
+```
+git clone <Repo>
+```
+* Import the project as gradle project into IntelliJ
+
+## Git Basics 
+
+* Use always the git console to improve your knowledge 
+* Creates a branch with you changes
+```
+git branch -b [username]/[branchname]
+```
+* Pushes the branch to the repo server
+```
+git push origin [username]/[branchname]
+```
+
 ## Contents
 This is gradle multiproject containing:
 * entertainment-lib
@@ -43,11 +65,11 @@ This is simple example with a launcher class. You can run it by calling
 ```bash
 ./gradlew vertx-example:run
 ```
-To test the http interface you use postman (https://www.getpostman.com/).
+To test the http interface you use postman.
 You can access the vertx webserver on port 7780.
 
 
-## Tasks
+## Goal for the training
 Depending on how much time you want to invest, different tasks can be accomplished. 
 For a 4 day training the following tasks must be fullfilled:
 - Try to run the example project (vertex-exmaple)
